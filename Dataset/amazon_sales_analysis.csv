@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Age,Email,City,State,Country,Product_ID,Product_Name,Category,Sub_Category,Price,Quantity,Order_Date,Delivery_Date,Payment_Method,Rating
+532b3f3e,90101340,Wayne Harris,Male,20,jose55@stevenson.com,East Shawn,Georgia,USA,ab3431c6,Non-Fiction,Books,Non-Fiction Model 8,318.44,4,8/26/2024,12/30/2023,Debit Card,5
+dee15a50,d9098344,Melissa Long,Male,40,jacob94@jones.com,New Williamborough,Wyoming,USA,59bc1024,Perfume,Beauty,Perfume Model 1,47.67,4,3/5/2025,4/4/2024,Credit Card,3
+07bd779e,be9e8d15,Christine Guzman,Male,43,qstewart@ross.com,Port Devon,Nebraska,USA,d7fea14e,T-Shirt,Clothing,T-Shirt Model 8,57.54,1,1/26/2024,1/7/2025,Debit Card,1
+f52cb099,bf06c8a5,Veronica Bass,Male,61,russellstephen@santos-watts.com,South Rhondamouth,Colorado,USA,5bca2d89,T-Shirt,Clothing,T-Shirt Model 8,938.48,4,12/5/2023,6/10/2024,Debit Card,2
+8d2d3abc,850dfded,Jason Cannon,Male,44,holly52@johnson-campbell.com,Port Sarah,Colorado,USA,56ff47e7,Biography,Books,Biography Model 4,942.32,1,2/26/2025,8/26/2024,Cash on Delivery,2
+5099dfc9,744735d3,Michelle Dominguez,Male,52,bakerashley@hotmail.com,New Michelleberg,Illinois,USA,8d2ca5bc,Face Cream,Beauty,Face Cream Model 7,413.76,4,4/21/2023,5/9/2023,Credit Card,4
+fc01e1a7,c9567f43,Danielle Warren,Other,23,adamsdavid@villegas.com,West April,South Carolina,USA,49d64d94,Shoes,Clothing,Shoes Model 6,716.49,2,10/16/2024,5/7/2024,Net Banking,1
+23051fa8,2e2d6989,Felicia Vaughn,Other,56,melissawashington@yahoo.com,Frankshire,New Mexico,USA,e2d94ddf,Blender,Home & Kitchen,Blender Model 7,470.79,1,12/6/2023,5/18/2023,Cash on Delivery,4
+25fe645f,8635d9ce,Michelle Wells,Male,65,zmoreno@hotmail.com,North Jason,New Jersey,USA,d3a7aee6,Jeans,Clothing,Jeans Model 5,856.32,3,10/9/2024,6/26/2023,Cash on Delivery,5
+402f4077,4e272219,Sean West,Female,64,sheiladaniels@hotmail.com,Khanland,Utah,USA,68de836d,Laptop,Electronics,Laptop Model 1,240.84,1,6/13/2024,8/23/2024,Credit Card,3
+5e2aad95,db656ac8,Kathleen Cruz,Female,65,douglastaylor@hotmail.com,Aimeeshire,Arkansas,USA,7ccceaf6,Body Lotion,Beauty,Body Lotion Model 9,211.11,4,8/28/2024,3/5/2025,UPI,4
+6b2c566f,ee9a4532,Gary Cowan,Other,19,pbright@wagner.com,East Tiffany,Missouri,USA,4a10acf1,Non-Fiction,Books,Non-Fiction Model 7,45.47,3,1/28/2024,4/13/2023,Debit Card,3
+3c13f8e7,f22e42bf,Angela May,Other,53,rmartin@yahoo.com,Port Evelyn,Arizona,USA,44878a1f,Microwave,Home & Kitchen,Microwave Model 1,904.48,1,9/6/2023,5/16/2024,Credit Card,2
+49cf5e3a,7880ee8b,Matthew Lin,Other,44,angela29@yahoo.com,Kathleenville,Kentucky,USA,41e9e461,Toaster,Home & Kitchen,Toaster Model 10,490.15,4,10/3/2023,7/14/2023,Debit Card,3
+eb3d5bf0,342341c1,Tony Bush,Male,44,gregorybrown@foley.com,Davidland,Maryland,USA,6a966623,Microwave,Home & Kitchen,Microwave Model 8,452.45,2,3/2/2024,5/27/2023,Credit Card,5
+7c29d4f9,2dbb2113,George Turner,Male,47,mjennings@hotmail.com,New Randall,Wyoming,USA,6221cad5,Lipstick,Beauty,Lipstick Model 4,326.15,5,10/16/2024,2/17/2025,Net Banking,3
+1907a3ca,041d177c,Christopher Wilson,Male,29,thompsonchristine@smith-dennis.com,Amandatown,Hawaii,USA,754651ce,Headphones,Electronics,Headphones Model 7,701.16,1,7/2/2023,11/4/2024,Credit Card,5
+a8ace48d,63a9af30,Brian Travis,Other,45,thomas38@yahoo.com,New Michaelside,Maryland,USA,c0cb9ab6,Laptop,Electronics,Laptop Model 2,319.55,4,10/13/2024,1/5/2025,Net Banking,1
+d1b85c41,9961fe0d,Ashley Moore,Female,63,millscurtis@sherman.net,Lake Michael,Utah,USA,b7893733,Fiction,Books,Fiction Model 6,726.63,2,7/10/2023,8/24/2023,Net Banking,5
+98e1a2ad,53f29ede,Linda Short,Other,25,craig59@gmail.com,Davidburgh,New Jersey,USA,2b47a9b0,Smartphone,Electronics,Smartphone Model 2,741.36,2,4/30/2023,1/16/2025,UPI,3
+5f00a221,4fb1a872,Christopher Middleton,Other,37,imiller@bird-butler.com,Lisaburgh,Oklahoma,USA,e4e30d18,Educational,Books,Educational Model 6,21.89,2,2/21/2025,6/2/2023,Credit Card,4
+8b92c427,ed5e60af,Laura Smith,Male,65,zwilliams@gmail.com,East Frank,Nebraska,USA,2f99a6e4,Shoes,Clothing,Shoes Model 2,109.38,2,11/24/2023,9/22/2024,Credit Card,1
+f333e4b7,d4878af2,Michael Harper,Other,63,molinajoel@hernandez.net,Bensonview,Pennsylvania,USA,26c133ec,Biography,Books,Biography Model 5,524.44,5,10/2/2024,6/3/2023,UPI,3
+7461271a,7df60944,Andrew Morrow,Female,40,gabriela25@patel.com,East Ralphville,Wyoming,USA,cf04350c,Perfume,Beauty,Perfume Model 7,994.78,3,10/7/2023,11/26/2024,Credit Card,5
+6a8728fc,f34ff913,Rebecca Rowland,Other,43,penapaul@wright-green.info,New Molly,Arizona,USA,4b9832db,Shoes,Clothing,Shoes Model 2,148.32,5,1/1/2025,8/13/2024,Debit Card,2
+d2c395a1,1b1214bf,Amanda Sanders,Male,20,sarah72@watkins.com,Port Davidland,Kentucky,USA,958ab923,Biography,Books,Biography Model 1,666.74,3,6/3/2023,12/27/2023,Debit Card,1
+c767d2e1,710cf41f,Edward Shaffer,Male,63,russellelizabeth@hotmail.com,Port Kyleport,West Virginia,USA,bb5f405f,Jeans,Clothing,Jeans Model 2,666.52,2,6/5/2023,11/29/2024,Cash on Delivery,4
+2272ee64,ecb1c04a,Elizabeth Haynes,Other,37,michael69@gmail.com,Ambermouth,Alaska,USA,568eab18,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 5,738.59,3,9/21/2024,11/12/2024,Net Banking,4
+d13b3a8b,40a003bb,Dr. Marcus Rios,Male,56,simmonstimothy@armstrong.com,South Angelachester,Massachusetts,USA,59006678,Toaster,Home & Kitchen,Toaster Model 5,593.85,3,4/15/2023,12/6/2024,Debit Card,5
+df75e1a4,94b19639,Diane Blevins,Male,47,fallen@wilson.info,Samuelport,North Dakota,USA,8656f3fe,Toaster,Home & Kitchen,Toaster Model 10,342.23,3,8/24/2024,1/24/2024,Net Banking,1
+b3f6fcbf,2ef393a4,Melvin Johnson,Other,38,michellehughes@hotmail.com,Jacobland,Mississippi,USA,4edf1b7d,Fiction,Books,Fiction Model 9,730.1,5,8/28/2024,5/29/2024,Cash on Delivery,1
+9943fe0d,47fbd420,Suzanne Thompson,Male,46,jacqueline97@parrish.com,East Lauramouth,New Jersey,USA,150e5c8a,Smartwatch,Electronics,Smartwatch Model 1,482.09,4,2/23/2025,9/5/2023,UPI,5
+376s535d,3835aef0,Dustin Harrison,Female,47,jeffrey14@yahoo.com,South Lisa,Vermont,USA,e2de703d,Laptop,Electronics,Laptop Model 7,483.79,4,1/11/2024,9/2/2023,Debit Card,3
+c068a272,dc1affb8,Kevin Coleman,Male,41,james09@hotmail.com,Port Michael,Illinois,USA,6b2dbf21,T-Shirt,Clothing,T-Shirt Model 2,373.21,1,10/1/2024,3/5/2025,Debit Card,5
+1b73ada7,adc2d6eb,Mr. Justin Torres Jr.,Other,23,simmonsamber@charles-martin.org,Gregorymouth,Pennsylvania,USA,08c8a708,Microwave,Home & Kitchen,Microwave Model 9,336.57,1,4/15/2023,12/13/2023,UPI,5
+e8734d9d,957d6644,Stephanie Webster,Male,52,stephenmoyer@hotmail.com,Port Christopher,Mississippi,USA,8dc1e9c7,Biography,Books,Biography Model 10,757.34,1,1/31/2025,1/26/2025,Cash on Delivery,5
+d7ba899b,00833ed9,Tiffany Brown,Male,59,lindsey82@yahoo.com,South Steven,Texas,USA,d5460877,Smartphone,Electronics,Smartphone Model 2,477.76,4,9/25/2023,8/18/2023,Net Banking,5
+e91d65bb,c249c14e,Cassandra Barrett,Other,59,greenebrooke@yahoo.com,Garyville,North Carolina,USA,e03124bd,Non-Fiction,Books,Non-Fiction Model 9,870.71,2,11/1/2024,12/2/2024,Net Banking,4
+93b20484,1902ae11,Matthew Knight,Female,61,amyarmstrong@wagner.biz,North Lynnshire,Maryland,USA,92c2db38,Toaster,Home & Kitchen,Toaster Model 8,115.8,3,3/12/2025,5/31/2023,Debit Card,3
+e09c44c1,6ba970b3,Ronald Cooper,Male,50,adam78@cannon-hall.info,Kirbyfort,Rhode Island,USA,00ff7812,T-Shirt,Clothing,T-Shirt Model 8,954.77,3,7/9/2024,7/17/2023,Net Banking,5
+1dc5bce9,fbce1bfa,Brenda Khan,Male,59,jon52@page.com,Priceburgh,Colorado,USA,8bd7ea57,Tablet,Electronics,Tablet Model 1,337.52,1,3/26/2024,6/7/2023,Cash on Delivery,4
+e38b89cd,7f249478,Lisa Cox,Female,40,ycruz@carter.net,South Richard,Connecticut,USA,6433051,Coffee Maker,Home & Kitchen,Coffee Maker Model 1,625.92,2,10/12/2024,10/18/2023,UPI,4
+4e716e13,99c84d83,Joshua Krueger,Female,62,melissa45@hotmail.com,Duncanburgh,North Dakota,USA,e6e329ac,T-Shirt,Clothing,T-Shirt Model 8,631.23,5,6/1/2023,9/4/2023,Credit Card,3
+e408c749,fb38d5fe,Alexander Martin,Other,19,hbrandt@yahoo.com,West Kimberlymouth,West Virginia,USA,3cf45eef,Microwave,Home & Kitchen,Microwave Model 9,482.98,1,1/11/2025,2/5/2024,Net Banking,5
+01f572ab,c8d3a546,Abigail Vargas MD,Female,26,ryan58@gmail.com,Stewartborough,Colorado,USA,12348826,Tablet,Electronics,Tablet Model 9,145.29,2,7/26/2024,8/18/2023,UPI,3
+f5be51a5,0186bb4d,Lori Jacobson,Female,46,michael95@yahoo.com,West Markmouth,Maine,USA,0efd2cec,Fiction,Books,Fiction Model 10,236.71,1,8/10/2023,3/4/2025,Debit Card,5
+d72e91a3,9db1376c,Jared Martinez,Female,25,holmeselizabeth@gmail.com,North Kennethview,Oregon,USA,34e76abd,Biography,Books,Biography Model 4,930.18,4,6/14/2024,10/26/2023,Credit Card,1
+f6f5632b,b3cea95e,Julia Gonzalez,Male,42,leonardkelly@acevedo.com,Hooverside,Virginia,USA,0933349b,Jacket,Clothing,Jacket Model 2,711.87,1,9/18/2023,12/11/2023,Net Banking,4
+558b6a1c,7517fd0d,Melissa Adams,Other,38,davismelissa@young-reid.org,New Kennethview,Mississippi,USA,ba66c574,Fiction,Books,Fiction Model 8,225.86,3,6/21/2023,5/14/2024,Debit Card,2
+7b4b2b77,3deebec1,Ralph Sanchez,Male,52,logan71@hotmail.com,Claytonstad,New Mexico,USA,45e6173e,Blender,Home & Kitchen,Blender Model 4,641.26,3,5/16/2024,12/11/2024,Debit Card,2
+30680b10,3f09f1ba,Katherine Thomas,Male,56,eparker@yahoo.com,New Kevin,South Carolina,USA,8b7f7a2c,Perfume,Beauty,Perfume Model 9,398.38,5,8/6/2024,4/27/2023,Net Banking,4
+60f627a0,6d5c0e01,Donna Walters,Other,43,fkelley@williamson-graham.net,Sarahshire,Vermont,USA,6b76b585,Microwave,Home & Kitchen,Microwave Model 5,115.75,5,5/7/2024,1/9/2024,Credit Card,3
+865fedb8,b2fa1276,Gregory Mcgee,Female,49,sanderskylie@yahoo.com,South Hannah,Rhode Island,USA,46c33c8a,Tablet,Electronics,Tablet Model 5,332.65,5,2/7/2025,2/6/2025,Cash on Delivery,4
+4569c330,846e34d4,Diana Young,Male,34,vaughnkevin@gmail.com,Lake Amandastad,Maryland,USA,c8433b18,Shampoo,Beauty,Shampoo Model 6,511.98,2,1/10/2024,10/6/2024,Cash on Delivery,2
+1a8ccfb2,ecf0d35b,Elizabeth Higgins,Other,39,higginsjohn@gmail.com,Holmesmouth,Minnesota,USA,8d6fb119,Non-Fiction,Books,Non-Fiction Model 5,948.16,2,8/17/2024,12/2/2024,Debit Card,4
+20d22c7b,e2dfdb6f,Joe Duarte,Female,37,pdavis@gmail.com,Luisberg,Maryland,USA,59b95360,Perfume,Beauty,Perfume Model 1,487.38,1,3/31/2024,4/7/2023,Net Banking,4
+1b70a83e,b0cb9ea8,Jason Singh,Other,39,grahamjose@waters-jenkins.info,Timothyborough,Ohio,USA,9da889b4,Shoes,Clothing,Shoes Model 10,686.31,1,7/23/2024,4/12/2024,Credit Card,1
+6e67dbfa,9ce68aae,Matthew Owens,Female,32,diane15@hotmail.com,West Alexanderport,Wyoming,USA,504e38b3,Shampoo,Beauty,Shampoo Model 2,324.31,4,5/29/2024,6/30/2023,Credit Card,4
+d6a018da,4d5f8c8b,Kelly Wright,Male,32,masseykaren@kennedy.biz,Davidhaven,Colorado,USA,a8395280,Laptop,Electronics,Laptop Model 6,471.21,2,5/30/2023,10/30/2023,Debit Card,1
+fdeb88d7,1154f5b7,Brittany Peters,Male,63,nday@olson.com,North Gregoryfort,Massachusetts,USA,ffc54556,Jeans,Clothing,Jeans Model 10,310.03,5,12/24/2023,3/8/2025,Debit Card,3
+fd6c5156,3bed2466,Chad Cain,Female,65,bmorrow@cruz.biz,Gonzalezside,Massachusetts,USA,913ebeee,Tablet,Electronics,Tablet Model 10,283.34,5,12/28/2024,10/4/2023,Credit Card,3
+9fb30ef2,f06be53e,Johnathan Mcbride,Male,26,moranvanessa@sellers.com,East Alexandra,New Mexico,USA,c6d67a5d,Jacket,Clothing,Jacket Model 4,198.24,4,6/27/2024,5/15/2024,Debit Card,5
+d12967e3,05f7fd00,Stephanie Velasquez,Female,58,gregory19@rocha.com,Frostland,Tennessee,USA,fba5adb0,Laptop,Electronics,Laptop Model 1,706.87,3,11/16/2023,3/11/2025,Cash on Delivery,5
+7fdd5f8a,a7159ca3,Jack West,Male,49,kristibryan@yahoo.com,Mcdanielmouth,Alabama,USA,61617bef,Shoes,Clothing,Shoes Model 10,588.86,5,10/31/2023,8/6/2023,UPI,5
+63aa55bd,cedfcb35,Brandon Neal,Male,30,martinwilliams@yahoo.com,New Meganside,Pennsylvania,USA,45f759b6,Tablet,Electronics,Tablet Model 7,694.54,5,7/22/2023,6/9/2024,Net Banking,2
+4cd6e253,250f50b1,Jasmine Wells,Female,49,yangjohn@gmail.com,South Anthonyville,Arkansas,USA,e25e98a8,Shoes,Clothing,Shoes Model 5,511.43,2,3/5/2024,10/28/2024,UPI,4
+3f6924c5,7bbea87a,Christopher Tapia,Female,23,anneespinoza@gmail.com,West David,Mississippi,USA,740b4401,Shampoo,Beauty,Shampoo Model 8,82.69,2,12/10/2023,10/22/2023,Net Banking,5
+e8808a70,a61b24b3,Amanda Holt,Other,48,morgan39@gmail.com,Travisberg,West Virginia,USA,67f9dc18,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 10,408.32,1,3/17/2024,8/25/2024,Debit Card,2
+4be43830,790cc4c7,Daniel Walters,Female,22,kesparza@gmail.com,Port Maryville,Wyoming,USA,e49ed438,Jeans,Clothing,Jeans Model 8,550.18,4,5/10/2024,10/15/2023,Net Banking,3
+56dba58f,6000980b,Timothy Matthews,Other,53,ymckinney@barnes.com,Leeside,Nevada,USA,bcbc5713,Jeans,Clothing,Jeans Model 5,83.59,4,4/18/2024,5/20/2024,Debit Card,5
+aa1c2ec2,7eedb4f0,Justin Clark,Female,45,qharris@gmail.com,Port Jennifer,Illinois,USA,47b8db6c,Microwave,Home & Kitchen,Microwave Model 5,675.03,5,3/31/2023,3/23/2024,Credit Card,1
+5a9c9c2d,f4c15d7b,Christopher Woods,Other,30,tracy66@norris.info,Robbinsborough,Washington,USA,ce658345,Headphones,Electronics,Headphones Model 9,50.1,5,5/29/2024,5/9/2024,Cash on Delivery,3
+56795cd8,7b40000b,Laurie Sanders,Other,62,michael57@hotmail.com,East Monicaburgh,Alabama,USA,317c27ab,Non-Fiction,Books,Non-Fiction Model 8,470.88,3,1/26/2024,10/24/2023,Net Banking,3
+eb95bb12,af295660,Audrey Allen,Male,31,martinezjonathan@lewis-lindsey.info,Lake Jessica,New Jersey,USA,041e0fae,Comics,Books,Comics Model 9,151.35,2,7/8/2024,8/7/2023,Cash on Delivery,3
+9159d026,e7592b68,Anita Kelly,Female,35,rosssara@pennington-robinson.biz,East Ryan,Illinois,USA,f823ead7,Non-Fiction,Books,Non-Fiction Model 3,842.48,1,6/27/2024,11/30/2024,Credit Card,3
+aac44c5c,6767860d,Madeline Hayes,Other,28,dennis38@atkinson.biz,North Michelleside,Oregon,USA,b7b45cd3,Smartphone,Electronics,Smartphone Model 1,700.66,5,10/28/2024,10/22/2024,Net Banking,2
+33e7d3f3,353da9bc,Jennifer Thompson,Male,42,yfranklin@ross.info,South Robert,New Jersey,USA,69f6e43e,Body Lotion,Beauty,Body Lotion Model 4,591.77,1,9/23/2023,8/6/2024,Credit Card,4
+20cdba69,dbf14d8d,Steven Kent,Male,56,fsloan@hotmail.com,Josephburgh,Oklahoma,USA,795e5141,Jeans,Clothing,Jeans Model 8,522.18,3,8/2/2024,10/24/2023,Cash on Delivery,2
+66be3385,d5147da0,Carol Nelson,Female,35,antonio00@davis.com,New Michelleport,Arkansas,USA,15a620c1,Fiction,Books,Fiction Model 4,742.45,5,10/1/2023,8/26/2023,Cash on Delivery,2
+281eb16d,0a769431,Rachel Cochran,Other,50,oyoung@gmail.com,East Kimberly,Georgia,USA,3aaf1759,T-Shirt,Clothing,T-Shirt Model 10,980.96,1,5/22/2024,10/14/2024,Net Banking,1
+0848c329,13076s677,Kenneth Medina,Other,55,xowens@hotmail.com,Lake Rhondashire,Colorado,USA,5213b5af,Educational,Books,Educational Model 10,752.56,5,11/27/2023,1/6/2025,Net Banking,1
+47bc2de4,59d344ac,Melissa Mejia,Female,35,lisacuevas@yahoo.com,West Lisa,Arkansas,USA,cc34fa6b,Body Lotion,Beauty,Body Lotion Model 5,930.27,4,2/20/2025,7/8/2024,Debit Card,4
+3488d127,6ec09b22,Mr. Eric Olson,Female,47,sthomas@marquez-jackson.com,Port Stevenfurt,Wyoming,USA,0ac49491,Biography,Books,Biography Model 3,472.63,4,5/2/2023,10/17/2024,Credit Card,1
+049bba59,fc0fc89a,Seth Sanchez,Female,30,josephhaley@payne.com,Sheppardtown,New Mexico,USA,2e000feb,Toaster,Home & Kitchen,Toaster Model 1,210.92,1,1/6/2025,7/8/2024,Net Banking,2
+1eded861,1ea35ff0,Nicholas Knox,Female,53,fclay@hotmail.com,Shawburgh,Massachusetts,USA,ffb8ecba,T-Shirt,Clothing,T-Shirt Model 7,590.86,2,11/5/2024,6/19/2023,Credit Card,5
+c6ea777a,5cce73f8,Jennifer Santiago,Female,22,lsimon@mendoza-bowers.info,Sandraton,Arizona,USA,ea1b0a7d,Non-Fiction,Books,Non-Fiction Model 8,797.78,5,6/2/2024,11/15/2024,Cash on Delivery,4
+0cd33dc6,afef4b08,Jordan Mitchell,Other,31,lisa48@marquez-brown.com,New Billy,South Carolina,USA,0439f2cb,Comics,Books,Comics Model 7,878,2,1/7/2024,7/10/2024,Cash on Delivery,1
+359d1355,77ddedc3,Andrea Gray,Other,24,johnsonamanda@yahoo.com,Grahamland,Mississippi,USA,fb1a7808,Smartphone,Electronics,Smartphone Model 2,180.42,2,11/3/2024,7/3/2024,Net Banking,5
+3ed1be7b,ed6f2280,Joanne Mooney,Female,38,megan68@yahoo.com,Bradmouth,Oklahoma,USA,d26ee964,Jeans,Clothing,Jeans Model 6,782.94,4,7/6/2024,10/28/2024,Net Banking,3
+e3ed3044,e41329a3,Jeffrey Thompson,Male,38,ngates@gmail.com,New Matthew,Maryland,USA,10f82cea,Biography,Books,Biography Model 10,582.99,4,4/5/2024,11/10/2023,Net Banking,1
+9618b89a,85c1463d,Julie Carpenter,Female,57,lewismeghan@hotmail.com,Lake Linda,Utah,USA,03c8361a,Tablet,Electronics,Tablet Model 5,101.8,3,7/16/2023,6/26/2023,Cash on Delivery,2
+7760c22a,092f7d51,James Martin,Male,58,christopher15@yahoo.com,North Nicole,New York,USA,63e376ff,Microwave,Home & Kitchen,Microwave Model 1,961.53,1,2/22/2024,10/30/2023,Debit Card,4
+0cc1df55,1111afbb,Sharon Jackson,Other,45,sfrench@hotmail.com,Taylorview,Nevada,USA,30632966,Shampoo,Beauty,Shampoo Model 2,932.56,3,2/9/2025,6/15/2023,Debit Card,1
+8c11bd0f,a93e574b,Jennifer Stewart,Female,38,uweaver@hardin-ferguson.com,Danashire,Kentucky,USA,91b97fab,Fiction,Books,Fiction Model 10,821.54,3,6/11/2024,5/10/2024,Cash on Delivery,2
+0aea86d4,4b365ba3,Lisa Ramos,Female,60,zschmidt@yahoo.com,North Williamview,Oklahoma,USA,40606a37,Face Cream,Beauty,Face Cream Model 2,830.24,5,12/21/2024,2/26/2025,Debit Card,3
+d54f192c,44ab4877,Steven Owens,Male,40,lopezpatricia@hotmail.com,East Jason,Ohio,USA,8f8f9c70,Fiction,Books,Fiction Model 7,131.11,2,1/10/2025,10/17/2024,Credit Card,1
+bdd423ed,4c3656be,Jason Gibson,Female,18,valerie43@rogers.org,Campbellchester,Pennsylvania,USA,96dc1a10,Comics,Books,Comics Model 8,456.81,5,9/22/2024,11/20/2024,Cash on Delivery,4
+941b3a86,38e04972,Amanda Clark,Other,39,rthompson@peck.info,Port Kimberly,Washington,USA,7c4aa26e,Headphones,Electronics,Headphones Model 7,215.54,2,6/29/2023,1/14/2025,Net Banking,3
+6d08755b,acd83485,Nicholas Foster,Male,59,eric28@berry.biz,Lonnieshire,South Dakota,USA,71cf07d3,Smartwatch,Electronics,Smartwatch Model 9,251.86,3,5/13/2024,5/2/2023,Cash on Delivery,1
+6a7a268f,f1db958e,Misty Allen,Female,46,eatonlisa@gonzalez.com,Jasonstad,Texas,USA,9bad2c74,Jeans,Clothing,Jeans Model 7,937.37,4,7/30/2024,12/2/2024,Net Banking,4
+e5eed791,106a98bb,Nancy Perez,Female,20,owensdonna@vance.com,West Evan,New Hampshire,USA,5c41133a,Body Lotion,Beauty,Body Lotion Model 5,157.15,4,2/1/2025,6/11/2023,Debit Card,4
+0f8133e9,ae413773,Marc Rosales,Other,64,allisondiaz@erickson.com,Riverahaven,Georgia,USA,22f90856,Jacket,Clothing,Jacket Model 1,701.77,1,12/24/2024,1/3/2025,Debit Card,4
+dbb1bbb6,52bfd451,Kyle Oneal,Male,21,georgemorton@gmail.com,South Beth,Illinois,USA,0f87c177,T-Shirt,Clothing,T-Shirt Model 9,750.49,2,7/10/2024,1/2/2025,Cash on Delivery,2
+b67cdb7e,4b160bdd,Samantha Miles,Male,64,yrichards@ward.net,East Frankborough,Virginia,USA,e4649f7d,Tablet,Electronics,Tablet Model 1,751.63,4,11/2/2024,9/10/2024,Net Banking,3
+4f7b26fc,31b833fa,Amber Cox,Male,52,erikaalvarez@yahoo.com,Charlesstad,South Carolina,USA,a182858d,Face Cream,Beauty,Face Cream Model 9,151.6,5,8/5/2024,9/10/2023,Credit Card,5
+f4fefeb2,f18753bc,Joe Thomas,Male,47,zacharyferguson@yahoo.com,North Dominiquemouth,Florida,USA,78d40019,Educational,Books,Educational Model 10,599.67,2,7/12/2023,9/27/2023,Credit Card,1
+b1ee1758,678cae0d,Christina Allen,Male,18,treilly@gmail.com,Port Susan,Pennsylvania,USA,bc13ebf3,Shoes,Clothing,Shoes Model 3,937,5,6/7/2023,8/29/2023,Debit Card,1
+06c9cdd6,9dd6b006,Stacy Walters,Other,47,donaldclark@yahoo.com,South Cory,Mississippi,USA,ca277565,Jeans,Clothing,Jeans Model 3,186.38,1,4/6/2024,5/22/2023,Credit Card,1
+a825ed3f,a2f09e87,Jamie Frederick,Female,62,john42@fox-smith.com,East Mistytown,South Carolina,USA,6fb544fc,Jeans,Clothing,Jeans Model 2,312.32,1,10/10/2024,7/15/2023,Cash on Delivery,1
+70d135c2,41d58067,Melissa Myers,Male,21,kathyzimmerman@yahoo.com,Amandaside,Florida,USA,7ec0ff7a,Coffee Maker,Home & Kitchen,Coffee Maker Model 4,101.07,2,8/12/2023,9/9/2024,Debit Card,5
+6a1064f0,9cabac30,Jeff Shields,Female,19,agarcia@schmidt.org,New Mindy,Wisconsin,USA,a5bb8bbf,Lipstick,Beauty,Lipstick Model 9,598.66,5,6/24/2024,12/7/2023,UPI,3
+446sda8464,d8f7d795,Gary Wright,Female,30,lferguson@paul.com,Laurafurt,South Carolina,USA,d4280649,Smartwatch,Electronics,Smartwatch Model 7,174.23,4,7/19/2023,11/7/2024,Debit Card,2
+87d036d1,259a4785,Charles Hunt,Male,59,vanessa26@sharp.info,Smithside,Florida,USA,15500a8c,Tablet,Electronics,Tablet Model 2,219.71,2,3/12/2025,7/12/2024,Cash on Delivery,4
+6d6fdd93,ec52c91c,Carol Smith,Other,25,iwilliams@hotmail.com,North Tara,Hawaii,USA,7d105bc9,Lipstick,Beauty,Lipstick Model 10,467.66,1,9/8/2023,7/9/2024,UPI,4
+01763a15,b42e296c,Amy Warren,Male,43,roberthenderson@hotmail.com,Eddieport,Mississippi,USA,c6fe021f,Biography,Books,Biography Model 4,385.36,3,3/5/2025,11/6/2024,UPI,1
+dce795ff,681ce20e,Bradley Rocha,Other,27,pbradford@hotmail.com,Heathermouth,Indiana,USA,0a7106e6,Face Cream,Beauty,Face Cream Model 5,93.03,1,9/19/2023,12/12/2024,UPI,4
+4da837d4,aaaf4270,Taylor Ramirez,Female,39,darren53@gmail.com,Alyssaborough,Wisconsin,USA,f52447ec,Microwave,Home & Kitchen,Microwave Model 6,49.91,3,4/19/2023,6/7/2024,Debit Card,3
+41c2c187,1f13b744,Alexander Mitchell,Female,55,valenzuelamichael@rhodes.org,New Sophia,Nebraska,USA,4b1dd1ba,Tablet,Electronics,Tablet Model 10,437.21,4,7/2/2023,11/12/2023,UPI,2
+217b03fc,db09a00e,Harry Weaver,Other,37,harperthomas@cruz.com,Smithtown,South Carolina,USA,bdfc6ef5,Face Cream,Beauty,Face Cream Model 7,146.47,4,7/7/2024,10/29/2024,Net Banking,5
+b8ffcea2,af01d4cc,Glenda Good,Other,29,obrown@yahoo.com,Gravesview,Illinois,USA,3ecaf233,Laptop,Electronics,Laptop Model 7,679.62,4,8/19/2024,6/5/2023,UPI,2
+fca66ca1,0ab91790,Kyle Davies,Male,61,walter82@nelson.com,New Mollytown,South Carolina,USA,68f550b3,Jeans,Clothing,Jeans Model 10,859.89,2,9/13/2023,9/15/2023,Debit Card,5
+84652ab0,d9b8c18d,Jane Rocha,Female,40,richardtanner@hotmail.com,Emilyberg,Delaware,USA,035e2e52,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 6,527.11,2,6/2/2023,1/20/2025,Net Banking,2
+fcc89298,c97563dc,Natalie King,Female,62,falvarez@gmail.com,East Andrewfurt,Rhode Island,USA,1cdb0edf,Body Lotion,Beauty,Body Lotion Model 8,778.52,5,1/28/2025,8/4/2024,UPI,3
+aa23b02a,008a9d52,Terry Taylor,Male,27,tonyevans@yahoo.com,Stephensontown,Alabama,USA,e40fa2e7,Toaster,Home & Kitchen,Toaster Model 6,222.62,3,12/26/2024,2/16/2024,Credit Card,5
+10f71d49,747472ce,Laurie Foster,Male,65,angela35@reyes.com,West Johnport,New Hampshire,USA,5a80c8d2,Smartphone,Electronics,Smartphone Model 9,962.52,5,8/22/2023,6/14/2024,Cash on Delivery,4
+2d33673e,0a665e05,Michael Nguyen,Other,27,robertdeleon@gmail.com,New William,Florida,USA,45376ea5,Tablet,Electronics,Tablet Model 9,216.68,2,4/3/2024,1/8/2025,Cash on Delivery,1
+048e6f95,ba0fa32e,David Irwin,Other,36,hernandezgary@hill-morales.org,West Allisonshire,Colorado,USA,8e6baa4d,Non-Fiction,Books,Non-Fiction Model 7,341.65,4,10/27/2024,10/27/2023,Net Banking,5
+5fe6c357,358e522f,Christina Cunningham,Other,34,evansmicheal@gregory.net,East Joshua,Alabama,USA,d3b723a9,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 9,469.63,2,1/15/2024,9/18/2023,Credit Card,1
+ca06d3cb,f06b18b7,Stacey Ballard,Other,34,kim57@gmail.com,Shaneborough,Alaska,USA,d0559769,Biography,Books,Biography Model 4,722.12,1,7/3/2024,8/23/2023,Cash on Delivery,5
+45ccd0bc,288c8cba,David Torres MD,Other,30,huanglauren@hotmail.com,Birdmouth,Washington,USA,30fe5c6b,Smartwatch,Electronics,Smartwatch Model 10,303.37,3,5/15/2023,4/6/2024,Credit Card,5
+1c130977,2f24bda4,Richard Morrison,Male,51,rothnicholas@brown-beck.biz,West Timothy,Georgia,USA,95d74f81,Perfume,Beauty,Perfume Model 6,881.65,1,8/7/2023,7/7/2023,Credit Card,4
+7ee4e1a1,4a3be245,Natalie Mayo,Other,21,fergusonjoshua@gmail.com,Mccallshire,Pennsylvania,USA,9435efd0,Blender,Home & Kitchen,Blender Model 9,936.99,1,4/3/2023,11/20/2023,UPI,2
+e37bbc98,00b88f9d,Rachel Diaz,Female,39,ooneill@gmail.com,Bradyhaven,North Carolina,USA,d42e252e,Body Lotion,Beauty,Body Lotion Model 1,489.42,5,1/25/2025,6/4/2023,Net Banking,5
+ce148c9e,03634a21,Brittney Beltran,Other,38,crowe@gmail.com,Paulton,Texas,USA,19a6f84f,Headphones,Electronics,Headphones Model 5,961.51,5,9/12/2023,4/18/2024,UPI,5
+58698ad9,4f8a25d8,Jennifer Herrera,Other,46,mortonryan@lopez.com,Port Christopher,Iowa,USA,3d3eae8b,Coffee Maker,Home & Kitchen,Coffee Maker Model 8,62.11,3,1/30/2025,3/1/2024,Cash on Delivery,4
+3f1bf237,ef4fb82d,Carlos Rogers,Other,58,nealbrenda@gmail.com,East Jessicastad,Nebraska,USA,6fac5c3a,Blender,Home & Kitchen,Blender Model 7,753.57,2,7/16/2023,2/11/2024,UPI,3
+e21a42f6,247de0ec,Aaron Rice,Female,48,emorton@huang.com,New Paul,Kentucky,USA,ab820dc2,Face Cream,Beauty,Face Cream Model 3,267.8,2,1/1/2025,7/6/2023,UPI,4
+69cca174,1fe3cfa0,Oscar Hoffman,Female,27,thompsonashley@hotmail.com,Lindaborough,Louisiana,USA,69487d70,Shampoo,Beauty,Shampoo Model 2,501.96,1,1/30/2024,9/10/2023,Credit Card,3
+c438eab0,25529ef3,Travis Smith,Female,28,dianeduarte@anderson.com,West Katherine,Connecticut,USA,28a4d8b0,Laptop,Electronics,Laptop Model 10,47.42,5,11/4/2024,5/16/2023,Credit Card,5
+76fa027c,3f0ede85,Judith Perez,Other,29,flynnmichaela@hotmail.com,Matthewville,Nebraska,USA,2679b138,Body Lotion,Beauty,Body Lotion Model 4,455.55,2,3/16/2025,6/1/2024,Debit Card,4
+436db2a6,ff8abbe0,William Perry,Male,37,michael45@hotmail.com,Andrewhaven,Kansas,USA,3cc15910,Body Lotion,Beauty,Body Lotion Model 6,926.83,3,11/10/2023,8/20/2024,UPI,2
+f9be7e15,5c1b3c9c,Casey Nelson,Female,27,alyssa64@gmail.com,North Lisa,South Carolina,USA,8e736942,Blender,Home & Kitchen,Blender Model 4,309.15,4,11/5/2023,1/21/2025,UPI,5
+768f841d,0a0d0b4f,Russell Davis,Other,33,clarkcynthia@williams.com,Garzahaven,Massachusetts,USA,c888255f,Toaster,Home & Kitchen,Toaster Model 1,608.97,4,8/17/2024,11/6/2023,Debit Card,2
+b549a7e0,5d01db79,Dustin Whitney,Other,47,forddylan@hotmail.com,Freemanstad,Montana,USA,4df8c690,Microwave,Home & Kitchen,Microwave Model 4,465.78,4,7/16/2024,1/30/2024,Net Banking,5
+29380933,cf1bef41,Michael Haynes,Other,21,scottcooper@hotmail.com,East Margaretmouth,Mississippi,USA,16bda0d3,Shoes,Clothing,Shoes Model 1,998.14,1,8/22/2023,9/5/2023,Credit Card,2
+cf93fab7,e6e342b9,Robert Watts,Male,62,snelson@yahoo.com,Port Charles,Oklahoma,USA,2b86ff81,Jacket,Clothing,Jacket Model 8,203.7,2,2/5/2024,11/24/2023,Credit Card,4
+8832e7f5,0d6c4e99,William Richardson,Other,25,cjames@hotmail.com,Lake Anthonymouth,North Carolina,USA,92f17ca5,Tablet,Electronics,Tablet Model 8,806.02,3,3/11/2024,6/5/2023,Cash on Delivery,2
+3.61E+07,cfbff55f,Patricia Murphy,Female,36,yhall@yahoo.com,Greerburgh,Kansas,USA,3e306589,Jeans,Clothing,Jeans Model 10,714.99,4,2/20/2024,5/23/2023,Cash on Delivery,5
+500b2701,82ea29ea,Lori Mercer,Male,41,smithvictoria@hansen.com,Masonfurt,Arkansas,USA,8e628425,Headphones,Electronics,Headphones Model 8,95.97,5,1/18/2025,8/5/2024,Credit Card,3
+ce526df5,9b0a754b,Melissa Mendez,Other,62,michaelvega@yahoo.com,South Nicholas,Virginia,USA,21cef0eb,Jacket,Clothing,Jacket Model 1,783.01,2,7/3/2024,12/16/2023,Debit Card,2
+a7cb8eae,d3ea5918,Jesse Rodriguez,Male,36,harrisalexis@cole.biz,Kellerfort,Maine,USA,c3ac33d6,Fiction,Books,Fiction Model 5,531.84,5,10/12/2023,1/27/2024,Cash on Delivery,4
+f4d98d79,71c6c41c,Alicia Quinn,Female,48,jenniferhoward@gregory-lewis.com,Henrytown,Tennessee,USA,d2022cb3,Microwave,Home & Kitchen,Microwave Model 5,468.88,1,12/27/2024,4/17/2023,UPI,5
+485a3623,f9026e2d,Craig Wilkerson,Male,61,nguyenernest@griffin.org,Micheleside,Colorado,USA,fbbf6d53,Smartphone,Electronics,Smartphone Model 10,387.26,3,3/19/2024,10/22/2024,Net Banking,2
+a802b0ed,1edf7202,Ronald Burch,Other,23,jennifer95@gmail.com,West Hollyshire,Nebraska,USA,fe821dde,Smartphone,Electronics,Smartphone Model 9,908.86,3,8/21/2024,11/30/2024,UPI,2
+9ccbf5ce,23s242141s,Austin Mcdonald,Other,27,ramirezthomas@harmon-wiley.com,Lake Katie,West Virginia,USA,65e27342,Microwave,Home & Kitchen,Microwave Model 4,431.69,1,12/1/2024,9/1/2023,UPI,1
+8e3be6ab,5fe250b5,Amy Ramsey,Female,60,yjarvis@miller.com,Timothyberg,Kansas,USA,496ec94a,Smartwatch,Electronics,Smartwatch Model 10,628.03,5,8/4/2023,9/28/2023,Net Banking,5
+ef863357,cf911a68,Matthew Young,Other,56,jamesmccoy@gmail.com,South Gina,South Carolina,USA,4b6f3f63,Biography,Books,Biography Model 5,992.38,1,12/11/2024,2/26/2025,UPI,2
+0024b19c,c423c27e,Gregory Jones,Female,60,allisonlopez@yahoo.com,Larryhaven,Nevada,USA,94540582,Blender,Home & Kitchen,Blender Model 5,854.72,5,11/2/2023,9/28/2024,Credit Card,4
+52eb64d4,54232f0f,Morgan Walter,Male,54,andersonerika@conner.com,Lake Kelsey,Colorado,USA,be7f40a9,Educational,Books,Educational Model 10,885.49,4,10/20/2024,4/27/2024,UPI,3
+0961a9d9,49ac6496,Christine Williams,Male,42,marywinters@gmail.com,North Matthewview,Mississippi,USA,74d18ead,Perfume,Beauty,Perfume Model 10,466.34,3,6/28/2024,5/30/2024,Credit Card,1
+4eae70b0,47c2e7f5,Robert Stout,Other,52,jillclay@dalton.org,New Davidmouth,Illinois,USA,7d61fd55,T-Shirt,Clothing,T-Shirt Model 10,257.5,4,6/17/2023,4/11/2023,Net Banking,1
+ab65edb9,dacebcb5,Joanna Jones,Other,55,teresamccoy@gmail.com,Lake Gregory,Georgia,USA,7f94650a,Microwave,Home & Kitchen,Microwave Model 7,940.51,4,7/2/2024,3/7/2024,Debit Card,1
+01e134dd,0b5b9e65,Michael Greene,Male,38,melissamorris@reid-gordon.com,Snyderberg,Pennsylvania,USA,23588fef,Biography,Books,Biography Model 8,348.26,2,5/12/2024,11/20/2024,Debit Card,1
+612e7111,701649aa,Mitchell Foster,Female,26,pespinoza@hurley.org,Lake Laurastad,Hawaii,USA,2166b610,Jacket,Clothing,Jacket Model 5,47.23,2,6/1/2024,10/27/2024,UPI,4
+72f43b48,251c2a35,Stephanie Serrano,Other,34,kimberlydavis@hernandez.com,Jonesland,Minnesota,USA,c38e78d8,Headphones,Electronics,Headphones Model 7,356.28,3,3/27/2025,5/29/2024,Debit Card,5
+8972805,3eef4f40,Todd Mosley,Other,18,brendahunt@yahoo.com,North Travis,Arizona,USA,8baaa1a8,Shampoo,Beauty,Shampoo Model 3,587.89,2,1/20/2024,6/28/2024,Debit Card,3
+7e3ded9a,83255b1d,Eddie Lopez,Other,37,ryan28@gonzalez-mclean.net,Benjaminberg,Illinois,USA,f3f7eea3,Jacket,Clothing,Jacket Model 3,334.72,4,6/9/2024,5/23/2024,Net Banking,2
+50fc08fc,1cfd3422,Daniel Mendoza,Male,20,michaelthomas@jones-freeman.com,South Kristi,Maine,USA,6d07658f,Face Cream,Beauty,Face Cream Model 3,804.31,1,4/4/2023,3/5/2025,Cash on Delivery,3
+dee81b9a,2f06aded,Joshua Foster,Other,47,nluna@davis.com,Christopherville,New York,USA,c6248b02,Perfume,Beauty,Perfume Model 7,517.91,3,10/31/2024,10/27/2024,Debit Card,2
+c3d43e2f,577a3832,Keith Hernandez,Other,30,annroberts@yahoo.com,Carolport,Missouri,USA,b6aee189,Perfume,Beauty,Perfume Model 4,977.52,4,10/14/2023,6/5/2023,UPI,5
+4fe684b8,7c5a37c0,Craig Bailey,Other,41,danielmyers@barnes.com,Danielchester,Iowa,USA,3f545037,Toaster,Home & Kitchen,Toaster Model 7,777.62,3,11/26/2023,2/17/2024,Cash on Delivery,3
+a1b0d835,f6e8b3f1,Mary Gibbs,Other,19,xrobinson@hernandez-smith.info,Josephburgh,Iowa,USA,faa86b42,Coffee Maker,Home & Kitchen,Coffee Maker Model 7,849.27,4,7/14/2023,10/15/2023,Debit Card,3
+097b0ba1,a2b31e60,Erin Oliver,Other,31,ginavillarreal@hotmail.com,New Ericmouth,West Virginia,USA,99c5514d,Shampoo,Beauty,Shampoo Model 6,336.61,1,1/23/2024,8/4/2024,Credit Card,4
+12b3ba7e,af8f7d12,Michael Wilson,Other,20,johngrant@gmail.com,Williamschester,Oregon,USA,601cf740,Educational,Books,Educational Model 5,778.6,1,1/8/2025,5/5/2023,Credit Card,3
+ba4690c8,5de25d2b,John Mcdonald,Other,23,rchan@davis-grimes.com,Combshaven,Colorado,USA,ac0b1032,Lipstick,Beauty,Lipstick Model 1,652.68,4,5/19/2023,7/19/2023,Debit Card,5
+b8c2029d,0956ad3b,Marissa Fernandez,Other,44,evansshawn@hotmail.com,Sharonhaven,South Dakota,USA,6211219c,Laptop,Electronics,Laptop Model 1,515.17,2,9/19/2024,7/1/2023,Cash on Delivery,1
+2360658a,66d5571b,Julie Flowers,Male,26,iford@ayala.com,Hernandezburgh,Colorado,USA,787586b0,Jacket,Clothing,Jacket Model 6,421.24,3,7/14/2024,2/3/2024,Net Banking,5
+0d919c9e,54ed8e65,Eric Castro,Female,37,wesleyanderson@hotmail.com,Port Mary,Nebraska,USA,9fdb34f9,Jeans,Clothing,Jeans Model 3,80.93,2,1/13/2025,9/12/2024,UPI,2
+d9d60e67,e94c1ccf,Mary Ortega,Female,53,masseymarcia@kaiser.com,Millerberg,Wisconsin,USA,86a23fe3,Fiction,Books,Fiction Model 4,280.57,1,12/9/2023,1/15/2025,Credit Card,3
+fb6b63b1,ce1ec1d6,Jonathan Chan,Male,26,sydney90@gmail.com,Odomview,Ohio,USA,89e5b4fc,Smartwatch,Electronics,Smartwatch Model 7,415.69,3,2/23/2024,11/20/2023,UPI,5
+fd90a9c6,8281f8e2,David Stevens,Female,33,nvasquez@hotmail.com,West James,Idaho,USA,acf7f2bb,Fiction,Books,Fiction Model 10,851.74,4,12/10/2023,1/3/2024,Debit Card,3
+cc7c1e10,7eb9d96d,Jennifer Brown,Female,37,lambertmatthew@king.com,Millerbury,Indiana,USA,fc37a5b9,Shampoo,Beauty,Shampoo Model 9,155.88,4,3/15/2025,5/1/2024,UPI,2
+b4edf939,89fe98bf,Vanessa Robinson,Female,59,ycollins@delgado.org,Kelleyshire,New Mexico,USA,54f9d6b7,Shoes,Clothing,Shoes Model 4,482.31,1,8/16/2023,5/11/2024,Net Banking,5
+22281203,50805136,Richard Hatfield,Female,37,dustin72@yahoo.com,East Brookebury,Wyoming,USA,aa38b82e,Smartwatch,Electronics,Smartwatch Model 8,132.29,1,6/27/2024,4/2/2024,Net Banking,5
+ddec909c,2b95c8bf,Kelly Walton,Female,59,martinbryan@hotmail.com,Rodneyfort,Arkansas,USA,f79bc44d,Jacket,Clothing,Jacket Model 5,458.77,1,1/22/2024,11/11/2023,Debit Card,3
+04b2e262,981ff647,Kevin Pacheco,Other,22,rosemitchell@jones.com,Gonzalezchester,Oregon,USA,055d5dd8,Laptop,Electronics,Laptop Model 10,184,3,9/16/2023,5/13/2024,Cash on Delivery,1
+2bf2c1cf,02b08147,Victoria Moon,Female,25,leahryan@gmail.com,Christopherhaven,Montana,USA,a9b4c5dc,Headphones,Electronics,Headphones Model 8,874.07,2,11/22/2024,6/13/2023,Credit Card,4
+07c1c27d,46cbe6c3,Tammy Bradford,Male,57,krista54@hotmail.com,Martinton,Iowa,USA,addc9af0,Face Cream,Beauty,Face Cream Model 2,450.93,2,7/15/2024,8/14/2024,Credit Card,5
+fdd119ae,d7329e43,Dorothy Taylor DDS,Other,60,wagnermichael@yahoo.com,Lake Sarastad,Georgia,USA,b39ad080,Jacket,Clothing,Jacket Model 3,191.67,1,10/8/2023,3/5/2025,Credit Card,5
+b0904d72,5afe7fa0,Joseph Compton,Female,42,ischroeder@gmail.com,Mullinsmouth,Wyoming,USA,e6d173f7,Fiction,Books,Fiction Model 4,212.81,5,5/9/2024,9/27/2023,Credit Card,2
+ad4df701,43e672b4,George Martin,Female,40,charles86@combs-reid.com,Josephville,Arizona,USA,1e16773d,Lipstick,Beauty,Lipstick Model 4,768.4,1,2/3/2025,1/29/2025,Net Banking,2
+53a3938b,e7bd59b7,Desiree Burke,Female,18,nchandler@hess-miller.com,West Lisaview,Kentucky,USA,3c0eae5d,Smartphone,Electronics,Smartphone Model 8,765.36,1,3/18/2024,4/3/2023,UPI,3
+395a8441,c3761eec,Nichole Young,Male,22,leemichael@bauer.info,Vargashaven,Mississippi,USA,d95215ba,Tablet,Electronics,Tablet Model 10,69.94,5,12/3/2024,6/28/2023,UPI,3
+a560acb7,730b9636,Sarah Smith,Female,64,xclark@garcia-harper.org,North Mikeburgh,Hawaii,USA,8592d68e,Face Cream,Beauty,Face Cream Model 1,230.04,5,3/2/2024,1/24/2025,UPI,5
+e28a7146,c25e6fcb,Samantha Graham,Other,28,melvinshields@smith-mathews.net,Gallagherville,Louisiana,USA,71e46582,Shampoo,Beauty,Shampoo Model 1,667.25,1,11/27/2023,10/16/2024,Cash on Delivery,2
+ed892bf9,3977a122,Deanna Roy,Male,20,noah58@stone.org,Jacksonside,West Virginia,USA,12a4db62,Laptop,Electronics,Laptop Model 7,212.24,1,11/18/2024,9/12/2024,Cash on Delivery,3
+fa5997cd,d52fcf57,Tiffany Huber,Female,46,barronjoshua@madden.com,Brianburgh,Arizona,USA,8d28758c,Blender,Home & Kitchen,Blender Model 6,665.27,2,10/19/2023,3/16/2024,UPI,5
+f8702399,3c2fd647,Gwendolyn Williamson,Male,40,kimberly34@gmail.com,East Jose,Arizona,USA,e942ade0,Headphones,Electronics,Headphones Model 4,568.32,5,5/30/2024,2/21/2025,Debit Card,2
+9994464e,9408e5c5,Tina Ramirez,Other,39,caroline60@fitzpatrick.com,North Johnport,Nevada,USA,590ad7de,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 2,954.68,1,8/28/2024,7/28/2024,UPI,4
+b68d7708,5ccf5525,Shirley Lawson,Female,28,ljackson@yahoo.com,Lopezport,Indiana,USA,929ba187,Microwave,Home & Kitchen,Microwave Model 9,521.85,2,4/10/2023,8/5/2023,Cash on Delivery,1
+dafe52a5,76ab16e6,Nicholas Ballard MD,Female,32,foleybradley@blevins-peterson.com,Morganberg,Indiana,USA,41e7d1e0,Headphones,Electronics,Headphones Model 3,717.39,4,10/12/2023,2/8/2025,Credit Card,3
+4204aa5a,85567b83,Jacqueline Davis,Female,28,natalieterry@gmail.com,Aliciaburgh,Alaska,USA,9f392917,Toaster,Home & Kitchen,Toaster Model 7,333.76,1,11/21/2024,4/15/2024,Net Banking,4
+8b2bd4c6,ecdc2723,Brian Johnson,Female,48,wellsteresa@anderson.org,Jonesburgh,Indiana,USA,b218735c,Body Lotion,Beauty,Body Lotion Model 4,55.27,4,3/19/2024,6/19/2023,Cash on Delivery,3
+223da08b,ed4b09cf,Joseph Lang,Other,49,derek16@hotmail.com,New Raven,New York,USA,eee389d4,Smartphone,Electronics,Smartphone Model 4,867.29,5,7/2/2024,5/30/2023,Net Banking,5
+b1072352,29bf835b,Hannah Hernandez,Other,18,david84@hotmail.com,Marcusland,Florida,USA,b30f4bfd,Shoes,Clothing,Shoes Model 3,121.86,2,8/3/2023,6/14/2024,UPI,4
+a5340e1f,adb02dfe,Laura Odom,Other,45,vickimiles@ritter.org,Scottborough,Illinois,USA,a6ebfcea,Sweater,Clothing,Sweater Model 4,325.33,3,2/5/2025,4/16/2024,Debit Card,3
+5575337f,c920a19e,Melanie Cunningham,Other,18,robertablankenship@hotmail.com,New Joycehaven,Louisiana,USA,7b8da5aa,Comics,Books,Comics Model 9,82.47,1,2/29/2024,7/31/2023,Net Banking,2
+efe526fc,e52ad293,Jane Garcia,Male,62,stephenroberts@yahoo.com,Monicaton,Michigan,USA,c311de02,Smartwatch,Electronics,Smartwatch Model 6,166.89,4,10/19/2024,3/6/2025,Cash on Delivery,2
+ab76abb4,d85121c0,Deanna Lopez,Female,61,amanda93@yahoo.com,New Jerrychester,Hawaii,USA,08640f1e,Laptop,Electronics,Laptop Model 2,262.67,4,3/13/2025,11/21/2023,Credit Card,3
+48adb838,240069df,Aaron Johnson,Other,49,jayboyle@freeman.com,Port Susanborough,Wyoming,USA,4ff30aff,Jeans,Clothing,Jeans Model 8,186.84,3,3/30/2023,3/7/2025,Debit Card,4
+58489f09,e5af2bf3,Hannah Hartman,Male,31,matthew81@aguilar.biz,Christopherside,Missouri,USA,190b20fb,Fiction,Books,Fiction Model 7,733.9,3,6/26/2023,6/10/2023,UPI,1
+941e6ec4,56ad21d3,Jonathan Smith,Female,54,qherrera@cobb-tucker.net,Mitchellland,Connecticut,USA,2d796bf9,Fiction,Books,Fiction Model 7,183.27,3,7/8/2024,10/27/2024,Debit Card,4
+a7c50f38,3572b47a,Denise Holland DVM,Male,57,julieellis@crawford-gutierrez.com,Tanyaton,Rhode Island,USA,6eafc052,Educational,Books,Educational Model 8,912.33,5,9/5/2023,9/18/2024,Credit Card,5
+19e5bb29,9c2e52a6,Steven Martin,Male,56,chavezbrent@gmail.com,Lake Charlesbury,Wyoming,USA,d6e5fac0,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 6,106.58,2,12/20/2024,12/24/2024,UPI,4
+a88185b3,eab469c9,Morgan Vargas,Male,43,adriennematthews@hicks.com,West Connorberg,Pennsylvania,USA,13881158,Tablet,Electronics,Tablet Model 2,233.83,3,11/27/2023,9/1/2023,Cash on Delivery,3
+4f87dc7e,731bb6b9,April Dillon,Other,52,lopezrebecca@horton.com,Lake Jeffreyberg,Alabama,USA,a6f6c8a1,Smartphone,Electronics,Smartphone Model 1,479.18,1,9/12/2023,5/6/2024,Net Banking,4
+15f0322c,13c9b6bc,Lisa Pitts,Female,20,nealjoy@yahoo.com,Kristinaton,Illinois,USA,9740b83f,Face Cream,Beauty,Face Cream Model 5,799.93,1,10/31/2024,5/21/2023,Debit Card,2
+d8f884dc,64d36e80,April Brown,Other,24,brittany68@gmail.com,Kristenstad,Iowa,USA,c7867876,T-Shirt,Clothing,T-Shirt Model 1,444.4,1,11/24/2023,3/8/2025,Debit Card,3
+0f684eed,d9bc982f,Tina Powers,Other,26,eschneider@spears-baxter.com,East John,Minnesota,USA,c28371bf,Sweater,Clothing,Sweater Model 5,828.04,5,6/4/2023,12/10/2023,UPI,2
+ba65386c,6f31bd03,Stephen Gross,Other,47,andrewsrichard@yahoo.com,Lake Michaelshire,Georgia,USA,dbbb1e12,Body Lotion,Beauty,Body Lotion Model 9,131.98,4,10/10/2023,7/20/2023,Net Banking,1
+0cf1a355,b7bc2f8b,Pamela Hubbard,Male,31,jenniferfrank@hotmail.com,Lake Christopher,Virginia,USA,31ca9fc5,Coffee Maker,Home & Kitchen,Coffee Maker Model 10,438.18,4,5/14/2024,5/7/2024,Debit Card,2
+848ebade,8ded4cdd,Monica Lucas,Female,24,samantha80@yahoo.com,Johnnystad,Alaska,USA,69ee16fc,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 1,658.36,3,10/6/2024,6/19/2024,Net Banking,5
+573ccf27,da46fdf8,Bruce Lopez,Female,62,rebekahbarrett@liu.com,Kimberlyhaven,Maine,USA,784adb85,Tablet,Electronics,Tablet Model 2,139.2,4,2/13/2025,6/21/2024,UPI,1
+bf545d1b,83f3b009,Patrick Sanchez PhD,Female,39,austintaylor@gmail.com,Christopherton,Louisiana,USA,5d06bf7b,Tablet,Electronics,Tablet Model 5,339.43,3,2/5/2024,8/31/2024,Credit Card,4
+9e992877,c88abb8a,Linda Wyatt DDS,Male,35,bruiz@yahoo.com,Lake Oliviaborough,Utah,USA,a2306793,Microwave,Home & Kitchen,Microwave Model 3,706.41,5,7/18/2024,11/21/2024,UPI,3
+b175cb22,dbb2c503,Matthew Curry,Female,52,roberthall@carr.biz,Danafort,Nebraska,USA,132f7a99,Body Lotion,Beauty,Body Lotion Model 1,864.26,1,3/5/2024,5/12/2024,Cash on Delivery,3
+1946b97f,83cd1e77,Eric Walker,Female,48,rmills@yahoo.com,Lake Tracy,Arizona,USA,ad1d0907,Non-Fiction,Books,Non-Fiction Model 2,532.46,1,1/9/2024,4/21/2024,Credit Card,2
+b0d25148,ec2726bf,Brittany Mcintyre,Other,26,iking@hotmail.com,Michaelchester,Iowa,USA,fb45a8b5,Shoes,Clothing,Shoes Model 6,759.61,4,3/21/2025,8/21/2023,Credit Card,1
+05b62dd2,6793db9a,Samuel Young,Female,24,jesse64@tran.net,Port Matthew,Florida,USA,4a98a824,Headphones,Electronics,Headphones Model 8,452.32,4,4/5/2023,1/22/2024,Net Banking,5
+1c04e594,1275c44d,Jeremy Rose,Female,61,morganrichardson@martinez.com,South Kelly,Mississippi,USA,a51a6844,Coffee Maker,Home & Kitchen,Coffee Maker Model 5,152.55,4,1/6/2024,12/18/2023,Cash on Delivery,2
+df94cf79,1b82d880,Sydney Cox,Female,19,wking@jones.com,Phillipsberg,Mississippi,USA,b8245f29,Shampoo,Beauty,Shampoo Model 4,456.41,4,5/30/2024,5/1/2024,Net Banking,1
+de48c7e9,22919b4b,Lynn Smith,Other,58,christina83@chan.com,Turnerfurt,Idaho,USA,d8796989,Smartphone,Electronics,Smartphone Model 8,327.23,1,6/3/2023,11/20/2023,Cash on Delivery,4
+bcce5fb2,49992498,Sarah Gonzalez,Male,58,phillipmartin@yahoo.com,Lake Kristinview,Illinois,USA,a95a9f85,Coffee Maker,Home & Kitchen,Coffee Maker Model 8,30.75,2,6/22/2023,10/28/2023,Debit Card,5
+7a8ca04e,2c155388,Mandy Wood,Male,38,jamesjames@miller.com,Lake Angelville,Massachusetts,USA,ca65df40,Jeans,Clothing,Jeans Model 1,476.8,1,10/24/2024,12/1/2024,Debit Card,1
+ef656473,9235f306,Wanda Carter,Male,28,wolfemichael@ferguson.com,Ibarrahaven,Maine,USA,2f297629,Coffee Maker,Home & Kitchen,Coffee Maker Model 6,999.83,3,1/31/2025,1/28/2024,UPI,5
+de0506c9,ab9c922d,Brittany Tapia,Other,53,smithkevin@yahoo.com,Danielhaven,Delaware,USA,d182f2bb,Non-Fiction,Books,Non-Fiction Model 10,642.13,2,1/29/2024,11/9/2024,UPI,2
+503d85e2,7573ccb8,Catherine Jackson,Female,53,ntorres@price.com,Lake Jennifer,Rhode Island,USA,2fd2bab7,Lipstick,Beauty,Lipstick Model 6,388.69,1,7/22/2023,9/18/2023,Debit Card,3
+44b01cc7,e1676b9e,Cynthia Vaughn,Female,20,caitlynbennett@yahoo.com,Edwardsport,Florida,USA,c685f21f,Toaster,Home & Kitchen,Toaster Model 1,891.21,5,5/7/2024,11/10/2024,Net Banking,4
+f5ab4a39,b59a5099,Mary Martinez,Other,31,kdavis@gmail.com,Moorefurt,Iowa,USA,4f5dbad9,Coffee Maker,Home & Kitchen,Coffee Maker Model 5,35.42,1,10/18/2024,8/23/2024,Debit Card,2
+14ea7f78,cb9554a7,Matthew Rich,Male,46,washingtonchristopher@yahoo.com,Port Pedro,Michigan,USA,4309a353,Microwave,Home & Kitchen,Microwave Model 3,181.47,3,2/1/2025,11/6/2024,Credit Card,3
+21e4ed81,29c7f224,Eric Cowan,Other,29,fletchersarah@williams.net,Weisshaven,Maryland,USA,757f4ebd,Comics,Books,Comics Model 9,767.16,5,9/20/2024,3/23/2024,Credit Card,1
+2e478282,b0151848,Whitney Arnold,Female,39,kelsey73@gardner-stanton.info,Elliottmouth,Nebraska,USA,9b167c01,Coffee Maker,Home & Kitchen,Coffee Maker Model 8,389.04,5,4/10/2024,10/5/2024,Debit Card,3
+3f7e9c02,91a33cc8,Danielle Chandler,Male,44,cody81@gmail.com,Parksmouth,Kentucky,USA,2b5a0e5a,Biography,Books,Biography Model 10,320.92,2,3/11/2024,8/31/2024,Cash on Delivery,4
+7470a0e9,f824b57b,David Smith,Other,35,bellsarah@stein.org,New James,Washington,USA,260f0e10,Tablet,Electronics,Tablet Model 8,362.89,3,8/12/2023,2/3/2025,UPI,1
+d09d8036,229388c3,Matthew Johnson,Male,29,benjamin80@middleton-mann.com,Port Angela,Wisconsin,USA,094873d1,Laptop,Electronics,Laptop Model 4,409.67,2,8/7/2024,3/30/2023,Net Banking,5
+b6097bce,dbc09c20,Cynthia Baker,Female,27,yharris@hotmail.com,Teresastad,Louisiana,USA,8ecb6162,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 2,844.35,3,10/24/2024,11/28/2024,Debit Card,4
+986da68a,7e886a12,Doris Bryant,Female,20,samuelromero@gmail.com,South Jessicabury,North Carolina,USA,f3ebc73d,Headphones,Electronics,Headphones Model 1,471.32,4,11/22/2024,2/22/2025,Debit Card,2
+13e70a4b,04e16426,Anna Reyes,Other,24,ubates@price.com,West Cassandra,Ohio,USA,aab3c4b5,Jacket,Clothing,Jacket Model 6,214.72,1,7/20/2024,7/29/2024,Cash on Delivery,3
+6455e7b3,d2980c6a,Heather Parrish,Male,26,wesleyholmes@yahoo.com,Caldwellborough,Massachusetts,USA,cd66ff85,Lipstick,Beauty,Lipstick Model 2,59.79,3,8/10/2024,4/19/2023,UPI,2
+e0e8cbb1,e5e9ff6b,Thomas Andrews,Male,34,eugene63@hotmail.com,North Melinda,New Mexico,USA,8a4c10b4,Sweater,Clothing,Sweater Model 6,290.95,4,6/29/2023,4/6/2023,Debit Card,5
+de38a899,53f47475,James Williams,Other,58,ojackson@gmail.com,Myersport,Michigan,USA,7303c937,Laptop,Electronics,Laptop Model 10,853.68,3,7/20/2024,5/9/2023,Debit Card,4
+66b830bf,d49722ed,Laura Bolton,Female,57,pdavis@hotmail.com,Lake Amy,Montana,USA,70830cda,Shampoo,Beauty,Shampoo Model 7,373.54,4,8/2/2023,10/17/2023,UPI,1
+d1f9956c,7ba9cac4,Sean Khan,Male,22,wjohnson@hotmail.com,South Michael,Missouri,USA,44e7dd6b,Lipstick,Beauty,Lipstick Model 7,722.4,3,11/26/2024,4/6/2023,UPI,1
+6f0a2aa5,9109757f,Thomas Gray,Male,65,danielle48@yahoo.com,Cochranburgh,Idaho,USA,963b329e,Face Cream,Beauty,Face Cream Model 2,882.75,3,12/22/2024,2/13/2024,UPI,4
+a080e320,999dfa34,Felicia George,Female,24,jessica99@hotmail.com,New Brandon,Nebraska,USA,6cf231c8,Comics,Books,Comics Model 8,348.39,2,6/15/2024,10/7/2024,Cash on Delivery,3
+f0e65dd6,d5afac1f,Bethany Wolfe,Female,55,karen27@hotmail.com,Port Stevefort,Delaware,USA,48c127dc,Tablet,Electronics,Tablet Model 4,473.82,4,2/4/2024,7/28/2023,Debit Card,2
+698e410b,c2e03164,Natalie Whitehead,Other,56,jasonhall@lawrence-burton.com,Port Michaelfurt,Ohio,USA,5fc80fa4,Shoes,Clothing,Shoes Model 2,574.12,2,8/31/2023,1/24/2024,Debit Card,3
+eb07bab5,a7de005a,Paul Hill,Male,42,cathy73@gmail.com,Johnsonfurt,South Carolina,USA,d05356ea,Smartphone,Electronics,Smartphone Model 1,265.23,2,11/19/2024,10/30/2023,Debit Card,5
+36b4598c,0560729c,Shelby Valentine,Other,27,gstanley@smith-thomas.net,West Nathan,Arkansas,USA,7b86bf62,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 5,147.07,3,9/8/2023,3/6/2024,Credit Card,1
+f70ea8a3,85beff17,Amanda Martinez,Male,41,glarsen@moore.com,Lake Valeriehaven,Alabama,USA,88f5c427,Laptop,Electronics,Laptop Model 3,751.85,1,9/6/2023,3/14/2025,Debit Card,4
+0298799c,2d922785,Shawn Smith,Male,41,paulgreg@terry-porter.com,West Joeville,West Virginia,USA,8bd83bd8,Shampoo,Beauty,Shampoo Model 7,112.17,2,9/23/2023,12/29/2024,Credit Card,2
+66b9a15a,5dbfe592,John Zavala,Female,49,lortega@hotmail.com,Lake Jesseview,Kentucky,USA,35ae8a00,Microwave,Home & Kitchen,Microwave Model 4,738.89,1,3/24/2025,6/21/2023,Cash on Delivery,1
+9c3d7eb8,a53e2c8e,Julia Griffin,Other,32,glennangel@hernandez-coleman.com,North Melissa,Florida,USA,7221d6b9,Non-Fiction,Books,Non-Fiction Model 4,501.4,4,7/11/2024,3/14/2025,Net Banking,2
+3a31bee0,1d301499,Raymond Case,Other,44,taylormaureen@gmail.com,Taylorfort,Michigan,USA,d4906639,Sweater,Clothing,Sweater Model 7,186.05,4,12/27/2024,11/19/2024,Cash on Delivery,2
+2daa3c92,220a2dc3,Amber Norris,Female,22,patrick32@gmail.com,East Victoriabury,Minnesota,USA,59b20538,Shoes,Clothing,Shoes Model 6,982.31,3,10/22/2024,9/1/2024,Net Banking,1
+091c655d,76e2afbe,Sylvia Garcia,Male,43,adixon@gmail.com,Leonardberg,Ohio,USA,8b54a315,Smartwatch,Electronics,Smartwatch Model 1,159.59,3,2/1/2024,2/26/2025,Debit Card,5
+d28ed87e,95927c8f,Abigail Becker,Male,46,christopherbenton@may.com,Gonzalezmouth,Iowa,USA,96bcd876,Tablet,Electronics,Tablet Model 6,638.16,1,11/18/2023,11/7/2024,Net Banking,1
+7f06263e,fe2425eb,Samantha Mack,Male,39,kelly80@gmail.com,Robinsonshire,Hawaii,USA,71deb14a,Jeans,Clothing,Jeans Model 4,596.84,5,3/25/2025,3/7/2025,Debit Card,4
+04c5eff6,52621bcc,James Hoffman,Male,35,jramirez@gmail.com,North Ryanhaven,Wisconsin,USA,9f32a137,Jeans,Clothing,Jeans Model 3,489.03,2,4/3/2023,12/25/2024,Credit Card,1
+7778c828,597edbc2,Mark Carrillo,Male,25,xleonard@lewis-graham.com,South Matthew,Indiana,USA,d829aac8,Non-Fiction,Books,Non-Fiction Model 8,567.29,2,8/20/2023,6/7/2023,Net Banking,1
+13af976e,fb7857c3,Sandra Gordon,Male,24,heather54@hotmail.com,Stevenstad,Mississippi,USA,7705e845,Educational,Books,Educational Model 5,908.62,4,12/9/2023,2/10/2025,Net Banking,1
+9e1929b6,e96b129f,Charles Wilson,Female,52,mackenzie09@yahoo.com,Robertville,Massachusetts,USA,23ec70ea,Non-Fiction,Books,Non-Fiction Model 6,506.04,2,12/25/2024,10/31/2023,Credit Card,1
+4f61c304,e84df855,Lisa Hernandez,Female,45,thomas72@cline.com,New Maria,Virginia,USA,e76e2b3d,Jeans,Clothing,Jeans Model 2,951.89,4,3/3/2025,6/4/2023,Credit Card,4
+d23bb438,657932f7,Matthew Ellis,Male,59,zacharyjohnson@pope-malone.com,Kennethburgh,Oregon,USA,f6e1b2db,Jeans,Clothing,Jeans Model 4,505.54,2,5/2/2024,11/28/2023,Net Banking,1
+26067b17,cb709540,Tina Ellis,Male,40,jeremy47@garcia.info,Leefort,Kentucky,USA,c475cc42,Blender,Home & Kitchen,Blender Model 7,672.1,4,8/27/2023,9/10/2024,Debit Card,3
+517902ae,60b9ae08,Yolanda Lin,Male,65,pbruce@bennett-perkins.com,Wardtown,Idaho,USA,23dbfda2,Shoes,Clothing,Shoes Model 5,214.39,4,8/6/2024,7/27/2024,UPI,2
+81188033,e96790dd,Xavier Whitehead,Other,22,smithgloria@yahoo.com,South Monique,Arizona,USA,cbd580e0,Non-Fiction,Books,Non-Fiction Model 3,556.34,4,12/23/2023,11/12/2023,Credit Card,3
+a7978864,c3afe0bc,Victoria Yates,Other,55,sanchezjohn@thompson.com,East Justinmouth,Washington,USA,9a798ba3,Jeans,Clothing,Jeans Model 5,929.12,4,11/14/2024,11/21/2023,Debit Card,4
+2e342a81,a3740ff5,Julia Beck,Male,51,anitahawkins@gordon.com,Johnsonfort,Arizona,USA,3758b46c,Sweater,Clothing,Sweater Model 7,359.94,3,7/16/2023,7/9/2024,Cash on Delivery,2
+5290ed39,ce8675f9,Justin Gentry,Male,48,pwright@bowman-chapman.com,Jeremyfurt,Mississippi,USA,76aaa428,Shampoo,Beauty,Shampoo Model 1,354.62,5,11/18/2023,3/3/2024,Cash on Delivery,1
+332f7e59,3f1abe60,Katelyn Braun,Female,50,torozco@yahoo.com,New Jose,Idaho,USA,84adafb6,Blender,Home & Kitchen,Blender Model 4,470.61,5,10/5/2024,8/30/2023,Debit Card,2
+c7128b82,082897b1,Sara Rogers,Male,47,schmidtsierra@miller.com,Port Melissa,Idaho,USA,a809b84b,Laptop,Electronics,Laptop Model 4,161.63,5,11/22/2024,3/5/2025,UPI,3
+ab8d6ac3,2e2c90d9,Katrina Cole,Other,61,david65@gmail.com,Amberstad,South Dakota,USA,4538d11e,T-Shirt,Clothing,T-Shirt Model 4,740.09,2,7/22/2023,1/17/2024,Credit Card,1
+738c5c5b,f98b59df,Lisa Green,Female,36,curtisryan@reynolds.com,Christensenfurt,Pennsylvania,USA,8147ea99,Face Cream,Beauty,Face Cream Model 3,122.88,4,4/23/2023,2/13/2025,Net Banking,2
+4324xaf,24ab8164,Jessica Giles,Other,22,robertskevin@jensen-lewis.com,Holmesville,New Hampshire,USA,5309774e,Lipstick,Beauty,Lipstick Model 3,614.39,5,11/3/2023,2/27/2024,Net Banking,5
+b363c0fa,e36e5bd5,Lindsey Jones,Other,51,alex34@yahoo.com,Lake Carriestad,Ohio,USA,63b517b0,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 7,531.59,5,5/18/2024,3/3/2025,Net Banking,4
+0abf2bf4,3619be35,Rachel Smith,Female,25,kevinmoore@hotmail.com,Whiteheadborough,Arkansas,USA,bc88d5ab,Laptop,Electronics,Laptop Model 10,816.9,5,8/18/2023,11/10/2023,Debit Card,5
+4d9f8b7b,38b33567,Joshua Rodriguez,Other,35,lauriecox@sanchez.biz,New Christyville,Nevada,USA,5c4babc3,Coffee Maker,Home & Kitchen,Coffee Maker Model 8,468.04,2,11/27/2023,7/31/2023,Credit Card,5
+e95210e8,263f9482,Samantha Klein,Other,35,paulthomas@hotmail.com,Port Karashire,New Mexico,USA,1fc9e761,Biography,Books,Biography Model 1,209.3,3,9/18/2023,12/28/2024,Net Banking,1
+38e33253,5424133b,Robert Mcdowell,Male,33,grahamstacey@byrd.net,Scottborough,Kentucky,USA,95a56aa1,Comics,Books,Comics Model 1,464.5,4,11/22/2024,2/13/2025,Credit Card,1
+d4c64411,90e0d511,Joshua Frederick,Female,65,tracy86@taylor.com,West Joseph,Delaware,USA,59bb5e0a,Jacket,Clothing,Jacket Model 5,155.42,1,6/1/2024,8/13/2024,Debit Card,2
+2332sf2334,dc074c82,Samantha Sanders,Other,54,dustin61@hotmail.com,North Ericatown,Delaware,USA,63d2db41,Fiction,Books,Fiction Model 4,812.82,1,8/11/2023,2/16/2025,UPI,4
+2f6734df,a23d1bdf,Kevin Heath,Male,47,spaul@nelson.com,Jackiechester,Montana,USA,25bcf3f7,Jacket,Clothing,Jacket Model 5,667.29,5,8/4/2023,5/22/2023,UPI,5
+abf3a05a,5816ab81,Vanessa Dean,Other,61,michele01@gmail.com,North Susan,Maryland,USA,8e377727,Educational,Books,Educational Model 4,189.4,2,6/4/2024,1/15/2025,Net Banking,3
+395ca73e,1997effa,Katherine Wiggins,Male,36,larry59@wong.org,Port Sean,West Virginia,USA,a4722591,Biography,Books,Biography Model 10,613.45,1,5/2/2024,1/2/2024,Credit Card,5
+08c9ea02,38619453,Philip Cook,Female,55,hunterlynch@allison.com,West Danielville,South Dakota,USA,91ed18f8,Face Cream,Beauty,Face Cream Model 7,244.65,5,6/22/2024,2/12/2025,Credit Card,4
+d1857320,4d5cd559,Steven Contreras,Female,54,jason76@gmail.com,South Jon,Ohio,USA,6992a735,Laptop,Electronics,Laptop Model 5,637.8,2,11/23/2023,9/23/2024,Debit Card,2
+e3ecd984,073cdeb2,Jennifer Morris,Other,19,jonathanberry@frye.com,Mathisfurt,Illinois,USA,c45d6f6a,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 7,236.37,4,5/2/2024,2/5/2025,Debit Card,2
+a0f5650d,beb29998,Jennifer Gomez,Female,44,emma02@hotmail.com,Martinborough,South Dakota,USA,3c059a9d,Body Lotion,Beauty,Body Lotion Model 3,397.14,1,2/23/2025,3/29/2024,Debit Card,2
+6833b711,abbc9248,Michelle Holland,Female,48,hhuffman@hotmail.com,Comptonland,Washington,USA,ba205362,Non-Fiction,Books,Non-Fiction Model 4,168.57,5,12/10/2024,10/26/2024,Net Banking,4
+316bd3fe,4bac8dea,Karen Mayer,Other,19,egrant@yahoo.com,Ellisonmouth,Connecticut,USA,40e7e6c2,Toaster,Home & Kitchen,Toaster Model 9,504.03,3,3/22/2024,6/25/2023,Cash on Delivery,5
+313b41b1,a43db57e,Vanessa Davis,Female,40,loriherrera@yahoo.com,Lake Kelliborough,Oklahoma,USA,591c2fe3,Non-Fiction,Books,Non-Fiction Model 6,354.77,2,4/27/2023,6/19/2024,Cash on Delivery,2
+9b2237e0,2be4d762,Aaron Henderson,Female,26,ericksonmelanie@gmail.com,Lake Brendan,Idaho,USA,be854691,Jeans,Clothing,Jeans Model 2,995.51,3,12/31/2024,7/23/2023,Cash on Delivery,2
+6746fc6e,f8d21721,Kyle Neal,Female,28,nicholasgrimes@gates.com,Sheliafurt,New Mexico,USA,96d910e1,Lipstick,Beauty,Lipstick Model 5,383.14,2,1/26/2024,7/4/2024,Credit Card,4
+7908b90d,80000321,Kimberly Miller,Female,20,lawrencephillips@gmail.com,North Vanessaport,Georgia,USA,b708f67f,Microwave,Home & Kitchen,Microwave Model 1,423.99,5,6/28/2023,2/29/2024,Net Banking,1
+06587b56,0c6caa68,Wendy Boyd,Female,20,juliananderson@mora.com,North Ryan,Wyoming,USA,b314f04b,Comics,Books,Comics Model 9,947.96,2,1/28/2025,6/10/2023,UPI,5
+f64fa233,eb185edf,Matthew Williams,Other,62,ryanprice@cox-delgado.org,Port Audreychester,Hawaii,USA,f91c315c,Shampoo,Beauty,Shampoo Model 9,501.91,5,6/30/2024,12/9/2024,Cash on Delivery,3
+605ae4cf,b8df8418,Katherine Beck,Male,52,pnicholson@hotmail.com,Martinshire,South Dakota,USA,d7629742,Jacket,Clothing,Jacket Model 5,693.02,4,5/25/2023,12/16/2023,Net Banking,3
+7b1eec5a,6689402d,Kenneth Haas,Female,56,markberger@wade-rice.info,Angelicafort,Massachusetts,USA,eb239163,Sweater,Clothing,Sweater Model 10,863.37,5,3/23/2024,3/15/2024,Debit Card,1
+1aa3cf65,67cd3f40,Kirk Weaver,Other,31,medinakaitlin@yahoo.com,New Danielle,North Carolina,USA,4.67E+203,Toaster,Home & Kitchen,Toaster Model 10,525.65,5,10/23/2024,8/23/2024,Cash on Delivery,2
+5c47d2f8,6bfe464f,Julie King,Female,21,andrew50@hotmail.com,Wilkinsonborough,North Dakota,USA,e8aa3278,Shampoo,Beauty,Shampoo Model 10,516.67,3,7/11/2024,6/27/2023,UPI,2
+905c6d5d,15f39547,Holly Young,Male,64,mendozalogan@gmail.com,Hahnberg,North Dakota,USA,fc67a471,Tablet,Electronics,Tablet Model 8,405.78,5,10/3/2023,10/20/2023,Credit Card,1
+1e1cce88,4b5f0328,Eric Ho,Other,62,mjohnston@collier.com,South Christophermouth,Ohio,USA,422463d7,Laptop,Electronics,Laptop Model 2,309.81,3,7/3/2023,9/6/2024,Net Banking,2
+01cf8c5a,f34b8870,Robin Delgado,Other,43,kelseymorales@yahoo.com,East Thomas,Alabama,USA,b982b957,Toaster,Home & Kitchen,Toaster Model 4,703.52,2,3/4/2025,1/19/2025,Net Banking,5
+b6119f25,60072ae0,Dr. Sean Norman,Male,44,jeffery38@hotmail.com,Bryanshire,Mississippi,USA,58ef98bf,Coffee Maker,Home & Kitchen,Coffee Maker Model 10,371.45,1,6/17/2024,5/30/2023,UPI,2
+cc51e8da,ef9b28a0,Beth Garcia,Other,34,johnsoneric@marquez.com,East Mark,Wyoming,USA,e7bce678,Body Lotion,Beauty,Body Lotion Model 3,847.25,3,12/26/2024,5/5/2024,Debit Card,3
+b8f7d566,e430b607,Stephanie Johnson,Other,59,samuellarsen@jones.com,Allenborough,Texas,USA,4c34e500,Laptop,Electronics,Laptop Model 1,481.35,2,11/1/2023,11/12/2023,UPI,4
+8c2afe59,b1036b8a,Zachary Sullivan,Other,56,paul64@bolton-green.info,Lake Wendy,Utah,USA,34e03aad,Smartwatch,Electronics,Smartwatch Model 10,707.66,5,9/20/2024,4/1/2024,Net Banking,2
+43839981,627d3fd1,Sheryl Powell,Female,24,washingtonspencer@yahoo.com,South Jessica,North Carolina,USA,34cb402c,Fiction,Books,Fiction Model 4,45.84,2,6/27/2024,2/4/2025,Credit Card,2
+89c9f7cc,5e37e567,Kenneth Johnson,Male,47,stephanie30@jordan-tyler.net,Mooreland,Michigan,USA,8b8968a5,Microwave,Home & Kitchen,Microwave Model 3,721.17,2,10/8/2023,1/8/2024,Net Banking,5
+194a8b1e,be9abd08,Jonathan Gibson,Other,57,david40@hotmail.com,Vickietown,Oklahoma,USA,c5a9c71a,Shampoo,Beauty,Shampoo Model 5,629.11,1,1/31/2025,3/20/2024,UPI,4
+109f83da,b15b76a8,Robin Ferguson,Male,42,pjensen@lee.com,East Edgar,Minnesota,USA,596d726d,Shampoo,Beauty,Shampoo Model 10,222.35,5,2/7/2024,2/21/2024,UPI,4
+182470fc,4b74c752,Dana Freeman,Female,51,davidjackson@knapp.com,North Crystalshire,South Dakota,USA,a5b14aae,T-Shirt,Clothing,T-Shirt Model 5,521.94,4,2/24/2025,8/15/2023,Debit Card,1
+52352af,4b9dbf34,Mary King,Other,19,villanuevajeffrey@weaver.com,South Ruthborough,Montana,USA,fd015ea3,Tablet,Electronics,Tablet Model 9,309.45,3,9/9/2023,7/8/2024,Cash on Delivery,1
+38c9957e,ab1772f6,Francisco Jones,Female,35,jessica96@giles-walsh.com,Lake April,Massachusetts,USA,2fa69ce8,Perfume,Beauty,Perfume Model 7,126.33,1,10/30/2023,8/26/2024,UPI,1
+18fa2586,894e9334,Heidi Jackson,Other,23,hvaldez@yahoo.com,Beckyberg,Kansas,USA,c7e40a55,Body Lotion,Beauty,Body Lotion Model 10,455.08,3,12/7/2023,10/17/2024,Net Banking,3
+5099426e,2d928eb3,Mr. Jesus Leon DVM,Female,50,katherinebarnes@mcguire-graves.com,New Laurenmouth,Nebraska,USA,436d2685,Headphones,Electronics,Headphones Model 3,137.74,2,1/15/2024,11/18/2024,Debit Card,1
+d248f7e5,41ba6e55,Anthony Collins,Female,19,ethan26@gmail.com,New Laurenmouth,Idaho,USA,6daa011f,Shampoo,Beauty,Shampoo Model 8,768.52,2,8/16/2024,8/26/2024,Net Banking,3
+174f27d6,ac023f27,Jeremy Harris,Female,21,ashley34@yahoo.com,Aguirreborough,West Virginia,USA,42833de9,Jeans,Clothing,Jeans Model 3,234.66,2,3/8/2025,3/6/2024,Credit Card,1
+8ff4a8db,0d263800,Kenneth Russo,Male,65,john55@bolton.info,Freemanmouth,Rhode Island,USA,1d92a814,Coffee Maker,Home & Kitchen,Coffee Maker Model 4,173.94,3,9/25/2024,8/12/2024,Credit Card,3
+610bf91a,7e246e86,Lauren Owen,Other,45,kdyer@gmail.com,Loweton,Texas,USA,5b3879a2,Microwave,Home & Kitchen,Microwave Model 2,548.67,5,10/12/2024,8/24/2023,Debit Card,5
+889fa0bf,a55e3bfe,Philip Johnson,Female,42,manningmartin@reed.com,Lake Cindy,New York,USA,87c7f0bd,Sweater,Clothing,Sweater Model 6,791.88,4,4/17/2023,7/8/2024,Cash on Delivery,5
+ee98548c,cc387584,Kristopher Mills,Male,21,craigfarmer@hotmail.com,Brendachester,Connecticut,USA,23b41600,Headphones,Electronics,Headphones Model 10,555.17,2,12/9/2023,7/10/2024,Debit Card,2
+6085d195,1218ba6f,Barbara Morgan,Other,33,lambertabigail@gmail.com,Spencerstad,Georgia,USA,372dac6c,Smartphone,Electronics,Smartphone Model 6,125.22,5,2/24/2025,11/27/2023,Cash on Delivery,2
+1a162686,f9054740,Mr. Anthony Compton,Female,25,shahjennifer@alexander.com,East Samuelberg,Louisiana,USA,25761108,Laptop,Electronics,Laptop Model 3,712.86,4,8/22/2023,1/25/2024,UPI,4
+7cbdad23,96672787,Billy Trujillo,Other,55,angelamartinez@mason.com,Ruizmouth,Nebraska,USA,04ea6e21,T-Shirt,Clothing,T-Shirt Model 5,645.99,5,8/4/2024,12/16/2023,Cash on Delivery,5
+401911d6,5b34e13b,Christopher Melendez,Male,41,lsanchez@bonilla.biz,East Angela,Arkansas,USA,6444358a,Jacket,Clothing,Jacket Model 7,831.59,5,2/7/2025,12/11/2023,UPI,5
+158f0d91,23869332,Jacob Stone,Other,35,walshbianca@west.info,Bethanyfurt,Indiana,USA,f4d188ce,Perfume,Beauty,Perfume Model 5,968.14,2,9/11/2024,12/20/2023,Net Banking,2
+1441caef,c687a614,Troy Ali,Other,46,laracassie@hart-mckinney.info,Mayview,Arizona,USA,8d171b14,Comics,Books,Comics Model 4,835.56,1,9/23/2024,7/17/2023,Credit Card,5
+e29053f8,6a3ff25d,Brian Kelly,Other,28,kimberlysimpson@myers.com,Joshuaton,Maine,USA,4860e22b,Lipstick,Beauty,Lipstick Model 8,402.73,2,11/17/2023,5/30/2023,Net Banking,3
+53349113,e5ff1376,Michael Johnson,Male,44,kevingarcia@gmail.com,Michaelfurt,Maine,USA,e99855e3,Blender,Home & Kitchen,Blender Model 10,692.84,5,1/31/2024,10/1/2023,Cash on Delivery,3
+159f710d,3cf810b1,Morgan Duncan,Other,43,becky50@gmail.com,Joelhaven,West Virginia,USA,62a84918,Headphones,Electronics,Headphones Model 2,612.2,1,7/12/2024,5/1/2024,Cash on Delivery,4
+6df3fd90,4528dfba,Philip Melendez,Male,58,rogerlewis@hotmail.com,Coxburgh,South Dakota,USA,0af3beba,Headphones,Electronics,Headphones Model 6,472.73,3,4/14/2023,3/6/2025,Cash on Delivery,5
+af7886b3,5c4097a7,Alison Obrien,Female,41,pittmangary@williams.com,Kentland,Alabama,USA,e680febc,Body Lotion,Beauty,Body Lotion Model 2,897.84,1,7/12/2024,1/4/2025,Credit Card,2
+a6294b38,1e26b44c,Melinda Taylor,Female,40,sespinoza@hotmail.com,North Elizabeth,Vermont,USA,8d42a8eb,Jacket,Clothing,Jacket Model 6,580.93,4,9/10/2024,1/30/2025,UPI,5
+1e227a12,24a32944,Jordan Nguyen,Other,43,mball@ortiz-anderson.com,Lake Seanton,Alabama,USA,dcf2ecfa,Coffee Maker,Home & Kitchen,Coffee Maker Model 7,962.75,2,11/15/2024,7/19/2024,Debit Card,4
+74565c0a,a4cac326,Douglas Parker,Male,39,robertsonapril@johns-andrade.com,Port Nathanfort,Utah,USA,1dac08e6,Smartphone,Electronics,Smartphone Model 1,502.74,1,9/12/2024,2/7/2024,Cash on Delivery,4
+f8b7b6d7,9136c983,Daniel Cuevas,Other,29,oyoung@compton.com,Reesemouth,Oklahoma,USA,c482d708,Shoes,Clothing,Shoes Model 2,959.12,2,10/27/2024,6/23/2024,Credit Card,2
+bd313695,5eb1c119,Teresa Mills,Male,29,dsmith@gmail.com,East Nathan,North Carolina,USA,ca07cf8e,Body Lotion,Beauty,Body Lotion Model 4,172.09,5,10/8/2024,12/8/2024,Cash on Delivery,3
+aa1e327d,3e777fee,Timothy Mendez,Male,26,jeffreythomas@gmail.com,North Brad,Arizona,USA,d6832280,Microwave,Home & Kitchen,Microwave Model 1,427.21,3,12/8/2023,9/30/2023,Debit Card,3
+09279b3c,c40eab35,Randy Escobar,Male,40,margaretthompson@yahoo.com,South Martinchester,California,USA,3c4ce0c1,Sweater,Clothing,Sweater Model 5,555.51,4,6/23/2024,11/13/2023,Net Banking,5
+e5966cd3,131669c9,Julian Martin,Other,29,hebertrebecca@pratt-haley.com,New Richardberg,Idaho,USA,0b4eddd8,Body Lotion,Beauty,Body Lotion Model 8,931.73,5,1/6/2025,6/5/2024,Credit Card,1
+626101bc,1947c346,Cynthia Smith,Male,42,xbrady@yahoo.com,Port Ellen,New Jersey,USA,087a8e65,Shoes,Clothing,Shoes Model 4,732.51,3,2/27/2025,6/30/2024,Credit Card,4
+0fd0d095,234c1ce9,Taylor Stevens,Other,58,thomas25@hotmail.com,Smithburgh,Pennsylvania,USA,c8f7f170,Jacket,Clothing,Jacket Model 8,899.35,4,7/26/2024,4/27/2024,UPI,1
+1f64e0e5,1571457c,Stephanie Smith,Male,64,bryan11@hotmail.com,Reneeside,Louisiana,USA,ba0cce6f,Coffee Maker,Home & Kitchen,Coffee Maker Model 1,400.84,1,3/29/2024,6/3/2023,Cash on Delivery,2
+d9db2170,33e0d14b,Victor Alvarez,Female,52,jillcarlson@yahoo.com,Whitneytown,Kentucky,USA,b178d999,Blender,Home & Kitchen,Blender Model 2,737.55,2,12/31/2023,8/1/2023,UPI,4
+0fda9f26,4aa6fd92,John Mejia,Other,65,robertayoung@hotmail.com,Ryanmouth,Alabama,USA,37fd79a6,Fiction,Books,Fiction Model 8,20.21,1,6/17/2023,12/2/2023,Debit Card,5
+292ea991,49f6d27a,Robert Madden,Other,46,ronald76@myers-bowman.net,Emilyville,Pennsylvania,USA,c4ffdaea,T-Shirt,Clothing,T-Shirt Model 1,589.94,2,6/10/2023,6/11/2023,UPI,4
+8e695361,0fc3531d,Michael Curtis,Male,20,dharris@gmail.com,Johnsonberg,Michigan,USA,394a4af1,Laptop,Electronics,Laptop Model 7,575.45,2,12/2/2024,9/18/2024,Net Banking,2
+d34d75b5,6315a227,Brandi Barrera,Other,62,dgonzalez@vaughn.com,Lake Travis,Kansas,USA,e7821207,Educational,Books,Educational Model 10,155.97,4,3/4/2025,8/12/2023,Credit Card,1
+28ad1912,73e4e80e,Kimberly Boyer,Male,47,pgarcia@yahoo.com,New Josephport,North Dakota,USA,e1df8f0a,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 2,18.54,5,7/10/2023,12/15/2023,Debit Card,3
+bf78af84,5feae1ee,Benjamin Moore,Other,21,samantha48@yahoo.com,North Jennifer,Tennessee,USA,c1586759,Headphones,Electronics,Headphones Model 10,626.14,2,11/5/2024,8/26/2023,Cash on Delivery,4
+5235af2351,d0353f0d,Samantha Grant,Male,56,mcneiljason@moore-brown.info,Smithfurt,Ohio,USA,27de3894,Educational,Books,Educational Model 2,663.45,3,8/27/2024,6/4/2024,Credit Card,3
+e9bd4d97,b47735e5,James White,Other,63,albertfleming@hotmail.com,Jonesfurt,Wisconsin,USA,fe542816,Non-Fiction,Books,Non-Fiction Model 6,277.35,1,7/27/2024,8/3/2024,Debit Card,2
+6f30f038,036c91c5,Kevin Delgado,Other,34,jesse03@gardner-foster.info,Stevenhaven,Maryland,USA,56cd9f98,Fiction,Books,Fiction Model 8,95.26,5,4/20/2023,12/20/2023,Credit Card,4
+8ef8eed2,5c0eb179,Tracie Navarro,Female,37,tnicholson@yahoo.com,Keithchester,North Carolina,USA,3bb7a800,Shampoo,Beauty,Shampoo Model 7,10.64,2,11/30/2024,9/17/2024,Debit Card,4
+52635af,873cdb7d,Christopher Morales,Other,60,christianphillips@gmail.com,Port Davidland,North Dakota,USA,fbe83c4b,Smartwatch,Electronics,Smartwatch Model 1,290.74,2,7/12/2024,1/15/2024,Debit Card,2
+b291edc8,67d78e9a,Dr. Kevin Brooks PhD,Male,26,james05@reynolds.info,Veronicaport,New Hampshire,USA,565dd63a,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 8,923.19,4,4/14/2023,5/18/2024,Cash on Delivery,2
+b824d75f,85ddac99,Jennifer Hernandez,Female,58,samantha05@hotmail.com,Jamesbury,New Jersey,USA,7e967564,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 9,27.28,2,7/29/2023,12/17/2024,Debit Card,5
+a8332d1d,ccd9afc4,Angela Williams,Male,43,thomas56@pierce.com,Lake Robertport,Texas,USA,bb44ead9,Jacket,Clothing,Jacket Model 1,436.74,5,9/5/2024,12/12/2024,Net Banking,4
+4814aea9,f869703a,Michael Clark,Male,40,theresastewart@lloyd.com,New Richard,Arkansas,USA,0c679ffc,Coffee Maker,Home & Kitchen,Coffee Maker Model 7,824.72,3,6/13/2024,4/7/2024,Net Banking,2
+1ee41fc8,903d6473,Adrian Hamilton,Other,30,johnrobinson@hotmail.com,North William,Washington,USA,79b60aa5,T-Shirt,Clothing,T-Shirt Model 9,149.42,1,12/2/2024,10/7/2023,UPI,4
+b1dba283,ec5fc8fc,Jennifer Turner,Male,30,pberry@morales.org,New Danielle,New Hampshire,USA,6f7a8316,Educational,Books,Educational Model 2,11.87,5,10/15/2023,8/13/2024,Credit Card,2
+17d6e420,47563de2,Aaron Wood,Female,64,austin97@hotmail.com,East Steve,Hawaii,USA,77648f2b,Smartwatch,Electronics,Smartwatch Model 4,821.17,3,12/21/2023,11/12/2023,UPI,2
+87c35c81,b3880e73,Daniel Torres,Other,30,crystalwilliams@yahoo.com,Andersonton,Virginia,USA,674d876c,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 3,739.71,4,4/4/2023,1/12/2025,Cash on Delivery,4
+34a3e19a,9654fb32,James Tanner,Male,53,sreilly@ingram.com,Clarkfort,Washington,USA,11157863,Comics,Books,Comics Model 1,589.32,4,2/23/2025,9/15/2023,Net Banking,5
+8cd9e20e,ba081abb,Cynthia Webb,Female,39,wagnerlaura@hotmail.com,Port Roberttown,Louisiana,USA,d7c5c4e6,Blender,Home & Kitchen,Blender Model 10,202.11,5,8/17/2024,6/30/2023,Debit Card,1
+1f466edb,ec35aaa4,Taylor French,Male,59,april05@whitaker-gallegos.com,Williamton,Minnesota,USA,b421e88f,Sweater,Clothing,Sweater Model 2,185.15,5,8/4/2024,4/16/2023,UPI,4
+2561d169,c8e64fcd,Kristin Young,Female,56,jeremymarshall@gmail.com,Lake Amberberg,New Mexico,USA,3e09ec5b,Shoes,Clothing,Shoes Model 4,461.45,4,11/23/2023,11/10/2023,Net Banking,3
+f82e64ca,ea9c9154,Vincent Bradley,Male,26,taylortara@yahoo.com,New Ashleychester,Tennessee,USA,d8e58a7e,Shoes,Clothing,Shoes Model 4,663.58,1,7/28/2024,10/1/2024,Cash on Delivery,3
+bdd18834,f4d2acf2,Brittany Jordan,Other,33,rachelmoore@hotmail.com,Johnsontown,Iowa,USA,3591df22,Fiction,Books,Fiction Model 3,245.92,5,10/3/2024,7/19/2024,Net Banking,5
+6f8708d2,eec8f74c,Robert Young,Female,51,rebecca39@perez-porter.biz,North Rhonda,South Dakota,USA,7172925b,Laptop,Electronics,Laptop Model 9,735.06,5,3/11/2024,1/1/2024,Cash on Delivery,4
+5235df,8dd5ce48,Dr. Sherri Mccullough,Male,33,ncole@hotmail.com,Lake Emily,Kentucky,USA,4b705f36,Jacket,Clothing,Jacket Model 3,959.67,4,10/3/2023,4/11/2023,Debit Card,2
+6de93681,1f8b36b8,Eric Andrade,Female,52,twilkinson@frye.com,North Diane,Tennessee,USA,8fa400d0,Fiction,Books,Fiction Model 5,609.22,5,8/14/2023,4/28/2024,UPI,1
+08a71df3,c2c54a0e,Jacob Christensen,Other,57,greenekaren@yahoo.com,Pierceport,Oklahoma,USA,cb02ab9b,Comics,Books,Comics Model 9,208,1,7/31/2023,1/16/2025,UPI,3
+7fa7e995,47c797fe,Michael Williams,Female,43,allenmiguel@cook.com,North Brianaborough,Idaho,USA,d909363c,Blender,Home & Kitchen,Blender Model 8,811.43,4,8/21/2023,3/11/2025,Net Banking,4
+a10bf54d,00c151c4,Debbie Glass,Female,42,onealjeff@jacobs.com,West Lawrenceborough,Connecticut,USA,56dca91f,Body Lotion,Beauty,Body Lotion Model 8,526.74,2,2/7/2024,2/22/2024,Credit Card,4
+2a5d1bdf,a5ad0cbc,Maria Kelly,Male,63,davidcannon@gmail.com,New Charles,West Virginia,USA,6c305182,Jeans,Clothing,Jeans Model 1,73.94,3,6/14/2024,10/13/2023,UPI,1
+f0b1be79,e16e52ef,Arthur Moore,Female,61,peter27@ruiz-mccormick.biz,New Jamesmouth,Delaware,USA,2c9bb253,Biography,Books,Biography Model 3,861.68,1,1/6/2025,2/28/2024,Net Banking,3
+ef75e8fb,ea332df1,Joan Shaw,Male,30,vfields@leon.biz,East Patricia,South Dakota,USA,7e296ac9,Face Cream,Beauty,Face Cream Model 6,491.44,4,4/9/2023,10/22/2023,Credit Card,5
+e7ffca76,2410c1a9,Kimberly Jones,Other,65,kentdaisy@hotmail.com,Burchport,Massachusetts,USA,a6c82222,Biography,Books,Biography Model 1,817.07,4,5/17/2024,4/1/2023,Cash on Delivery,2
+5802be6b,f2f036ea,Lucas Casey,Other,34,halljessica@harmon.info,Shanemouth,Texas,USA,16d1475f,Jeans,Clothing,Jeans Model 1,177.7,4,7/12/2024,5/15/2024,Cash on Delivery,2
+fb4ec46f,d2e184ac,Susan Wagner,Other,34,shanejacobs@yahoo.com,Lake Tyler,California,USA,8cde2e1f,Shampoo,Beauty,Shampoo Model 10,671.69,3,9/19/2023,5/26/2023,Cash on Delivery,1
+72685bb5,c0d3f45f,Melissa Willis,Female,20,josekane@hotmail.com,Parkerstad,Florida,USA,149635a6,Headphones,Electronics,Headphones Model 1,528.88,3,5/3/2024,2/13/2025,Net Banking,2
+65ec6048,e28d2b19,Andrew Anderson,Male,62,colejennifer@marquez.com,Port Daniel,Arizona,USA,e6b645aa,Lipstick,Beauty,Lipstick Model 9,914.76,1,10/18/2023,3/24/2024,Net Banking,5
+38a9ab93,b4efd28f,Jennifer Gonzalez,Female,43,vmartin@morton.com,Melissamouth,Kansas,USA,34faf204,Sweater,Clothing,Sweater Model 6,444.16,2,10/27/2023,5/3/2024,UPI,1
+7d969e6d,ccb336d8,Mark Taylor,Other,37,brandistewart@delgado.biz,Lake Jamie,California,USA,533abb5b,Toaster,Home & Kitchen,Toaster Model 9,480.23,4,2/7/2025,3/4/2024,Debit Card,4
+60231b1d,0fdd9392,Jennifer Smith,Female,56,vaughanmike@hotmail.com,West Heather,Maryland,USA,1.28E+05,Jacket,Clothing,Jacket Model 6,823.95,3,9/24/2024,8/2/2023,UPI,3
+02ced907,c05f1d72,Robert Curtis,Female,27,katrinahaynes@yahoo.com,Graceshire,Delaware,USA,e43b8aba,Blender,Home & Kitchen,Blender Model 8,468.73,3,10/24/2024,3/18/2025,Cash on Delivery,1
+a6164c11,a76066ff,Elizabeth Fry,Female,50,johnburns@mcneil.com,East Christopher,Massachusetts,USA,da180b2a,Tablet,Electronics,Tablet Model 6,482.99,1,6/5/2023,2/8/2024,Cash on Delivery,4
+a065361f,cddfbb1b,Christopher Alexander,Other,27,imedina@hotmail.com,Perezville,North Dakota,USA,30ec0301,Biography,Books,Biography Model 10,852.57,4,3/26/2025,10/2/2023,Debit Card,5
+4efa2079,8c7d1b21,Teresa Daniels,Male,65,leon90@boyd.com,Howellville,Missouri,USA,cfc7f94a,Jacket,Clothing,Jacket Model 7,485.87,5,4/11/2024,8/11/2024,Credit Card,2
+68551ca5,3e54bf70,Krista Nguyen,Female,46,tward@butler.com,South Dennis,Washington,USA,8f7f976d,Biography,Books,Biography Model 10,95.6,5,8/26/2023,5/21/2024,Net Banking,1
+58d55ac9,a29bd50c,Peter Baker,Male,19,samuelparker@hotmail.com,New Julia,Tennessee,USA,eb6fdc8e,Toaster,Home & Kitchen,Toaster Model 10,155.56,4,8/22/2024,3/20/2025,Credit Card,2
+31e57b50,b2c667e0,Peter Lyons,Other,34,catherine49@hancock.biz,North Judy,Indiana,USA,27fc42d1,Fiction,Books,Fiction Model 8,197.07,2,8/4/2023,12/3/2023,UPI,3
+df158b82,a437aaed,Angela Moses,Male,33,thompsonthomas@scott-reed.biz,New Amy,New Jersey,USA,0ee40fcc,Smartwatch,Electronics,Smartwatch Model 1,914.11,2,11/29/2024,7/31/2024,Credit Card,3
+b7f43e46,bf1c45e4,Brian Norman,Male,43,greenjustin@yahoo.com,Parkerland,Kansas,USA,c0bca6c2,Microwave,Home & Kitchen,Microwave Model 7,221.38,2,7/23/2023,7/19/2024,Cash on Delivery,2
+ee2d2bd8,38287d95,Steven Rice,Female,57,christopher99@caldwell-mcfarland.org,North Craig,Idaho,USA,de36191e,Non-Fiction,Books,Non-Fiction Model 10,172.95,4,4/25/2024,7/29/2023,Cash on Delivery,5
+0ac8ffa4,ea880d4c,Mackenzie Smith,Male,61,webbkari@smith-bowers.com,Port Christina,Arizona,USA,2f30b493,Jacket,Clothing,Jacket Model 10,132.45,4,7/12/2024,5/15/2023,Debit Card,5
+66dbccc4,a3c33980,William Doyle,Female,42,matthewzavala@delacruz.org,West Johnville,Nebraska,USA,6ad81c97,Non-Fiction,Books,Non-Fiction Model 3,643.11,2,8/15/2024,5/11/2024,Net Banking,4
+fb89e61a,9905e598,Kenneth Rodriguez,Male,47,brianrichardson@yahoo.com,Theresaborough,Hawaii,USA,5ae38db1,Comics,Books,Comics Model 6,227.03,4,2/10/2024,5/31/2023,Debit Card,4
+345264ec,1900b61d,Stacy Cunningham,Male,38,valdezjimmy@lee-roth.com,East Dianeport,Virginia,USA,4012568,Perfume,Beauty,Perfume Model 8,567.76,1,4/28/2023,2/20/2025,UPI,3
+b181e14c,606e64a6,Deanna Brown,Male,30,davisjacob@hotmail.com,Karenstad,Tennessee,USA,cf7977f8,Non-Fiction,Books,Non-Fiction Model 7,313.7,4,9/22/2024,7/30/2024,Debit Card,1
+424821ad,546e9e70,Robert Moss,Other,32,taylorjacob@stokes.com,South Franciscoland,Oklahoma,USA,2b242b95,Smartphone,Electronics,Smartphone Model 7,145.08,4,5/15/2023,6/24/2024,Debit Card,4
+fa034704,47cc618f,Madeline White,Male,56,stephaniebeard@wilson-hughes.com,Gutierrezborough,Vermont,USA,eb1aa72e,Smartwatch,Electronics,Smartwatch Model 2,217.97,3,6/11/2024,3/21/2024,Cash on Delivery,5
+3f5e9cc5,edfecc7e,Eric Schultz,Other,62,alexanderrachael@martin.info,Denisehaven,Delaware,USA,7652d88f,Biography,Books,Biography Model 8,90.19,3,8/21/2024,12/7/2023,Cash on Delivery,1
+f37a8421,1d861b6f,Eric Lewis,Male,23,ewhite@gmail.com,South Kimberlyville,Illinois,USA,5de904b5,Non-Fiction,Books,Non-Fiction Model 4,778.2,2,3/13/2025,5/19/2024,Debit Card,3
+53d83b0d,4600e4a8,Lisa Gross,Female,43,aaronsawyer@hotmail.com,Crossside,Nebraska,USA,114d8741,Shampoo,Beauty,Shampoo Model 2,546.75,5,11/21/2024,9/26/2023,Net Banking,5
+a42d7f7b,11d992a6,Robert Hall,Female,25,woodscindy@proctor.com,Kleinview,Michigan,USA,67564cf9,Body Lotion,Beauty,Body Lotion Model 10,640.57,5,7/10/2023,6/26/2024,Cash on Delivery,3
+b339bb6f,3cbea1fd,Thomas Walker,Female,36,thompsonamanda@gmail.com,Wareport,Hawaii,USA,c0ace74a,Smartphone,Electronics,Smartphone Model 4,997.6,2,3/20/2025,3/8/2024,Net Banking,2
+865939b6,1a91cd72,David Roberts,Other,32,jason06@greene.com,Matthewton,Ohio,USA,14fb220f,Microwave,Home & Kitchen,Microwave Model 5,377.12,2,8/12/2024,8/15/2023,UPI,3
+a53dae91,43246305,Susan Johnson,Male,62,opaul@hotmail.com,West Anitafort,Mississippi,USA,7708f0da,Laptop,Electronics,Laptop Model 8,871.68,3,10/9/2024,4/24/2023,Debit Card,1
+c1b3926e,41db5443,Scott Collier,Other,53,joneschristina@gmail.com,Guerrerotown,Alabama,USA,a0dd62aa,Headphones,Electronics,Headphones Model 6,303.06,1,8/23/2023,9/6/2023,Cash on Delivery,4
+a072c92b,47fd6805,Danielle Brown,Female,59,dayalexandra@becker-smith.com,East Janetown,Maine,USA,ed759759,Tablet,Electronics,Tablet Model 6,760.11,4,3/12/2024,11/3/2023,UPI,3
+253adsf3,7dfecaa4,Angela Parker,Other,65,charles58@murray-houston.com,West Christineton,Virginia,USA,b947b3fd,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 4,424.69,2,2/7/2025,9/23/2023,UPI,4
+7eaf6926,b6f1a145,Alan Shaw,Female,46,katherinesingleton@gmail.com,North Jamiestad,Wisconsin,USA,85098410,Coffee Maker,Home & Kitchen,Coffee Maker Model 8,765.06,5,1/7/2024,8/24/2024,Credit Card,2
+a4baa5f1,f4e6eda3,Edward Soto,Other,22,murphyanthony@hotmail.com,West Jeremyton,North Carolina,USA,0ba996a3,Jeans,Clothing,Jeans Model 8,585.76,3,9/18/2024,8/17/2024,UPI,2
+2b752eb9,d2bbbcda,Jennifer Singh,Other,47,lauraatkins@hotmail.com,East Davidmouth,Delaware,USA,90e9011c,Laptop,Electronics,Laptop Model 4,806.51,3,1/22/2024,11/16/2024,Cash on Delivery,4
+5f690d34,41dd80b1,Shannon Burton,Other,22,michelle42@wilson-sims.com,Scotttown,Maine,USA,b93cdf22,Toaster,Home & Kitchen,Toaster Model 9,632.47,1,2/2/2025,3/1/2025,Net Banking,5
+d38d0b75,e60da0f5,Randy Morton,Female,42,davislisa@wolfe.net,Port Ashley,South Carolina,USA,94f0ec3f,Tablet,Electronics,Tablet Model 4,462.94,2,7/12/2024,8/23/2023,Credit Card,5
+87f00fc9,de3ffb83,Emily Hernandez,Other,35,joseph08@hotmail.com,North Kathryn,South Carolina,USA,d4d30a95,Laptop,Electronics,Laptop Model 1,812.38,1,2/7/2024,11/11/2023,Credit Card,2
+d4cc6139,85042732,Justin Mccann,Female,52,brownsharon@gmail.com,Lake Johnview,South Carolina,USA,217d0473,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 4,893.11,4,8/3/2023,7/22/2023,Debit Card,2
+cd42a8c0,c4c50786,Crystal Weeks,Female,55,bradymelissa@gmail.com,Port Robertville,Arkansas,USA,f675e619,Shoes,Clothing,Shoes Model 9,458.45,3,2/24/2025,7/11/2023,UPI,5
+5235as35,1041cff4,Katherine Griffin,Male,40,thomasmitchell@chavez-smith.com,North Charlestown,Rhode Island,USA,4dcb79af,Smartphone,Electronics,Smartphone Model 9,135.34,4,10/26/2024,7/30/2023,UPI,2
+261f5d7f,1c66075c,Brad Santiago,Other,60,jarmstrong@myers.com,East Tylerfurt,Alabama,USA,a1b9f346,Laptop,Electronics,Laptop Model 10,987.58,3,6/9/2024,7/26/2024,Debit Card,5
+2ee44ca0,45c9991a,Cory Cohen,Female,25,kimberly90@barnes.com,Port Tiffany,Vermont,USA,14dd8332,Comics,Books,Comics Model 8,909.01,2,2/14/2025,12/20/2023,UPI,3
+2c252e9a,16d45139,Jeffrey Garcia,Male,39,brownbrent@lynch.com,New Kirsten,Washington,USA,03736d4f,Tablet,Electronics,Tablet Model 1,329.41,2,12/5/2023,5/9/2023,UPI,1
+b974256d,9b3980d3,Jill Mills,Male,63,amber90@perkins.com,Garnerfort,Wyoming,USA,94768ced,Perfume,Beauty,Perfume Model 8,956.41,3,8/2/2024,10/15/2024,Net Banking,2
+000c4af6,37172318,Cheryl Adams,Male,41,cluna@hotmail.com,New William,Minnesota,USA,93e6f682,Smartwatch,Electronics,Smartwatch Model 10,470.91,5,2/20/2024,6/14/2023,Cash on Delivery,3
+f50e4ba9,08775bf9,Miranda Davis,Male,48,simpsonrebecca@yahoo.com,Ryanbury,Idaho,USA,04cb7409,Sweater,Clothing,Sweater Model 6,936.94,3,8/17/2023,11/12/2024,Debit Card,5
+94f186ab,8a71e8ec,Cassandra Allen,Other,63,rramirez@watson.net,Josefort,Wyoming,USA,4480f817,Comics,Books,Comics Model 3,101.12,5,8/15/2024,7/5/2024,Debit Card,3
+638818d9,d4ac9dad,James Murray,Male,57,drobinson@yahoo.com,Lake Christopher,California,USA,98d783a3,Fiction,Books,Fiction Model 5,900.1,1,6/12/2024,6/8/2024,Debit Card,1
+0874d23b,27a5196f,Todd Costa,Female,30,julie37@yahoo.com,Petersonton,Mississippi,USA,ec86ff2d,Fiction,Books,Fiction Model 2,928.86,4,1/5/2024,11/22/2024,Debit Card,5
+46ab92f5,12bfcba1,Hayley Richardson,Other,23,richard32@lewis.com,Ericburgh,Kansas,USA,fc7a1ff3,T-Shirt,Clothing,T-Shirt Model 1,929.86,5,6/16/2023,4/24/2024,Debit Card,3
+1bc1be21,0ea9983c,David Pruitt,Other,20,bernarddaniel@johnson.org,Port Courtney,Maine,USA,6bd6bef5,T-Shirt,Clothing,T-Shirt Model 6,523.26,2,2/19/2024,8/20/2023,Net Banking,5
+def6616c,6e050f60,Cheryl Kramer,Male,24,zachary25@hotmail.com,Port Thomasborough,Kansas,USA,5cedbeab,Face Cream,Beauty,Face Cream Model 1,945.7,2,11/6/2023,12/11/2023,Debit Card,1
+c6a88a5f,166d8c98,Brent Irwin,Other,35,qrobinson@cherry-white.info,North Sherrychester,Wyoming,USA,45236f53,Shoes,Clothing,Shoes Model 2,321.94,2,2/19/2025,2/16/2024,Credit Card,3
+f084093f,28d6717a,Lawrence Williams,Female,28,gomezaaron@patterson.com,East Lisahaven,Louisiana,USA,8d3a9ffe,Lipstick,Beauty,Lipstick Model 2,670.3,1,11/17/2023,12/2/2024,UPI,2
+4d3ebb57,88cf98a1,Sophia Ward,Female,18,bcastillo@lowe.com,Stanleyburgh,Texas,USA,c9c8ae76,Non-Fiction,Books,Non-Fiction Model 4,385.1,5,10/2/2024,5/18/2023,Cash on Delivery,5
+18b951fc,4d09059e,Sarah Cooper,Other,39,julie31@yahoo.com,South Kevinmouth,Idaho,USA,2280a9ff,Coffee Maker,Home & Kitchen,Coffee Maker Model 7,901.04,5,4/20/2023,11/28/2023,Debit Card,5
+8975e806,40c89369,James Nichols,Male,20,thompsonsamuel@gmail.com,Lake Joshuaburgh,Montana,USA,9e6be0b4,Biography,Books,Biography Model 10,202.79,1,1/22/2024,3/5/2025,UPI,5
+67f662ff,d4da1f77,Scott Perry,Male,36,yolandamitchell@gmail.com,Markton,Michigan,USA,adc58ee9,Non-Fiction,Books,Non-Fiction Model 7,38.8,1,11/5/2024,11/10/2023,Cash on Delivery,1
+e00541a6,c02c2606,Hannah Medina,Other,33,powens@hotmail.com,West Brian,Connecticut,USA,c41a8c63,Microwave,Home & Kitchen,Microwave Model 10,26.21,5,7/24/2023,8/24/2024,Debit Card,3
+c9794c3d,6aa2a99e,Amanda White,Female,22,stanley46@johnson.info,Howeport,New Mexico,USA,7802c568,Sweater,Clothing,Sweater Model 6,355,2,12/23/2024,4/9/2024,UPI,1
+1e4d7c91,5d202a10,Thomas Wheeler,Other,30,vwallace@maynard.com,Marybury,Kentucky,USA,1834fc81,Jacket,Clothing,Jacket Model 9,995.13,4,6/30/2024,1/3/2024,Cash on Delivery,3
+8c2976fa,61cda70d,Christopher Levy,Female,55,dustinfitzpatrick@gmail.com,South Audrey,West Virginia,USA,102f4a43,Microwave,Home & Kitchen,Microwave Model 7,961.46,5,5/26/2024,10/5/2023,Debit Card,1
+b8840194,1d869ff0,Amy Morrison,Other,55,smarsh@johnson.com,South Melaniebury,South Dakota,USA,ebed959a,Microwave,Home & Kitchen,Microwave Model 3,659.72,3,12/2/2023,12/12/2023,Debit Card,1
+b339200b,1374997f,Maria Reeves,Other,55,ashley79@johnson-ayala.com,Lindsayfurt,Indiana,USA,41155cc9,Toaster,Home & Kitchen,Toaster Model 4,928.72,2,1/21/2024,2/6/2024,Debit Card,5
+ab2a3d89,236142cd,Kevin Berg,Female,39,hgibson@gmail.com,West William,Missouri,USA,67baa719,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 3,662.43,5,7/30/2023,8/28/2024,Cash on Delivery,3
+7d086c65,eeecd508,Nicholas Wade,Female,60,rachelblack@walsh.info,Lanceberg,Ohio,USA,62d06bc6,Educational,Books,Educational Model 6,432.84,3,8/2/2023,2/15/2024,Credit Card,1
+6075a1ec,81a97052,Alison Russo,Female,50,ortiznicholas@jimenez-castro.com,Port Andrew,Arizona,USA,11d92ec7,Comics,Books,Comics Model 4,989.26,1,4/9/2023,4/12/2024,Credit Card,1
+1a13d6c9,42e394d5,Marie Shea,Female,39,marshallerik@yahoo.com,Petersberg,Oregon,USA,b89a8f84,Smartphone,Electronics,Smartphone Model 2,452.94,1,4/27/2023,11/21/2024,Net Banking,1
+968815db,2b3ecb79,Susan Arnold,Other,52,xfreeman@miller-caldwell.info,East Jordan,Missouri,USA,2a0127ee,Blender,Home & Kitchen,Blender Model 1,140.24,3,6/6/2023,6/17/2024,Debit Card,2
+9142fbc3,fc82286d,Jordan Kelly,Female,24,jessica84@harris-henderson.com,Ericchester,Wyoming,USA,f4a49d78,Comics,Books,Comics Model 7,680.42,2,3/2/2025,9/5/2023,Net Banking,4
+695fb79f,9159189,Kathy Haynes,Male,42,julie59@stevens-brown.com,Hernandezhaven,Missouri,USA,9d2c940d,Laptop,Electronics,Laptop Model 5,17.31,2,10/14/2023,2/28/2024,Debit Card,5
+50d60b12,3377ccf9,Matthew Mcfarland,Male,36,david88@gmail.com,Keithview,Rhode Island,USA,36f049db,Comics,Books,Comics Model 3,106.52,2,1/25/2024,8/17/2024,Debit Card,3
+0a825037,64874174,Wendy Bush,Female,48,jacqueline71@richards.biz,North Darrenside,Nevada,USA,35711f74,Biography,Books,Biography Model 6,845.21,1,6/24/2023,1/14/2024,Cash on Delivery,1
+7ad7f7f3,2c64bdce,Kaitlin Howell,Male,43,vanglaurie@gmail.com,Markport,Nevada,USA,e885ff6d,Sweater,Clothing,Sweater Model 6,865.4,3,6/25/2023,4/6/2024,Net Banking,1
+2a4923c1,fc604407,Alicia Curtis,Male,32,trevinorebecca@yahoo.com,New Hector,Kansas,USA,370f7674,Perfume,Beauty,Perfume Model 1,25.43,5,7/13/2024,8/20/2024,UPI,1
+02933d31,e15a1021,Elizabeth Hernandez,Other,54,heathergomez@hotmail.com,Johnton,Utah,USA,94875466,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 7,154.96,5,7/23/2024,6/17/2024,Credit Card,5
+fb5b3a3f,464cd6c2,Douglas Holt,Male,20,jmartin@richmond.com,South Alexander,Rhode Island,USA,be498018,Fiction,Books,Fiction Model 9,271.7,1,9/22/2024,11/10/2024,Credit Card,5
+348a4697,99c8f056,Joshua Henderson,Other,52,wallaceseth@english.com,North Melissaton,New York,USA,9610ba3e,Fiction,Books,Fiction Model 5,166.69,4,3/17/2025,5/18/2024,UPI,2
+b43d877b,f1265c37,Chad Jones,Other,63,jessica19@combs.com,North Chadport,Illinois,USA,ef2f0054,Biography,Books,Biography Model 4,135.74,5,9/1/2023,9/20/2024,Debit Card,4
+01df0fcd,d5ebacb2,Bailey David,Male,21,kylejohnson@maldonado-robertson.com,Port William,Georgia,USA,7be708be,Comics,Books,Comics Model 5,103.73,5,12/14/2023,7/25/2023,Credit Card,4
+253ads,e464bbec,Amy Higgins,Female,64,brandifisher@jones-matthews.com,West Ericachester,South Carolina,USA,61e7fd91,Smartphone,Electronics,Smartphone Model 1,634.44,2,4/25/2024,2/24/2025,Debit Card,4
+09f7659e,9e43ebfa,Jenny Morgan,Other,44,justinmunoz@gomez-beasley.com,Pierceborough,Nevada,USA,b2ed2590,Non-Fiction,Books,Non-Fiction Model 1,66.12,4,10/24/2023,11/28/2023,Debit Card,1
+aa591fe4,65fb2938,Shawn Coleman,Male,64,brian59@hotmail.com,New James,New York,USA,e27c79ac,Perfume,Beauty,Perfume Model 10,250.68,5,10/3/2023,3/26/2025,Credit Card,3
+297bf187,0e3eb5e2,Alexis Davidson,Female,48,ryan12@yahoo.com,Millertown,Hawaii,USA,84db41c2,Body Lotion,Beauty,Body Lotion Model 10,784.05,4,8/23/2023,5/23/2023,Credit Card,5
+46d26264,edd05f53,Eric Booker,Male,50,loricortez@stevens-mercer.com,Camposstad,South Carolina,USA,540f0dbb,Comics,Books,Comics Model 4,269.06,5,10/2/2024,6/30/2023,Debit Card,5
+84873c78,948c560b,Andrew Richardson,Other,27,brittany81@hotmail.com,East Linda,Tennessee,USA,579957fb,Smartwatch,Electronics,Smartwatch Model 2,988.86,1,9/8/2024,3/5/2025,Cash on Delivery,1
+39b53584,682f4bab,Melinda Coleman,Male,61,ymiller@rivera-castro.com,Kristieland,New Jersey,USA,024aead8,Fiction,Books,Fiction Model 8,693.24,4,9/1/2024,5/30/2023,Net Banking,5
+7ce541db,c5385f71,Margaret Guerrero MD,Male,38,austinjackson@hotmail.com,Robertville,Arkansas,USA,22fe1294,Coffee Maker,Home & Kitchen,Coffee Maker Model 4,635.98,3,9/28/2023,7/27/2024,UPI,3
+33889ea0,429522d4,Kaitlyn Jackson,Other,64,ibarton@martinez.com,Arnoldberg,Massachusetts,USA,a4f2f8c4,Blender,Home & Kitchen,Blender Model 6,359.54,3,3/26/2024,7/12/2024,Debit Card,3
+f7bf3d84,d4696be0,Matthew Miller,Other,31,jamesdavis@huffman.com,Carlymouth,Virginia,USA,9320a41f,Perfume,Beauty,Perfume Model 9,666.32,3,11/19/2024,1/28/2025,UPI,4
+69a0ac11,1e839678,Lauren Schwartz,Other,20,marie83@hotmail.com,Andersonfurt,Mississippi,USA,1474281d,Shampoo,Beauty,Shampoo Model 5,186.92,1,3/27/2025,2/5/2024,Cash on Delivery,5
+6ac06c7f,3.89E+32,John Andrade,Female,39,gburke@yahoo.com,Collinston,Illinois,USA,68754501,Laptop,Electronics,Laptop Model 4,156.1,3,12/26/2024,4/21/2024,Debit Card,1
+0a0167bf,91e3d70d,Richard Wilkins,Male,28,courtneymurphy@gmail.com,East Gabrieltown,Massachusetts,USA,af6b620b,Biography,Books,Biography Model 2,701.51,1,3/27/2025,1/30/2024,Credit Card,1
+88c6c02b,e6b6f869,Melissa Obrien,Other,56,garydennis@foster-love.biz,Darylchester,Maine,USA,8dffc61d,Face Cream,Beauty,Face Cream Model 8,671.4,1,6/9/2024,8/5/2023,Debit Card,1
+0839c4f8,e614f464,Jennifer Delacruz,Other,61,bmartinez@gonzalez.com,Brittanyport,North Carolina,USA,8e9f478e,Microwave,Home & Kitchen,Microwave Model 8,591.57,1,5/23/2024,6/26/2023,UPI,3
+072a8e5a,1ab200dd,Sandra Smith,Other,49,washingtonanita@hotmail.com,Gonzalezshire,Maryland,USA,31db30bc,Educational,Books,Educational Model 3,802.82,1,10/10/2023,2/7/2024,Credit Card,4
+3253adfs,21986c35,Brian Collier,Female,19,churcheric@griffith.com,New Paula,Alabama,USA,e1fabb62,Smartphone,Electronics,Smartphone Model 1,560.8,3,8/10/2023,12/17/2023,Debit Card,3
+32de95a9,5c42e273,Danielle Brown,Other,57,rprice@gmail.com,Morenoville,Nevada,USA,3ff5d70d,Biography,Books,Biography Model 9,740.49,3,3/10/2024,6/11/2024,UPI,4
+bfd3014b,d4bccc5e,Linda Carter,Female,21,amanda47@hanson.com,Hardinfort,Louisiana,USA,21f79bc9,Microwave,Home & Kitchen,Microwave Model 8,89.99,3,11/23/2023,7/5/2024,Net Banking,1
+278a54a0,e07eb06d,Steven Anderson,Male,59,robertmoore@gmail.com,Robersonmouth,Connecticut,USA,1b13f933,Sweater,Clothing,Sweater Model 5,573.34,1,11/5/2023,7/5/2023,Credit Card,4
+d57c5ec9,e465b174,Tammy White,Male,59,hadams@yahoo.com,New Rebeccaburgh,Alaska,USA,04c7e156,Shampoo,Beauty,Shampoo Model 5,686.24,2,1/26/2025,1/5/2024,Credit Card,3
+61544e0f,7aa80cd7,Joshua Wallace,Male,41,elizabethbautista@yahoo.com,West Andrewborough,Georgia,USA,24854897,Fiction,Books,Fiction Model 2,796.06,1,12/6/2024,1/2/2024,Cash on Delivery,1
+05cb3391,a25503aa,Darlene Barnes,Male,49,kristin80@powers.com,Kellyland,Nebraska,USA,a3815616,Jacket,Clothing,Jacket Model 2,162.37,5,6/22/2024,10/27/2023,UPI,1
+bb6b933f,54edc6ce,Dawn Mccall,Other,53,fernandezlaurie@hotmail.com,Port Cameron,Alabama,USA,18d44f2c,Smartphone,Electronics,Smartphone Model 10,897.21,2,7/5/2024,10/10/2024,Credit Card,2
+17ab9411,728cbb25,Frederick Garcia,Female,54,kylescott@gmail.com,New Julie,Arkansas,USA,8b7bcbd5,Perfume,Beauty,Perfume Model 6,695.03,4,1/16/2024,8/20/2024,Debit Card,4
+1edd5dec,b4f3b8e9,Teresa Barnett,Other,47,hartmanadam@crawford.com,North Kimberly,North Carolina,USA,74a48d10,Non-Fiction,Books,Non-Fiction Model 9,873.13,5,7/15/2023,8/23/2023,Cash on Delivery,5
+a0c364a7,d2ad4bd9,Mary Daniels,Female,23,johnsonpaul@gmail.com,Mosleyton,New Mexico,USA,6d387e99,Laptop,Electronics,Laptop Model 1,824.73,3,7/11/2024,8/2/2024,Debit Card,3
+9607b231,2f6f0a9d,Perry Benton,Other,55,xsmith@taylor.net,New Franciscoshire,Nevada,USA,2d079f93,Smartwatch,Electronics,Smartwatch Model 6,36.73,2,11/26/2023,2/25/2025,UPI,1
+5ef101ea,46df06d6,Damon Keller,Male,43,melvin75@yahoo.com,Lake Brandonburgh,Maine,USA,46783f0b,Shampoo,Beauty,Shampoo Model 4,232.12,1,12/23/2024,10/19/2023,UPI,1
+3a4afa65,f5e65124,Michael Wilson,Male,44,qballard@hickman.org,South Victorville,Iowa,USA,ecae0f48,Educational,Books,Educational Model 1,567.74,2,11/1/2023,6/21/2024,UPI,5
+01fb8693,645fa946,David Flores,Other,48,deanna20@burns-thomas.com,West David,Indiana,USA,a48932e5,Body Lotion,Beauty,Body Lotion Model 7,715.66,3,2/8/2025,7/31/2023,Debit Card,4
+b6e0e8df,4280fff8,Sean Kramer,Other,24,erika57@myers.com,Millertown,West Virginia,USA,7837ea8d,Coffee Maker,Home & Kitchen,Coffee Maker Model 8,955.74,1,5/3/2023,9/12/2024,Cash on Delivery,4
+13273d8d,68fecc70,Lori English,Other,41,mullinspaige@hotmail.com,Jasminestad,Massachusetts,USA,c5186515,Sweater,Clothing,Sweater Model 9,473.4,1,1/18/2025,1/9/2024,Cash on Delivery,4
+353b4dcd,129fa90e,Cheryl Smith,Male,64,zho@yahoo.com,Parrishburgh,Arkansas,USA,9f9dfa53,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 2,244.82,2,5/5/2024,3/8/2024,UPI,3
+c61e0c59,583a4666,John Leon,Male,59,thompsontricia@miller.info,Caldwellshire,North Carolina,USA,a8a8cf6c,Coffee Maker,Home & Kitchen,Coffee Maker Model 7,417,2,7/25/2024,6/3/2024,Net Banking,5
+6889c496,dde6f4a6,Steven Pearson,Male,32,wendydiaz@carter-mckenzie.net,Comptonside,Minnesota,USA,1f880f3a,Shampoo,Beauty,Shampoo Model 1,326.31,2,3/6/2025,8/17/2024,Cash on Delivery,2
+a3bda9c7,dbee810c,Marisa Molina,Other,26,zrandolph@jones-miller.com,Lake Lauraville,Maine,USA,09e92d16,Jacket,Clothing,Jacket Model 8,498.94,1,5/19/2023,12/15/2024,Net Banking,1
+38f68f8e,29004ed3,Brett Jefferson,Female,24,jennifer37@stuart.com,Curtisshire,Arkansas,USA,c222caeb,Shoes,Clothing,Shoes Model 9,859.45,1,8/20/2024,7/16/2023,Net Banking,4
+56f5fdc9,4931a824,Jason Mcdonald,Male,52,amber97@perry.biz,West Joshua,Colorado,USA,7cf40b6c,Non-Fiction,Books,Non-Fiction Model 7,47.48,2,10/31/2024,3/20/2025,Credit Card,3
+42044a30,0a8b6593,Angela Sanchez,Female,37,julia87@thomas.com,Penafurt,Wisconsin,USA,0d5cf477,Shampoo,Beauty,Shampoo Model 6,640.07,3,8/5/2024,1/19/2024,Cash on Delivery,2
+4410c1e5,8ed5e85f,Mary Ford,Other,31,victoria14@gmail.com,New Kathy,Connecticut,USA,39854200,Laptop,Electronics,Laptop Model 9,619.05,2,2/15/2024,3/27/2024,Net Banking,5
+a1bd7dce,a1d7ea14,Kristin Logan,Male,33,kreid@gmail.com,Smithland,Delaware,USA,9cfe67c6,Non-Fiction,Books,Non-Fiction Model 9,331.9,3,9/19/2024,3/22/2025,UPI,1
+58ed37d7,69e6d840,Kevin Arroyo,Other,18,csnyder@hotmail.com,South John,Kentucky,USA,88878c71,Biography,Books,Biography Model 4,513.96,1,12/20/2023,5/21/2023,Net Banking,3
+c6376ac3,030c1677,Gabriela Wells,Female,19,sonyawhitehead@smith.biz,Erintown,Texas,USA,7ce7e453,Educational,Books,Educational Model 4,214.2,4,2/21/2025,8/8/2024,Credit Card,1
+d896637f,52e89c2d,Jay Roberts,Male,47,josephsalas@hotmail.com,West Jacobland,Nebraska,USA,9a365d5b,Biography,Books,Biography Model 3,527.48,4,7/18/2023,10/13/2023,Debit Card,1
+f424f745,20f911a4,Amber Stewart,Female,39,michael53@hotmail.com,Port Krististad,Oregon,USA,a3e914db,Laptop,Electronics,Laptop Model 9,900.82,4,10/31/2024,3/23/2025,Net Banking,5
+0ec3395a,266432f0,Linda Dickson,Other,44,martinjessica@gmail.com,North Roger,Florida,USA,b795b17a,Face Cream,Beauty,Face Cream Model 4,958.54,2,12/29/2023,5/1/2023,UPI,3
+9020c029,0a1d67af,David Acosta,Male,37,hgordon@yahoo.com,New Donald,Maine,USA,747af625,Lipstick,Beauty,Lipstick Model 6,159.01,1,8/22/2023,4/11/2023,Debit Card,4
+39b9d79a,1ede72fa,Thomas Jimenez,Female,23,ucontreras@hopkins-waters.com,Victoriafort,California,USA,91e54149,Fiction,Books,Fiction Model 7,472.77,1,5/7/2023,3/24/2025,Debit Card,5
+9944534c,903c9538,Tyler Davis,Other,48,johnny98@leonard.biz,West Emily,Montana,USA,da83ee27,Face Cream,Beauty,Face Cream Model 2,796.62,1,8/4/2023,1/13/2025,Cash on Delivery,4
+934859d4,d55bedda,Andrea Bennett,Male,28,darren46@gmail.com,North Danielleview,New Hampshire,USA,b3d71f10,Biography,Books,Biography Model 6,810.84,5,3/5/2024,12/28/2024,UPI,4
+c6c9fc68,1b29895a,Richard Johnson,Other,61,hendersonryan@james.com,Port Marymouth,Illinois,USA,cd05c0ca,Blender,Home & Kitchen,Blender Model 5,647.82,5,12/31/2024,12/11/2023,Cash on Delivery,4
+e643576a,de294f41,Gary Bautista,Other,41,fdiaz@hotmail.com,Port Samuelhaven,Oklahoma,USA,5a7dec7f,Toaster,Home & Kitchen,Toaster Model 4,387.49,5,10/4/2023,11/22/2023,UPI,1
+7b5a7368,cdc07962,Jennifer Baxter,Female,54,johncolon@gmail.com,South Taylor,New Mexico,USA,179f992f,Headphones,Electronics,Headphones Model 4,21.74,1,1/13/2024,11/3/2023,Cash on Delivery,5
+d1dd913f,a1ecd252,Nicole Navarro,Male,21,hillsteven@yahoo.com,New Jasminefurt,Iowa,USA,8af05d4d,Biography,Books,Biography Model 4,520.07,2,4/2/2023,7/8/2024,UPI,2
+f8e64a11,55023173,Amber Thompson,Female,62,wallacechristine@yahoo.com,Smithstad,Kentucky,USA,c9a5ffa2,Sweater,Clothing,Sweater Model 9,25.89,2,4/17/2023,3/5/2024,Net Banking,5
+592f715a,9179b06f,Brandy Davenport,Male,63,allison99@morse.com,Hardinbury,Utah,USA,202dcac6,Fiction,Books,Fiction Model 8,898.18,2,11/30/2024,6/11/2023,Net Banking,5
+07b8e090,8a953fe8,Sara Grant,Male,43,hannah62@yahoo.com,South Holly,West Virginia,USA,4a93ac72,Smartphone,Electronics,Smartphone Model 9,622.26,2,9/5/2023,5/19/2024,Credit Card,1
+a0e658e8,fae35eb4,Carol Williams,Male,38,conniehernandez@hotmail.com,Lake Jacobview,Arkansas,USA,788d0c13,Non-Fiction,Books,Non-Fiction Model 9,833.24,2,10/13/2023,10/19/2024,Credit Card,5
+5e286b83,eae20311,Shane Robinson,Other,34,erinspencer@gmail.com,Angelaview,Michigan,USA,dac5762d,Blender,Home & Kitchen,Blender Model 8,657.35,2,1/24/2025,5/1/2024,Cash on Delivery,3
+9553f7ab,bf2246cc,Nancy Davis,Other,64,michaelfrederick@gmail.com,Port Dennismouth,New Mexico,USA,5760b488,Headphones,Electronics,Headphones Model 3,193.41,4,7/26/2024,11/23/2023,Debit Card,1
+4630bba4,a7fe6e4a,John Carlson,Other,62,chanmadeline@hotmail.com,New Tonya,Missouri,USA,686caff3,Perfume,Beauty,Perfume Model 10,530.82,4,10/6/2023,11/18/2023,UPI,2
+344fd09e,77e59221,Sara Ross,Other,56,bburns@murphy.net,Lake Nicoleshire,Delaware,USA,0b914348,Comics,Books,Comics Model 9,93.49,4,8/12/2024,5/13/2023,Net Banking,5
+9af65805,4e729c13,Regina Morales,Other,20,jordan50@hotmail.com,North Randall,Oklahoma,USA,c9541484,Headphones,Electronics,Headphones Model 3,874.12,5,4/28/2023,3/1/2024,Debit Card,1
+4f0f2752,f83392d6,Jennifer Brown,Male,43,devin26@peterson.com,North Nancy,South Dakota,USA,390845d3,Body Lotion,Beauty,Body Lotion Model 6,740.76,5,10/30/2024,4/5/2023,Net Banking,3
+314598c5,2651f19b,Kayla Nelson,Female,27,paulmosley@hotmail.com,Port Jeremyshire,Tennessee,USA,f4d924b0,Headphones,Electronics,Headphones Model 4,793.34,2,1/20/2024,4/29/2023,UPI,3
+0a18a326,dc7eb53b,Danny Gilbert,Female,37,vross@gmail.com,Pittsfurt,Nevada,USA,d8362b58,T-Shirt,Clothing,T-Shirt Model 1,680.69,4,12/29/2023,3/9/2024,Cash on Delivery,1
+894da403,9b33ee63,Paul Tucker,Male,33,myersjames@hotmail.com,Lisaberg,California,USA,40e96eae,Blender,Home & Kitchen,Blender Model 3,976.7,3,3/3/2025,8/23/2023,UPI,4
+a486502b,5938b670,Lonnie Thompson,Other,27,katie77@yahoo.com,Billshire,Maine,USA,0921c3e4,Toaster,Home & Kitchen,Toaster Model 7,163.33,1,4/29/2023,10/25/2024,Credit Card,3
+8f67107f,9446ef5e,Michael Wright,Male,62,sjackson@meza.com,South Anthonytown,Arizona,USA,7aaa802e,Laptop,Electronics,Laptop Model 2,169.96,4,1/21/2024,8/23/2024,Debit Card,2
+ac2b93aa,f1542cc6,Christina Brown,Female,21,blakeerin@yahoo.com,Alexanderside,Georgia,USA,ff35f850,Jacket,Clothing,Jacket Model 9,928.1,1,10/11/2023,11/10/2023,Cash on Delivery,3
+715d9509,876e6da8,David Blackwell,Male,47,clarkjennifer@schneider-graham.com,North Keith,Massachusetts,USA,6aec106d,Shoes,Clothing,Shoes Model 1,760.19,1,10/30/2023,9/9/2024,Debit Card,2
+045aa9c0,c810f604,Charles Palmer,Other,56,vfigueroa@leon.com,South Adam,Washington,USA,b8537071,Body Lotion,Beauty,Body Lotion Model 2,785.69,1,7/15/2023,7/24/2023,UPI,2
+1bbbbcf1,37289f91,Brandi Cline,Male,33,lalvarez@hotmail.com,Patrickfort,Illinois,USA,a85b2dc7,Sweater,Clothing,Sweater Model 7,963.14,2,1/24/2025,4/4/2024,UPI,3
+39f81036,99c1ae01,Curtis Hutchinson,Other,63,lyonsmitchell@moran.com,East Roberthaven,Wyoming,USA,9da15926,Headphones,Electronics,Headphones Model 9,935.37,5,3/23/2025,5/4/2024,Credit Card,5
+42c4ce6a,c05216b8,Shannon Hansen,Female,40,brian53@yahoo.com,Murphystad,Montana,USA,069ff4d3,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 5,666.41,4,4/26/2024,6/10/2024,Debit Card,5
+52f0b0b4,4de8a0d2,Tracey Phillips,Female,18,christopher99@ramirez.org,Christopherton,Iowa,USA,b710dc6d,Toaster,Home & Kitchen,Toaster Model 10,171.63,5,7/10/2023,8/15/2023,Credit Card,3
+14b0ced1,10244526,Joan Johnson,Other,30,tylerbright@hotmail.com,Leslieborough,New York,USA,d1190d02,Tablet,Electronics,Tablet Model 2,65.1,4,6/9/2023,11/15/2023,Credit Card,2
+a67c95bf,cc6fc7ac,Marie Gonzales,Male,55,fwatson@yahoo.com,South Mackenzie,Wisconsin,USA,d830569d,Jeans,Clothing,Jeans Model 6,500.63,2,2/25/2024,12/24/2024,UPI,3
+aea289e5,33eafae8,Ann Werner,Other,61,thomasdavid@gmail.com,East Crystal,Arizona,USA,f2ee1ce6,Comics,Books,Comics Model 5,542.41,5,9/11/2023,4/17/2024,UPI,2
+ce8aec12,58c81679,Brian Roberts,Female,44,angela12@hotmail.com,New Biancamouth,Arizona,USA,e926d720,Non-Fiction,Books,Non-Fiction Model 6,407.32,4,12/8/2024,3/10/2025,Credit Card,1
+34cd66d1,e06fc823,Dustin Jackson,Male,48,cruzelizabeth@wilson.com,Blakechester,South Dakota,USA,c12d98fd,Fiction,Books,Fiction Model 7,696.36,1,8/27/2023,3/1/2024,UPI,4
+40df44d7,e94d800a,John Ferguson,Female,28,jamessmith@yahoo.com,West Jessicahaven,Utah,USA,58174f52,Biography,Books,Biography Model 7,509.37,2,12/19/2023,5/20/2024,UPI,1
+cda61721,c6580ddd,Jose Ibarra,Male,56,lisa47@hotmail.com,Arthurside,New Hampshire,USA,562d60a6,Educational,Books,Educational Model 9,207.03,4,12/2/2023,4/23/2023,UPI,3
+eb895dde,a4d55458,Cindy Jenkins,Other,19,davidjones@blackwell.info,North Elizabethhaven,Missouri,USA,1e8dc33e,Perfume,Beauty,Perfume Model 3,876.52,5,7/20/2023,6/12/2024,Credit Card,1
+711ca1a3,2d2e3a31,Kelly Perry,Male,33,williamsmichael@macdonald-crawford.com,East Ronald,Kentucky,USA,8b458b03,Educational,Books,Educational Model 4,152.76,1,8/1/2024,11/7/2024,UPI,2
+f101b45f,9dcca17d,Shelby Freeman,Other,39,marymcmillan@mcdonald.com,Crossland,North Carolina,USA,2a10d68b,Shoes,Clothing,Shoes Model 8,624.55,5,8/31/2023,8/10/2024,Net Banking,1
+017ca52b,8dd129f4,Grace Wood,Other,32,krausemariah@grant-lambert.com,Johnsonport,Arizona,USA,161733a4,Biography,Books,Biography Model 10,864.02,5,8/24/2023,8/23/2023,Cash on Delivery,3
+df43d950,7cbe22cc,Dr. Ronald Harper DVM,Male,40,rodriguezstephanie@villarreal-ramirez.net,South Jamesport,West Virginia,USA,c7f9306f,Perfume,Beauty,Perfume Model 9,240.73,2,7/6/2023,4/25/2023,Cash on Delivery,5
+d0da205c,b2c3a338,Mr. Reginald Miller Jr.,Other,42,angela34@gmail.com,New Jermaineburgh,Pennsylvania,USA,d5af5ac8,Sweater,Clothing,Sweater Model 8,822.51,5,2/26/2024,1/26/2025,UPI,4
+c65df159,9.76E+237,Ernest Rivera,Female,61,caitlyntyler@daniel.biz,Castanedabury,Rhode Island,USA,c2480727,Sweater,Clothing,Sweater Model 4,268.19,3,9/18/2023,10/30/2023,Net Banking,3
+9fe76628,174fc71d,Jacqueline Terry,Male,44,harringtonlarry@mayer.biz,South April,South Dakota,USA,76f83429,Non-Fiction,Books,Non-Fiction Model 10,503.89,3,6/6/2024,6/19/2024,Debit Card,2
+ead7366f,668bcdae,Michael Reyes,Male,40,mbates@brewer-goodman.com,Adamston,Montana,USA,aed910d8,T-Shirt,Clothing,T-Shirt Model 9,834.11,3,4/15/2024,4/15/2023,Debit Card,5
+13c01575,73064537,Jocelyn Davis,Male,43,yreid@bullock.org,Brittanyport,Wyoming,USA,7706035e,Smartphone,Electronics,Smartphone Model 5,713.45,5,1/15/2024,12/28/2023,Net Banking,3
+7d2bcfbe,e18b806f,Diana Williams MD,Female,45,twhitehead@gmail.com,Wilsonton,Arizona,USA,952d3cb6,Educational,Books,Educational Model 4,924.19,4,8/13/2024,12/8/2024,Credit Card,2
+eab1c11e,973b06b9,Nicole Bailey,Female,24,brandonwagner@hotmail.com,Maureenshire,Montana,USA,94651c37,Body Lotion,Beauty,Body Lotion Model 1,152.75,1,7/13/2024,8/24/2024,Debit Card,5
+81f00a01,94addc5d,Juan Horton,Other,33,jeremy62@gmail.com,Lake Leslie,Rhode Island,USA,4652536a,Lipstick,Beauty,Lipstick Model 1,581.9,2,8/21/2023,11/17/2024,UPI,3
+3101282a,029d825b,Jasmin Mendoza,Female,37,timothy62@yahoo.com,Snyderfurt,Texas,USA,d2074cfc,Perfume,Beauty,Perfume Model 4,593.82,1,8/11/2023,11/6/2023,Cash on Delivery,2
+c09320ff,aedc08c6,April Webster,Other,29,glewis@martin.org,South Rebeccastad,Louisiana,USA,e85c33c1,Jeans,Clothing,Jeans Model 5,341.12,2,4/25/2023,11/17/2024,Credit Card,2
+768d89e6,30f75837,Scott Allen,Female,54,cameronperez@yahoo.com,West Brandon,North Dakota,USA,d8c1556f,Comics,Books,Comics Model 6,178.37,5,10/20/2023,10/2/2024,Credit Card,4
+2ff64b9c,5f2de574,Lisa Harris,Other,44,paulbryant@hall.org,Patrickburgh,Kansas,USA,fe51b667,Non-Fiction,Books,Non-Fiction Model 2,636.67,5,4/3/2023,5/6/2024,Credit Card,2
+686b7ab2,acfa86b7,Austin Lopez,Other,27,glenn61@schultz.com,East Wendyfurt,Ohio,USA,44d9ba5d,Smartphone,Electronics,Smartphone Model 4,328.79,2,12/7/2024,11/11/2024,UPI,1
+cf3f8fb5,8874bcab,Matthew Thomas,Other,41,rebecca83@bowen.org,Robertborough,Montana,USA,6881765e,Laptop,Electronics,Laptop Model 1,186.82,2,5/25/2024,6/24/2023,Cash on Delivery,5
+615d7c51,1dd50952,Luis Clark,Female,46,jose38@hotmail.com,South Michelefurt,Nevada,USA,b96931e1,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 10,101.78,4,6/28/2024,6/9/2024,Cash on Delivery,2
+0e004bb5,2b0bbe55,Traci Avery,Other,46,baldwinjames@gmail.com,Davidmouth,Montana,USA,e75eee6a,Non-Fiction,Books,Non-Fiction Model 5,645.57,4,3/21/2025,10/24/2024,Net Banking,4
+f0491bb6,aecb3d72,Marcus Vaughn,Male,18,henry08@hotmail.com,East Scott,West Virginia,USA,70ccd861,Microwave,Home & Kitchen,Microwave Model 8,514.56,5,11/16/2023,1/24/2024,UPI,4
+0b0e3116,0700afe2,Damon Larson,Female,21,josephhumphrey@hotmail.com,West Ashleychester,South Carolina,USA,05b7e9e4,Educational,Books,Educational Model 5,755.44,2,4/25/2024,10/22/2023,Net Banking,4
+04977f96,bf2e1b7e,Paula Cox,Male,42,mariasanchez@green-green.com,Josephtown,Illinois,USA,d5014f69,Perfume,Beauty,Perfume Model 6,193.61,4,12/25/2023,5/25/2023,Credit Card,4
+d51256d5,0acd66ce,Elizabeth Smith,Female,57,phurst@gmail.com,Sarahmouth,Missouri,USA,e32e0ee9,Shoes,Clothing,Shoes Model 3,731.47,2,7/9/2023,4/11/2023,UPI,1
+0350585e,e4b3a7e7,Ashley Bradley,Other,51,thompsonvictoria@thompson.com,Shawnbury,Washington,USA,bb70df85,Coffee Maker,Home & Kitchen,Coffee Maker Model 6,246.14,5,7/25/2024,11/10/2024,Credit Card,2
+5caa8c6c,be9927f8,Lindsey Yang,Female,18,elliottanita@martinez.org,Lynchmouth,Wyoming,USA,fed5d262,Educational,Books,Educational Model 5,802.62,1,4/14/2023,10/24/2023,Debit Card,4
+3a500a34,d986efc0,Jason Craig,Other,61,cristian30@hotmail.com,South Jeffrey,Virginia,USA,3db0d970,Laptop,Electronics,Laptop Model 2,563.12,4,12/14/2024,11/30/2023,Debit Card,4
+823a0a9f,1a448669,Sharon Sanchez,Male,46,millernicholas@yahoo.com,North Eric,Idaho,USA,07278b71,Smartphone,Electronics,Smartphone Model 2,872.27,4,5/17/2023,7/4/2023,UPI,3
+2e5e943c,21b3e1e4,Charles Hunter,Male,46,andersonamber@gmail.com,Woodchester,Rhode Island,USA,7ce71d27,Laptop,Electronics,Laptop Model 2,279.35,1,8/22/2023,4/14/2024,Credit Card,3
+392c4ef7,a8bce8e4,Jillian Diaz,Female,37,susan16@gmail.com,Fryside,Nebraska,USA,aeccedfe,Shampoo,Beauty,Shampoo Model 4,803.4,4,9/25/2024,11/7/2023,Net Banking,4
+ccaf424e,b03c218c,Paul Hernandez,Other,49,ashley85@rice-peterson.com,New Sandraville,Delaware,USA,fe8931a3,Sweater,Clothing,Sweater Model 1,617.66,5,1/24/2025,12/19/2024,UPI,5
+a445479d,516bf8a2,Michele Douglas,Male,41,jensendaniel@moran-wolfe.com,New Jason,Hawaii,USA,2ee69d64,Coffee Maker,Home & Kitchen,Coffee Maker Model 10,103.12,1,4/13/2023,9/9/2024,Debit Card,1
+88afdd23,1990f6ee,Jennifer Carter,Other,63,churchjulie@adams.com,West Meaganbury,Nevada,USA,c1db62d8,Lipstick,Beauty,Lipstick Model 8,649.51,2,10/13/2024,2/9/2025,Debit Card,2
+dc853cd7,d82fb040,Elizabeth Martinez,Female,59,davidsoto@gmail.com,Port Janetside,Iowa,USA,10857cb0,T-Shirt,Clothing,T-Shirt Model 8,167.01,1,6/30/2024,12/1/2023,Cash on Delivery,2
+6f6a292d,87d59836,Mark Burns,Other,58,robertquinn@gmail.com,Josephburgh,Pennsylvania,USA,f3801d3a,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 3,447.03,4,7/11/2023,10/18/2023,Cash on Delivery,3
+f63f99ce,a62e1282,Stacey Boyle,Female,57,erica41@hotmail.com,Erikfort,Missouri,USA,8f8c987c,Shoes,Clothing,Shoes Model 10,698.27,1,8/25/2024,7/3/2024,Credit Card,2
+309da6fe,6054ab15,Kimberly Johnson,Other,61,anthonylopez@hotmail.com,Lake Danielletown,South Carolina,USA,9f83e043,Smartwatch,Electronics,Smartwatch Model 4,262.57,5,5/2/2023,11/22/2023,UPI,4
+404647d8,20534bee,Jose Fritz,Other,21,zsmith@yahoo.com,Lawrenceborough,Nebraska,USA,bb851ed6,Smartwatch,Electronics,Smartwatch Model 10,761.32,5,5/30/2023,6/14/2024,Net Banking,3
+acf14f53,7d5df3c4,Robert Hernandez,Other,46,davisnicole@lawrence.biz,Jenkinsmouth,Louisiana,USA,b561a0ac,Body Lotion,Beauty,Body Lotion Model 8,937.64,4,5/10/2024,9/27/2024,Cash on Delivery,3
+e56276fa,89cd406b,Steven Foster,Other,19,sjackson@shields.info,Port Shawn,Alabama,USA,8455a34a,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 10,993.76,2,12/17/2023,12/24/2023,UPI,2
+3c54ca37,9c2a6a52,Michael Gonzalez,Other,56,ibailey@yahoo.com,South John,West Virginia,USA,45fb9e67,Coffee Maker,Home & Kitchen,Coffee Maker Model 2,537.59,4,11/23/2023,2/13/2025,Cash on Delivery,2
+afd03b5b,e49525a3,Tracy Spencer,Female,44,rriddle@yahoo.com,West Joannview,Maryland,USA,34e60c37,Tablet,Electronics,Tablet Model 4,484.59,1,4/10/2023,7/9/2023,Debit Card,3
+b5dd1b26,8a2de382,Rhonda Williams,Male,24,mejiachristina@glenn.com,West Jasonview,Nevada,USA,d1118281,Non-Fiction,Books,Non-Fiction Model 2,399.5,4,9/6/2023,11/9/2024,Cash on Delivery,2
+a0c2c847,6e2a8138,Victor Thomas,Other,62,jennifer96@yahoo.com,Katherinefort,Minnesota,USA,e0da7ebd,Jacket,Clothing,Jacket Model 2,517.31,3,9/20/2023,1/20/2024,UPI,5
+e0643c98,d9c26811,Brett Green,Other,41,sayala@elliott.com,Jenniferton,Idaho,USA,c860c755,Jacket,Clothing,Jacket Model 8,669.46,2,9/5/2024,3/10/2024,Net Banking,2
+cf169a57,821f1972,Jesse Ramos,Male,43,jason34@smith-hanson.com,Carneyshire,Colorado,USA,cc630980,Smartphone,Electronics,Smartphone Model 10,551.7,1,2/22/2024,3/2/2025,Net Banking,3
+5abb41dd,84859ea8,Deborah Massey,Other,30,zgarcia@gmail.com,Hoganchester,Arizona,USA,36b785e0,Jeans,Clothing,Jeans Model 10,555.94,1,10/19/2024,10/2/2024,Credit Card,2
+fc23971e,538c9217,Amy Mckinney,Other,58,ywilson@garcia.com,Herringmouth,Louisiana,USA,5fbb4488,Smartwatch,Electronics,Smartwatch Model 5,122.76,4,3/11/2025,1/14/2025,Net Banking,3
+a7fae957,0517a0ab,Lisa Combs,Other,21,pcox@yahoo.com,Brownmouth,New York,USA,d4df1740,Toaster,Home & Kitchen,Toaster Model 7,704.68,5,7/24/2023,5/12/2024,Net Banking,3
+d3b43e0a,e6d94bfa,Stacy Miranda,Female,38,elizabethbuckley@rowe.net,North Leslie,Oregon,USA,fb5dbc72,Microwave,Home & Kitchen,Microwave Model 1,926.84,3,12/2/2023,10/15/2023,UPI,1
+0ee5ff1d,4915f105,Holly Parks,Male,25,pgreen@wolfe.com,North Maryberg,Iowa,USA,e1d13c65,Microwave,Home & Kitchen,Microwave Model 7,890.81,5,12/2/2024,4/10/2023,Cash on Delivery,5
+c55b3821,93955cb7,Robin Williams,Female,64,monicaoneill@gmail.com,Maciasborough,Florida,USA,537d894b,Shampoo,Beauty,Shampoo Model 3,561.5,5,11/17/2024,10/8/2024,Credit Card,4
+325235asdf,84d2a604,Tiffany Hernandez,Male,50,troy95@yahoo.com,Watsonstad,Iowa,USA,6589e1d5,Coffee Maker,Home & Kitchen,Coffee Maker Model 1,609.81,3,4/22/2024,12/1/2023,Cash on Delivery,3
+77d3ae4b,c0d72234,Lisa Peterson,Other,24,ocalhoun@hotmail.com,Wrightmouth,Missouri,USA,c6a10af2,Shoes,Clothing,Shoes Model 4,584.69,4,5/12/2024,6/18/2023,Net Banking,1
+2c7ce141,8ec37a78,Anthony Lopez,Female,48,mcamacho@gmail.com,Port Michaelborough,Delaware,USA,c296011b,Shoes,Clothing,Shoes Model 5,774.83,3,10/7/2023,10/29/2024,Net Banking,3
+734cccfc,a85614ca,Brianna Porter,Male,58,abigailhiggins@price.com,Lake Erika,Hawaii,USA,134ea4d1,Smartphone,Electronics,Smartphone Model 8,34.49,2,8/18/2024,5/7/2023,Cash on Delivery,1
+03b2f633,d9318edf,Roger Thompson,Other,26,martinbryan@yahoo.com,Tylerfort,Mississippi,USA,7f98ab6e,Blender,Home & Kitchen,Blender Model 4,921.28,5,11/22/2023,8/10/2023,Cash on Delivery,4
+c8c9ab29,fa276bba,Stephanie Brown,Other,63,vwilson@gmail.com,Jeremyshire,South Dakota,USA,3012f0d3,T-Shirt,Clothing,T-Shirt Model 10,691.76,1,10/29/2023,2/12/2024,Debit Card,3
+248f2c21,e283f54f,Daniel Pruitt,Female,52,kellytrujillo@gmail.com,Rodriguezchester,New York,USA,c3e76616,Tablet,Electronics,Tablet Model 9,663.97,4,3/4/2024,6/15/2024,Credit Card,4
+f41f8362,2d34d6ad,Hunter Wilson,Female,25,ocooper@martin.com,East Danielton,Tennessee,USA,e7d28643,Comics,Books,Comics Model 9,782.68,4,2/24/2024,3/11/2024,Cash on Delivery,2
+ffcf5ced,2e81ea03,Derek Holland,Male,47,benjamin87@york-palmer.com,Stacyshire,Wyoming,USA,d317f989,Perfume,Beauty,Perfume Model 5,466.14,4,3/15/2025,7/29/2023,Debit Card,4
+50599d10,a1dc5259,Mary Garcia,Male,39,williamdiaz@pearson-drake.com,New Amyshire,Florida,USA,31c5143f,Perfume,Beauty,Perfume Model 10,22.03,5,10/10/2023,10/9/2023,Debit Card,1
+2b755283,6b9890bf,Jason Stanton,Female,65,jimenezkathryn@lewis-stout.com,Lake Edwardview,Wisconsin,USA,fce654ea,Coffee Maker,Home & Kitchen,Coffee Maker Model 1,438.38,2,2/15/2025,7/16/2023,Debit Card,4
+678117fd,51b612fc,Kimberly Brewer,Male,25,wmarshall@dennis.info,Torresborough,Kansas,USA,75903c55,Educational,Books,Educational Model 4,250.84,5,12/6/2024,11/7/2024,Cash on Delivery,4
+3f963743,915ea827,David Hinton,Other,23,danielrusso@gmail.com,Loganton,Connecticut,USA,515aea1d,Jeans,Clothing,Jeans Model 4,543.98,4,4/20/2024,8/28/2023,Net Banking,3
+68515a75,c41fdce5,Luis Martin,Male,62,tthomas@hotmail.com,Welchland,Texas,USA,a51ef410,Lipstick,Beauty,Lipstick Model 1,332.47,3,11/9/2023,11/13/2023,UPI,5
+e1d97293,0d6e13c5,Melissa Brown,Other,28,shawhaley@yahoo.com,New Kelly,Minnesota,USA,e90292dc,Toaster,Home & Kitchen,Toaster Model 2,370.51,5,7/8/2024,7/24/2024,Net Banking,1
+3cf6018c,35ff1aa4,Jessica Harrison,Female,43,vanessa49@yahoo.com,East David,Mississippi,USA,f087f192,Smartphone,Electronics,Smartphone Model 4,393.34,3,11/6/2023,7/16/2024,Credit Card,2
+f59428bf,362c4339,David Fernandez,Other,19,gnovak@hotmail.com,Longton,North Dakota,USA,c3913d97,Sweater,Clothing,Sweater Model 3,802.28,3,9/16/2023,11/27/2023,Net Banking,1
+4debe435,590d9d01,Jessica Eaton,Other,18,michael79@hotmail.com,Wolfefort,Minnesota,USA,be7dab6f,Sweater,Clothing,Sweater Model 1,557.39,2,9/1/2023,5/23/2023,Cash on Delivery,1
+ca8da87a,c620aa05,Michael Walker,Other,43,ajacobs@gmail.com,Jasonborough,New Mexico,USA,18bc51ee,Smartwatch,Electronics,Smartwatch Model 3,412.35,1,8/3/2024,1/7/2025,UPI,3
+c4a69ada,1844e447,Jeffrey Stewart,Female,58,kathy95@gmail.com,Port Joseph,Alaska,USA,b38ec747,Sweater,Clothing,Sweater Model 1,263.23,2,12/15/2024,12/28/2024,Cash on Delivery,4
+a7370813,5cee8143,David Harper,Male,65,jlester@yahoo.com,East Julieport,Maryland,USA,2f108993,Face Cream,Beauty,Face Cream Model 2,736.77,5,4/16/2024,6/14/2024,Credit Card,4
+cce8c40d,e148a904,Beverly Greene MD,Male,39,christina31@bailey.com,North Dana,Arkansas,USA,f4834a74,Microwave,Home & Kitchen,Microwave Model 5,209.58,3,10/7/2023,8/13/2023,Debit Card,1
+a9bb7e3c,8e0ea547,Adam Lewis,Other,31,michaelalvarez@yahoo.com,Nicolemouth,New Jersey,USA,360395bf,Face Cream,Beauty,Face Cream Model 7,593.83,4,3/13/2024,11/2/2023,Cash on Delivery,2
+44d1a54d,2bc362c4,Juan Garcia,Female,54,griffithalexis@hotmail.com,Carterview,Georgia,USA,41ec8ac2,Smartwatch,Electronics,Smartwatch Model 2,615.37,3,10/10/2023,3/31/2024,UPI,1
+6dd99751,d359100f,Shelly Brown,Other,50,osmith@gmail.com,Virginiaton,Massachusetts,USA,4d00764e,Smartphone,Electronics,Smartphone Model 7,382.43,4,8/7/2023,6/9/2024,Debit Card,3
+c4ca7a79,5a0e3989,John Long,Female,29,kramerjoan@myers.org,Jamieland,Pennsylvania,USA,4d6d17e8,Educational,Books,Educational Model 2,485.34,5,7/28/2023,8/8/2024,UPI,1
+45a2d032,df720898,Brian Clark,Male,51,thomasbrian@nelson-cruz.info,Aliciastad,Alaska,USA,8034001d,Smartphone,Electronics,Smartphone Model 1,141.68,5,10/7/2024,1/19/2025,Cash on Delivery,2
+b1b877d7,bc61a527,Amy Morton,Other,30,nwade@hotmail.com,New Paige,Texas,USA,3be370a6,Smartwatch,Electronics,Smartwatch Model 5,202.23,3,8/7/2024,9/6/2023,Cash on Delivery,2
+2d62f2f4,0d491efd,Seth Vasquez,Male,41,oevans@callahan.com,New Rogerbury,New York,USA,94f5e414,Microwave,Home & Kitchen,Microwave Model 10,620.65,5,9/29/2024,5/4/2023,UPI,1
+d37a80ed,cba5536f,Jordan Long,Other,50,melissa99@hotmail.com,North Anthony,Washington,USA,ad68d5e2,Smartwatch,Electronics,Smartwatch Model 6,183.64,3,12/14/2024,3/10/2024,Credit Card,5
+e535d1ca,9b056643,Paula Bailey,Other,23,jacob27@brooks-lee.net,Catherinebury,Maryland,USA,1a0e5c82,Jeans,Clothing,Jeans Model 10,775.18,5,12/22/2024,10/4/2023,Net Banking,1
+2578515b,61cd25a9,Christina Wood,Male,29,rmorse@collier-braun.org,South Cynthiabury,Colorado,USA,5806a4ec,Microwave,Home & Kitchen,Microwave Model 4,134.47,3,11/24/2024,7/6/2023,Credit Card,1
+c88a9347,acf9574c,Maria Hernandez,Female,24,hahnzachary@yahoo.com,South Annville,Alaska,USA,04122b2f,Comics,Books,Comics Model 10,575.4,2,6/21/2023,6/17/2024,UPI,3
+cf2c79e2,f752cda9,Michelle Martin,Female,38,ewilliams@yahoo.com,Simsside,Mississippi,USA,78e63f51,Laptop,Electronics,Laptop Model 4,555.54,2,10/3/2024,11/9/2023,Net Banking,4
+8ea24d2e,69e94bea,Sheila Escobar,Male,55,rbuckley@joyce.com,Jacobburgh,Ohio,USA,36a67222,Shampoo,Beauty,Shampoo Model 2,477.95,4,10/20/2024,2/12/2025,Debit Card,4
+1d5362b2,09669a28,Joshua Martinez,Other,33,eboyd@gmail.com,Port Donville,Illinois,USA,76c401ba,Face Cream,Beauty,Face Cream Model 3,825.64,3,2/27/2024,9/19/2024,UPI,5
+4abb7c2d,30abb77e,Michael Morrison,Other,36,gonzalezkelly@gmail.com,Connorview,Virginia,USA,59b60bc8,Lipstick,Beauty,Lipstick Model 2,258.18,2,2/27/2024,7/29/2023,Cash on Delivery,4
+09953fbf,23fd87a6,Shannon Vaughn,Male,57,robert82@hotmail.com,New Josephbury,Alabama,USA,4a19df20,Smartwatch,Electronics,Smartwatch Model 6,11.22,5,7/28/2024,11/14/2024,Net Banking,3
+a8dbb000,7f8ab08b,Billy Hardin,Male,64,cbradshaw@hotmail.com,Gallowaymouth,Pennsylvania,USA,2d0491fb,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 7,911.76,3,3/1/2025,5/4/2024,Debit Card,4
+531b4004,c952acb2,Christine Brady,Other,57,alexwright@hotmail.com,South Brendaland,Connecticut,USA,a6f93361,Perfume,Beauty,Perfume Model 1,801.1,2,3/19/2024,9/15/2024,UPI,5
+c76b3a76,c4f146b7,Bethany Blake,Female,58,coltonunderwood@butler.com,Claytonstad,North Dakota,USA,6e29a39d,Non-Fiction,Books,Non-Fiction Model 2,644.48,3,11/28/2024,4/8/2024,Net Banking,4
+357f33c6,e44715ee,Eric Matthews,Female,24,astewart@gmail.com,Port Melissa,Oregon,USA,7ed2e14a,Laptop,Electronics,Laptop Model 9,393.4,2,4/7/2023,2/5/2025,Net Banking,5
+fc887295,3255ffe7,Debra Martinez,Other,39,harperelijah@gardner.com,West Alisonbury,Connecticut,USA,e375cb3b,Biography,Books,Biography Model 4,516.26,4,2/20/2025,11/7/2024,Cash on Delivery,3
+946a155d,4a7652ce,Jared Skinner,Other,18,brookeray@johnson.com,Tylerchester,South Dakota,USA,36bc7a54,Comics,Books,Comics Model 8,596.49,5,4/17/2023,2/14/2024,Debit Card,3
+779439d4,0c9eeb27,Melissa Griffin,Male,47,martin37@davis.com,Lisaport,Massachusetts,USA,65f4c431,Shampoo,Beauty,Shampoo Model 5,206.67,3,7/5/2023,11/18/2024,UPI,1
+64b7e284,e1524302,John Ramos,Female,20,perrykimberly@hotmail.com,East Hannahberg,Michigan,USA,8de0862a,Toaster,Home & Kitchen,Toaster Model 2,331.42,5,9/13/2024,11/22/2023,Cash on Delivery,2
+d0503177,59a83d91,Devon Moyer,Other,18,campbelldouglas@yahoo.com,Edwardchester,Minnesota,USA,b1cb3195,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 9,57.82,3,7/14/2024,11/27/2023,Cash on Delivery,3
+a149fda1,d53f5611,Michael Davies,Other,27,gonzalezashley@hotmail.com,West Josephburgh,Mississippi,USA,05ef8310,Body Lotion,Beauty,Body Lotion Model 1,462,2,7/18/2024,6/16/2023,Cash on Delivery,2
+e6ea618c,c000ed9c,Joshua Cortez,Female,64,brooke82@hotmail.com,South Kari,Montana,USA,1bf55469,Toaster,Home & Kitchen,Toaster Model 9,200.13,3,11/23/2023,1/18/2024,Cash on Delivery,1
+fb081a4a,64ee374a,Elizabeth Page,Female,51,markkim@yahoo.com,Lisamouth,Hawaii,USA,482d22f7,Coffee Maker,Home & Kitchen,Coffee Maker Model 9,315.27,5,3/10/2024,7/17/2024,Credit Card,2
+cb9ab0da,2c1992df,Sarah Thomas,Other,63,debbie01@gmail.com,South Jennifer,Iowa,USA,d2bc78b2,Body Lotion,Beauty,Body Lotion Model 10,580.27,3,2/13/2025,6/25/2024,Credit Card,3
+b6c214bb,2490f7ba,John Conner,Other,49,halljacob@hotmail.com,Lake Sherry,Michigan,USA,58be2724,Shoes,Clothing,Shoes Model 9,895.05,5,6/5/2024,8/12/2023,Credit Card,5
+6603e438,20ddd259,Daniel Gallagher,Female,60,colleentodd@moreno-floyd.info,Port Emma,Illinois,USA,38e087f4,Jacket,Clothing,Jacket Model 6,67.56,3,9/11/2023,3/29/2025,UPI,4
+16327s23,fb513911,Steve West,Female,18,stacyholt@gmail.com,Lake Alyssaburgh,Missouri,USA,1f95af19,Fiction,Books,Fiction Model 9,385.46,5,2/9/2025,7/13/2023,Credit Card,3
+8ea59812,8059b33d,Brent Vargas,Male,57,dcrawford@palmer.com,Pearsonland,Connecticut,USA,a8644ad5,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 3,773.67,2,2/16/2025,3/17/2024,Net Banking,2
+b9f1ba22,0b60ac2b,Dr. Brandy Garcia,Female,40,jonathan54@lopez-duffy.com,Ashleemouth,Illinois,USA,406e472a,Smartwatch,Electronics,Smartwatch Model 4,214.1,2,9/25/2023,11/5/2023,Cash on Delivery,4
+93a90b82,8b3c39aa,Eduardo Rhodes,Male,21,gregoryterrance@hotmail.com,Port Meagan,Missouri,USA,1e79c27c,Toaster,Home & Kitchen,Toaster Model 1,914.22,5,4/10/2023,11/13/2024,Credit Card,3
+615b3847,0f17f3d0,Mr. James Miller,Male,21,aprilhayes@gmail.com,Williamsland,North Dakota,USA,0dda1459,Shampoo,Beauty,Shampoo Model 4,212.68,3,1/7/2025,12/9/2023,UPI,1
+883900bb,cdf25241,Mary Casey,Female,18,ostevens@thompson-pearson.com,Wongbury,Arizona,USA,c5bf0931,Perfume,Beauty,Perfume Model 2,18.34,1,9/3/2024,12/10/2024,Net Banking,5
+d530fb32,f0546610,Joseph Morgan,Other,30,jhopkins@hunt.com,New Marcus,Maine,USA,26643648,Headphones,Electronics,Headphones Model 2,800.7,2,6/18/2023,10/21/2024,UPI,1
+1f34fdd3,b34ead90,Victor Adams,Male,31,amymiller@gmail.com,Webstermouth,Wisconsin,USA,9a642d8d,Educational,Books,Educational Model 2,600.17,1,5/26/2023,1/30/2024,UPI,5
+5f5327d7,eb133c3a,Melissa Watkins,Other,43,aaron17@walker.com,Susanchester,Pennsylvania,USA,66e9124c,Non-Fiction,Books,Non-Fiction Model 1,73.1,3,3/23/2025,9/22/2023,Credit Card,4
+0b7aad68,1.50E+12,Heather Flowers,Female,29,ocarroll@cabrera-hall.com,East Dianahaven,Alaska,USA,93dd4ed1,Jacket,Clothing,Jacket Model 7,743.53,2,8/8/2023,6/1/2023,UPI,1
+03ca6a5c,f29eb6b9,Lucas Coleman,Other,25,hawkinssheryl@singh.com,Stacychester,New Mexico,USA,1b2f67f3,Toaster,Home & Kitchen,Toaster Model 5,511.57,3,4/27/2024,4/24/2024,Credit Card,3
+7d11b7b2,40a6a24c,Christopher Reid,Male,23,ryansheila@love.com,Port Jamestown,Kansas,USA,b56114fc,Jeans,Clothing,Jeans Model 2,399.07,1,3/9/2024,7/18/2023,UPI,2
+0bdbff80,0a10a77b,Kelsey Lopez,Female,21,smalljeremy@jackson.com,New Teresaland,Wyoming,USA,8139a90f,Body Lotion,Beauty,Body Lotion Model 4,287.88,5,1/1/2025,7/25/2023,Debit Card,2
+8940a53e,d41ac63a,April Conner,Other,45,vmoore@yahoo.com,Jacksonside,Rhode Island,USA,380581de,Shampoo,Beauty,Shampoo Model 7,797.42,2,1/10/2024,5/16/2023,Credit Card,1
+60bca59b,3722e479,Justin Moore,Male,22,melody42@hotmail.com,North Michaelbury,Missouri,USA,efc31990,Face Cream,Beauty,Face Cream Model 10,358.48,1,8/8/2024,5/16/2023,Cash on Delivery,3
+eea4dfcc,5af175af,Brian Reyes,Female,54,csweeney@gmail.com,Williamsland,Maine,USA,1b74b534,Non-Fiction,Books,Non-Fiction Model 1,73.22,4,11/23/2024,7/1/2023,Cash on Delivery,2
+ad097fe9,f8ea9f02,Brenda Frazier,Male,56,sheridavis@mcbride.biz,Brandonborough,Montana,USA,9a15407d,Comics,Books,Comics Model 4,448.03,4,12/21/2023,2/16/2025,Cash on Delivery,1
+ac32f13f,c52a1d47,George Thomas,Male,44,christopher12@hotmail.com,East Bryan,Texas,USA,35bfa602,Jacket,Clothing,Jacket Model 8,993.12,4,5/5/2023,8/15/2023,Debit Card,3
+2b04e0f5,946a0887,Michael Smith,Male,50,gjackson@gmail.com,New Donna,Indiana,USA,5dfd131f,Perfume,Beauty,Perfume Model 2,506.67,4,9/8/2023,8/22/2024,Debit Card,1
+dd92bad4,06b3a7a3,Darlene Weeks,Male,62,parroyo@ramirez-bishop.com,Deniseberg,Idaho,USA,e427f4d2,Microwave,Home & Kitchen,Microwave Model 7,978.38,4,6/15/2023,3/9/2024,Cash on Delivery,5
+1eaf3cef,611c816d,Joseph Hodge,Other,55,ffigueroa@gmail.com,Bernardside,Georgia,USA,8c467c2c,Lipstick,Beauty,Lipstick Model 8,929.21,1,6/23/2023,12/15/2024,Credit Card,4
+2d38a33d,844fbed6,Luis Smith,Other,27,rhonda29@yahoo.com,Berryborough,Colorado,USA,637ba2f0,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 9,281.7,4,1/29/2025,11/22/2023,Cash on Delivery,1
+d0c308a3,a5dfb22d,Mark Morgan,Other,55,pamelalee@gmail.com,North Ariana,Oregon,USA,d6e0d746,T-Shirt,Clothing,T-Shirt Model 7,178.54,4,5/16/2023,1/28/2025,Debit Card,2
+80ba0042,14178033,Luis Anderson,Female,50,danielmorgan@yahoo.com,North Cody,Vermont,USA,a64fba06,Face Cream,Beauty,Face Cream Model 5,397.88,2,3/18/2024,5/11/2023,Debit Card,3
+3abd9255,79ea5650,Danielle Garcia,Female,41,prodriguez@michael-taylor.com,New Phillip,Vermont,USA,c9cdf0c4,Jeans,Clothing,Jeans Model 10,838.45,3,5/26/2024,4/27/2024,Credit Card,1
+f2c3550a,5d36897a,Jesse Bradford,Female,21,smithaaron@collins-luna.biz,Port Johnview,Louisiana,USA,a696c0ce,Tablet,Electronics,Tablet Model 7,186.37,4,8/29/2024,4/9/2024,Net Banking,3
+fa772d10,01fe2e10,Kimberly Turner,Other,18,sandy75@hotmail.com,Scottfort,Kentucky,USA,cfd33011,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 9,153.3,3,3/27/2024,8/15/2023,Debit Card,4
+79d8b5d5,1ccaf7c8,Jessica King,Female,23,moorekimberly@cross-alvarado.com,Ronaldshire,Arizona,USA,857cab0d,Shampoo,Beauty,Shampoo Model 8,271.96,5,4/2/2023,12/13/2024,Debit Card,3
+ef243b7d,be5daee0,Kristen Clark,Female,56,qmiller@delacruz.com,Whiteshire,Missouri,USA,106b09b8,Smartphone,Electronics,Smartphone Model 10,27.09,1,6/21/2024,5/13/2023,Debit Card,4
+ad37b024,b1416e8a,Jamie Gilbert,Other,21,emily95@bradley.info,West Kendra,West Virginia,USA,5831c796,Fiction,Books,Fiction Model 10,485.79,2,10/10/2024,5/11/2023,Cash on Delivery,2
+4ee99709,1b4f7a9c,Sheila Buck,Female,49,williamsalicia@jones-walker.com,Lake Meaganville,Missouri,USA,adc038f6,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 6,571.08,3,6/22/2024,1/30/2024,Net Banking,1
+631ef077,b2e162af,Michelle Thomas,Male,45,angela17@burns.biz,Jonesburgh,Arizona,USA,2e969cd8,T-Shirt,Clothing,T-Shirt Model 5,92.89,5,11/2/2024,10/3/2023,UPI,2
+6578bddb,5b168f0e,Sean Austin,Female,58,nortega@smith.com,Perezmouth,Maine,USA,c772d371,Blender,Home & Kitchen,Blender Model 4,11.73,1,6/10/2024,3/18/2025,Cash on Delivery,2
+8ebdaa1a,0523ed6f,Kimberly Bennett,Other,41,jessica41@gmail.com,East Seanport,West Virginia,USA,8841e86d,Educational,Books,Educational Model 3,449.65,4,8/14/2023,2/9/2024,Cash on Delivery,3
+51810d89,9ce25110,Mark Hernandez,Female,37,tyler97@gmail.com,South Christopherborough,Georgia,USA,24fcc025,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 9,371.53,3,6/12/2024,7/23/2023,Net Banking,3
+867bba01,c6503de7,Brendan Chen,Male,63,hmeyer@yahoo.com,Port Jeffreyborough,New Mexico,USA,09a4b7cd,Tablet,Electronics,Tablet Model 3,379.49,2,11/25/2024,2/10/2024,Cash on Delivery,4
+290034a1,a7f7ab0f,Danielle Ferrell,Other,39,richardhampton@hotmail.com,Martinberg,Kentucky,USA,7bff6dbd,Non-Fiction,Books,Non-Fiction Model 10,889.19,5,7/30/2023,1/6/2024,UPI,3
+c962bf4d,d2fb57d6,Ryan Lewis,Other,39,morganbelinda@berry-ward.net,Jamesmouth,Oregon,USA,18b96fe4,Smartwatch,Electronics,Smartwatch Model 1,828.85,5,7/19/2023,5/4/2024,Cash on Delivery,2
+8e33e30d,523a2136,Jasmine Turner,Female,42,vphillips@yahoo.com,Victoriaville,Tennessee,USA,5d3dba42,Body Lotion,Beauty,Body Lotion Model 7,475.74,5,5/26/2024,3/31/2024,Credit Card,4
+4c1261b6,6d1d5e0c,Mark Johnson,Other,29,tiffanycrawford@gibson.com,Melissafurt,Nebraska,USA,524e1835,Perfume,Beauty,Perfume Model 8,311.57,1,5/6/2023,12/18/2023,Debit Card,3
+97d8c387,838fa178,James Gilmore,Male,44,debbie35@yahoo.com,South Faith,Maryland,USA,8bb7027d,Smartwatch,Electronics,Smartwatch Model 10,574.85,1,6/19/2023,2/9/2024,Debit Card,2
+31752f0a,b5117dee,Daniel Perkins,Male,45,sarah26@hotmail.com,Mcmillanhaven,Nebraska,USA,a034cd4b,Coffee Maker,Home & Kitchen,Coffee Maker Model 1,408.66,1,11/27/2023,4/27/2024,Cash on Delivery,1
+3c04437b,8614b203,Dennis Torres,Male,44,william93@gmail.com,Davisside,New Mexico,USA,97464caa,Non-Fiction,Books,Non-Fiction Model 8,401.38,1,5/15/2023,3/23/2024,Debit Card,2
+34eb69be,d3fdbc79,Jeff Atkins,Other,54,mirandabrown@rivera.com,Obrienview,South Carolina,USA,6d4e657e,Shampoo,Beauty,Shampoo Model 4,799.34,1,1/7/2024,9/16/2024,UPI,2
+9ac59e61,c3331bce,Jessica Sullivan,Other,22,jennifercooper@gmail.com,East Marthaland,Delaware,USA,0f5edcfa,Tablet,Electronics,Tablet Model 6,95.15,4,7/22/2023,9/28/2023,Net Banking,5
+7986603b,6c123f19,Lisa Price,Male,39,daniel91@gmail.com,Gailton,Virginia,USA,1cc68551,Blender,Home & Kitchen,Blender Model 6,821.93,3,8/11/2024,11/17/2024,Cash on Delivery,4
+73334db7,ecbe03d5,Jose Burton,Female,65,fserrano@adams.com,East James,Minnesota,USA,ea4f8003,Jacket,Clothing,Jacket Model 7,11.74,4,1/14/2025,12/24/2023,Credit Card,5
+712c14aa,1d031390,Anthony Flores,Female,64,smithkendra@larsen-green.org,Lake Allisonland,New Jersey,USA,626002ec,Blender,Home & Kitchen,Blender Model 10,87.97,5,2/17/2024,12/16/2024,UPI,2
+a798a3f3,984264b1,Mark Cooper,Female,21,nguyenkelsey@gmail.com,Kimberlyview,Arkansas,USA,21f3fb70,Toaster,Home & Kitchen,Toaster Model 1,65.57,5,3/12/2024,10/30/2023,Credit Card,5
+3ca534ed,d5252099,Ronald Bell,Female,55,martinnoah@bauer-perry.info,Millerbury,Rhode Island,USA,a3a273c8,Jacket,Clothing,Jacket Model 5,179.58,1,7/6/2023,6/19/2023,Net Banking,3
+ef7e2413,a08e0c6f,Mary Thompson,Other,31,staceyconner@hotmail.com,West Michael,Washington,USA,36c677e0,Biography,Books,Biography Model 4,872.33,2,10/17/2024,4/1/2023,Credit Card,3
+2a76398f,61911b88,Anthony Watson,Other,32,wrobinson@davis.biz,Garyview,Delaware,USA,d1a5c63e,Smartphone,Electronics,Smartphone Model 7,844.03,5,9/2/2024,12/19/2023,Credit Card,4
+279c0f61,3cdc6bcd,Jessica Howe,Female,45,xsmith@buckley.org,Melanieville,Tennessee,USA,630b560c,Microwave,Home & Kitchen,Microwave Model 9,565.5,1,5/5/2023,4/2/2024,Net Banking,1
+c52adbb7,d450030d,Karen Davis,Other,27,oconnorpatrick@burns-nixon.com,Port Kim,Massachusetts,USA,4749fc51,Headphones,Electronics,Headphones Model 8,671,5,5/2/2023,12/28/2024,Credit Card,3
+7316288d,70088d13,Joshua Walter,Female,37,brownmichelle@hotmail.com,Lake Anthony,Nebraska,USA,eaa2c5b2,Lipstick,Beauty,Lipstick Model 4,18.02,3,2/18/2024,12/29/2023,UPI,2
+b6a7a703,0862a2af,Dean Nguyen,Female,21,henrywatson@johnson.com,East Erica,Oklahoma,USA,760cd751,Headphones,Electronics,Headphones Model 1,623.77,1,6/29/2024,2/20/2024,UPI,1
+b692f2fc,a0a1fbfa,Frank Eaton,Female,34,bskinner@marshall.biz,Port Vanessamouth,Rhode Island,USA,33021a27,Face Cream,Beauty,Face Cream Model 7,624.55,2,3/24/2024,8/31/2023,UPI,4
+f7899919,a398674f,Kelly Ramirez,Other,50,wilsonapril@ryan.com,Oliviaborough,Michigan,USA,62b77483,Jacket,Clothing,Jacket Model 7,165.97,4,5/28/2024,4/23/2024,Debit Card,5
+5d2bfb12,1ed92525,James Romero,Other,47,lcain@haney.com,East Kimberlyland,California,USA,9c1abc4f,Jacket,Clothing,Jacket Model 4,833.65,2,4/8/2024,8/26/2023,Cash on Delivery,2
+c3b9dcf3,721d3933,Christina Williams,Other,23,qstanley@acosta-brown.info,New Bryanstad,Rhode Island,USA,36150690,T-Shirt,Clothing,T-Shirt Model 8,765.96,1,10/17/2023,5/12/2024,Net Banking,2
+60981fa6,49412e1d,Jennifer Sims,Male,38,garciacatherine@hotmail.com,Cynthiahaven,Tennessee,USA,1ef3a047,Body Lotion,Beauty,Body Lotion Model 10,20.81,1,1/25/2024,9/3/2024,Cash on Delivery,5
+5b7776e8,db7f112c,Sandra Espinoza,Male,20,sanderstanya@stephens.net,Josestad,Maine,USA,61f1b8e8,Jeans,Clothing,Jeans Model 9,553.94,5,11/2/2024,6/25/2024,Credit Card,2
+0ecd8742,5f2cadb6,Diane Melendez,Other,40,sarahhunt@johnson.com,Thomasmouth,Maryland,USA,99022031,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 3,603.68,2,9/13/2024,11/16/2023,Debit Card,1
+99b62a33,856ae484,Nathan Strong,Male,63,ssellers@riley.com,North Barbara,Kentucky,USA,5a32603b,Coffee Maker,Home & Kitchen,Coffee Maker Model 1,109.24,1,4/7/2024,12/25/2023,Cash on Delivery,4
+235af352,07c74557,Deanna Conway,Other,33,franklinmelissa@johnson.com,Micheleshire,New Mexico,USA,4fc29656,Coffee Maker,Home & Kitchen,Coffee Maker Model 10,402.59,3,10/26/2024,6/29/2024,Cash on Delivery,2
+d4a9b560,709c011c,Troy Henry DDS,Male,32,christinareynolds@gmail.com,Mitchellborough,Maine,USA,534cee79,Shampoo,Beauty,Shampoo Model 7,861.82,1,12/14/2023,2/19/2025,UPI,2
+95ed3b45,1971b41a,Michael Monroe,Female,34,dwilliams@cobb.com,Port Casey,South Dakota,USA,a73079bc,Microwave,Home & Kitchen,Microwave Model 5,438.31,4,3/31/2024,8/8/2024,UPI,1
+780523be,0294a4f1,Calvin Snyder,Other,36,rosariosheila@olson.com,Romeroborough,Georgia,USA,7e70de9e,Blender,Home & Kitchen,Blender Model 1,827.84,5,10/13/2024,10/16/2023,Debit Card,4
+18b3f9a7,2a389b87,Jessica Fry,Other,28,kellyrachel@yahoo.com,North Andreaview,Alabama,USA,23c0365b,Body Lotion,Beauty,Body Lotion Model 8,665.01,5,4/19/2023,11/29/2023,Credit Card,2
+0e00fd60,57f2ff4e,Gabriel Duran,Male,61,cheryl50@hotmail.com,East Seanstad,Washington,USA,060687d0,Jacket,Clothing,Jacket Model 4,529.74,5,1/6/2025,9/5/2024,Cash on Delivery,5
+3bf3b867,4ee876d4,Crystal Jefferson,Male,35,evansapril@gmail.com,East John,Alaska,USA,c7510953,Microwave,Home & Kitchen,Microwave Model 7,989.78,1,12/21/2024,7/11/2024,UPI,2
+5fdec522,23aa76d0,Jacob Kirk,Female,34,thomas15@yahoo.com,Douglasshire,Missouri,USA,111f8945,Smartwatch,Electronics,Smartwatch Model 8,569.6,1,3/26/2025,5/6/2024,Net Banking,4
+b1c4480a,157459ca,Roger Carpenter,Female,38,stevenscharles@hotmail.com,West Matthewshire,Massachusetts,USA,bf77e9ea,Shampoo,Beauty,Shampoo Model 1,240.53,2,11/1/2023,11/5/2024,Net Banking,2
+5d9ca6f1,d62e850a,James Lewis,Other,36,tyler02@hotmail.com,Schneidermouth,Connecticut,USA,e9d7436a,Toaster,Home & Kitchen,Toaster Model 6,111.77,2,2/23/2025,6/11/2024,Net Banking,2
+ce6dba5e,7695d187,Sandra Lewis,Other,30,mckenziejames@gmail.com,Taylorchester,Alaska,USA,3f17eac2,Smartwatch,Electronics,Smartwatch Model 8,600.23,1,8/4/2024,10/17/2024,Net Banking,1
+b6a9f53a,e1bb0b0b,Steven Graham,Male,43,lopezjoseph@gmail.com,Port Alexisstad,Minnesota,USA,8666253,Educational,Books,Educational Model 10,168.23,1,11/20/2023,7/3/2023,Credit Card,1
+cfac8758,ede5af41,Christine Crawford,Other,39,pacejoseph@gmail.com,Tinashire,Michigan,USA,df7443d8,Tablet,Electronics,Tablet Model 8,166.01,1,11/23/2023,2/26/2025,UPI,3
+4253754d,c9ec7ee6,Nicole Carter,Female,21,robertramos@compton.info,Port Robert,Oregon,USA,01a39a69,Fiction,Books,Fiction Model 8,296.71,1,5/14/2023,7/23/2024,UPI,2
+880ab15c,5e03a4c9,Kathryn Collins,Female,22,timothy28@hicks-schneider.biz,Rebeccachester,Kansas,USA,f3bd0012,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 1,482.25,3,9/16/2023,8/20/2024,UPI,5
+03e76b4a,2d933ffa,Olivia Owens,Male,29,gregorywebster@hotmail.com,Patricktown,Kansas,USA,2b6edf9e,Tablet,Electronics,Tablet Model 1,176.24,5,5/19/2024,10/15/2023,Cash on Delivery,1
+835fb638,3f31383e,Dr. Thomas Parks,Other,63,romanrobert@yahoo.com,Williambury,Rhode Island,USA,85be13f0,Perfume,Beauty,Perfume Model 10,366.65,4,1/20/2024,4/18/2024,Net Banking,2
+fa909893,cfd103cf,Angela Robinson,Male,44,walshholly@pugh.com,Ronaldburgh,Missouri,USA,ba4f3f46,Smartphone,Electronics,Smartphone Model 4,557.47,1,2/5/2025,12/14/2023,Debit Card,5
+2aa16dd2,76bf5628,Ronald Martin,Other,24,hornkyle@kennedy.com,Debraview,California,USA,c7b9d439,T-Shirt,Clothing,T-Shirt Model 4,977.64,5,9/9/2024,3/24/2024,UPI,4
+c19a5080,cf5f09bb,Denise Cross,Male,57,travisprice@yahoo.com,Charlottehaven,Montana,USA,1bb9fcaa,Blender,Home & Kitchen,Blender Model 9,644.58,3,1/17/2024,1/1/2024,Credit Card,1
+9b109dc0,a53ca672,Phillip Mills,Other,36,alex40@lopez.com,Phillipmouth,Alabama,USA,d5c5264b,Microwave,Home & Kitchen,Microwave Model 10,178.34,3,3/21/2025,9/22/2023,Credit Card,2
+d89b2a62,1a570abc,Brandon Rice,Female,27,xmueller@hotmail.com,Lake Heatherview,Virginia,USA,d1c0df9b,Toaster,Home & Kitchen,Toaster Model 7,110.64,3,11/15/2023,11/19/2024,Net Banking,4
+5990c667,61330ff8,Daniel Bennett,Female,31,freywayne@irwin-alvarado.com,Christopherhaven,Wisconsin,USA,5bae7891,Lipstick,Beauty,Lipstick Model 8,907.72,1,2/1/2024,8/21/2023,Net Banking,3
+d6395837,2ebfb594,Samuel Foley,Female,49,ashleytammy@hotmail.com,Olsonview,Idaho,USA,9.56E+27,Non-Fiction,Books,Non-Fiction Model 5,718.34,5,7/18/2024,12/25/2023,UPI,3
+636f0d6d,3469e00b,Mary Sanchez PhD,Other,59,karichristian@yahoo.com,Cameronport,Kansas,USA,17752b91,Toaster,Home & Kitchen,Toaster Model 6,661.81,2,5/27/2023,10/8/2023,Net Banking,3
+1f482732,71ecdc4f,Ryan Castillo,Male,23,trevinojason@yahoo.com,East Scott,California,USA,9683342d,Jacket,Clothing,Jacket Model 10,144.09,3,3/20/2024,12/24/2024,Cash on Delivery,4
+5ebbda9d,7f1f89f1,Jennifer Hammond,Male,61,jcochran@hotmail.com,Raymouth,Iowa,USA,4f3b1765,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 3,783.94,3,12/11/2023,5/23/2024,Debit Card,2
+da867490,7628a488,Rodney Wyatt,Female,49,hilladam@gmail.com,East Linda,South Dakota,USA,a9750434,Jacket,Clothing,Jacket Model 7,42.15,5,7/10/2023,11/6/2024,UPI,3
+23535afaa,b23a0747,Colin Hendrix,Male,54,khale@liu-huerta.org,South Lisafurt,Illinois,USA,9d8bbe4c,Coffee Maker,Home & Kitchen,Coffee Maker Model 4,397.2,4,12/13/2024,2/19/2025,Net Banking,4
+7f01a28e,129cfdab,Jamie Reynolds,Male,55,tanyaward@simon.com,West Christopherbury,New Jersey,USA,fffb21bd,Smartwatch,Electronics,Smartwatch Model 10,864.6,3,3/30/2023,6/30/2023,Debit Card,2
+3eb3533e,78eaade3,Katherine Silva,Other,54,santosdavid@hamilton-ward.com,South Kevinton,Idaho,USA,911a70c9,Headphones,Electronics,Headphones Model 1,649.34,5,7/25/2024,10/3/2023,Net Banking,1
+ec96e122,b8f6ce8b,Cheryl Moore DVM,Female,60,shane60@harrison.org,Kyleport,Missouri,USA,20893d25,Jeans,Clothing,Jeans Model 3,712.39,5,12/16/2023,10/10/2024,Net Banking,3
+8848526f,de5d8c50,Brian Hamilton,Other,19,destiny61@yahoo.com,Mendozaberg,Arkansas,USA,0d0ae0fe,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 9,930.58,1,3/28/2025,4/2/2024,Net Banking,2
+be4be45d,97a1b506,Crystal Evans,Male,58,tinabrowning@hotmail.com,South Jamesberg,Nebraska,USA,a4a1fb10,Non-Fiction,Books,Non-Fiction Model 7,630.15,2,1/16/2025,3/29/2024,Net Banking,4
+43b997a5,98c3f4d8,Leslie Hernandez,Male,46,joshuamelton@yahoo.com,East Cole,Mississippi,USA,7b23da1c,Coffee Maker,Home & Kitchen,Coffee Maker Model 3,351.71,1,5/1/2023,7/4/2024,UPI,3
+fa928949,f6213f46,Mrs. Tiffany Perez,Female,40,jessicafrank@hotmail.com,Lake Aaronshire,New Hampshire,USA,8852c3a2,Toaster,Home & Kitchen,Toaster Model 6,862.99,4,7/14/2023,10/23/2023,Cash on Delivery,1
+bd5fc45d,6f1f98de,Joseph Bailey,Female,27,ronaldriley@hotmail.com,Emmamouth,Delaware,USA,bacf3fca,Coffee Maker,Home & Kitchen,Coffee Maker Model 2,493.06,2,8/11/2023,1/25/2025,Cash on Delivery,1
+2b85e064,b76d6dfc,John Smith,Other,58,jeremygarcia@yahoo.com,North Suzanne,Minnesota,USA,ed7ecd0c,Toaster,Home & Kitchen,Toaster Model 10,402.52,5,4/19/2024,11/5/2023,Credit Card,1
+8d5fa549,54a99b9f,Katherine Bright,Other,40,qlopez@lara.com,Irwinbury,New Mexico,USA,ebcb90c2,Comics,Books,Comics Model 3,291.23,5,5/7/2024,5/25/2023,Debit Card,1
+d5cfa056,dd46bf2c,Brandon Weber,Male,41,moorerebecca@gmail.com,South Carrie,North Dakota,USA,ca7b3df3,Body Lotion,Beauty,Body Lotion Model 8,903.82,5,4/23/2024,12/11/2024,Credit Card,1
+0818d459,c84dda9a,Diane Carr,Female,27,jparker@yahoo.com,North Susanfurt,Indiana,USA,3546df44,Lipstick,Beauty,Lipstick Model 5,403.62,4,11/13/2024,5/22/2023,Cash on Delivery,4
+fbd45127,e240e591,Jacob Jordan,Male,57,garywheeler@mcguire-dorsey.info,West Danahaven,Nevada,USA,cc907a7a,Toaster,Home & Kitchen,Toaster Model 10,56.29,2,1/16/2024,12/30/2023,UPI,2
+235asdfaf,c6d90ab1,Ashley Strickland,Male,50,vpage@gallagher.biz,Mendozabury,Louisiana,USA,904818dd,Tablet,Electronics,Tablet Model 7,793.95,2,2/6/2024,9/14/2023,Credit Card,4
+08b1998d,80e37561,Elizabeth Howard,Other,43,schroederpamela@gmail.com,Millerside,Pennsylvania,USA,f04568de,Tablet,Electronics,Tablet Model 4,105.83,3,3/17/2025,7/23/2023,Cash on Delivery,3
+ddfc8722,f1644040,Michael Hill,Female,40,uvaughan@hotmail.com,Jenniferhaven,Louisiana,USA,34561b4a,Jeans,Clothing,Jeans Model 3,818.83,3,5/22/2023,4/4/2023,Cash on Delivery,3
+46f648ef,3635ac77,Sierra Hernandez,Other,60,howellemily@boyd.info,South Ashleyfurt,Georgia,USA,cf2cc0d8,T-Shirt,Clothing,T-Shirt Model 4,456.6,4,8/6/2023,1/17/2024,Net Banking,5
+db7972d7,ca000800,David Bray,Female,18,perkinsdustin@yahoo.com,Thompsonhaven,Washington,USA,9f6abb01,Microwave,Home & Kitchen,Microwave Model 3,878.9,4,2/18/2024,7/19/2023,Net Banking,3
+66a74cea,ba7722ef,Samantha Price,Male,20,michaellloyd@yahoo.com,Sarashire,Montana,USA,40dd5f9d,Laptop,Electronics,Laptop Model 8,843.78,5,11/28/2024,8/25/2023,Credit Card,1
+235dfas,836cdb14,Phyllis Harrington,Male,55,kennethball@sanders.com,Robinsonhaven,Michigan,USA,952f28c6,Headphones,Electronics,Headphones Model 2,705.85,1,3/20/2024,6/2/2024,Debit Card,1
+cbadb5e7,c21d9fd1,Amy Welch,Other,24,ngreen@yahoo.com,New Robinmouth,Minnesota,USA,baf604bc,Smartwatch,Electronics,Smartwatch Model 8,948.23,2,9/19/2023,5/18/2023,Cash on Delivery,3
+6bbf7d98,6c0d9f71,John Fitzgerald,Female,45,williamphillips@rodriguez.com,Lake Codyland,Nebraska,USA,36462f5e,Jeans,Clothing,Jeans Model 5,882.24,3,7/4/2023,9/22/2024,Debit Card,5
+d8d5967e,d50bfb5e,Courtney Valencia,Other,42,brianrogers@hotmail.com,South Brian,Vermont,USA,eb409131,Shoes,Clothing,Shoes Model 4,234.83,2,8/18/2024,9/23/2024,Credit Card,2
+76f33d07,c6e42c75,Karen Mclaughlin,Male,27,stevensmichael@gmail.com,Armstrongborough,Washington,USA,a6236621,Smartphone,Electronics,Smartphone Model 7,210.77,2,5/1/2024,5/14/2023,Net Banking,1
+ba7bf2d6,9c4d2775,Adam Perry,Male,44,preston94@stevenson-hawkins.com,Lake Jeffrey,Florida,USA,a07bf224,Laptop,Electronics,Laptop Model 6,909.23,4,2/1/2024,6/30/2024,Credit Card,4
+d566e4c6,2dad7318,Abigail Miller,Male,37,kaylabarr@gmail.com,West Kevinton,Washington,USA,5ce2e0a1,Shampoo,Beauty,Shampoo Model 7,519.49,1,7/20/2023,12/25/2023,Cash on Delivery,4
+2ddb02af,a079653a,George Robinson,Other,31,nicole69@yahoo.com,Lake Susan,Kentucky,USA,82f8649d,Tablet,Electronics,Tablet Model 9,285.92,4,2/14/2024,5/15/2023,Credit Card,2
+7fc46f0e,45705099,Paul Mendez,Male,28,pittmanashley@tapia.com,Lake Gregoryburgh,Hawaii,USA,6d4190da,Shoes,Clothing,Shoes Model 3,12.32,3,11/7/2023,4/3/2023,Debit Card,5
+e94d2ac8,63e26492,Connor Le,Female,53,bradleybarbara@fuentes-price.net,North Stephanieville,South Dakota,USA,5ae49776,Smartwatch,Electronics,Smartwatch Model 8,41.25,3,1/19/2024,6/22/2024,UPI,4
+4234dasf,534a781c,Whitney Davis,Male,46,robertvaldez@jones.net,New Stacy,Michigan,USA,3.28E+65,Laptop,Electronics,Laptop Model 9,454,2,12/2/2023,6/24/2023,Cash on Delivery,2
+c43cd9e9,dae5621b,Anthony Russo,Female,57,molly79@yahoo.com,West Aaronberg,Virginia,USA,c42b046d,Fiction,Books,Fiction Model 9,675.64,5,6/30/2023,6/8/2024,Net Banking,1
+5258263f,44278402,Trevor Hopkins,Male,62,leblancshannon@olsen-norris.com,Andersonton,Iowa,USA,49a9ef47,Toaster,Home & Kitchen,Toaster Model 1,18.8,5,5/19/2024,9/17/2023,UPI,3
+eb8ec88d,33c812b2,Alexandra Murphy DVM,Male,23,meadowsdenise@lowery.com,East Darrellfort,Ohio,USA,d055ccc7,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 6,714.81,5,2/24/2025,4/13/2024,UPI,1
+414757fb,4618fcd8,Mary Kelly,Other,57,nathaniel06@yahoo.com,South Debra,New York,USA,c843a52e,Educational,Books,Educational Model 5,552.86,3,3/3/2024,7/28/2023,Credit Card,1
+74f9d7ce,e230c079,Susan Marshall,Other,35,zblair@simpson.com,Christophermouth,Texas,USA,4c878e33,Laptop,Electronics,Laptop Model 9,86.81,3,2/27/2025,6/4/2024,UPI,4
+513f5a17,5c53db00,Matthew Hines,Female,21,kelsey35@tucker-reed.net,Port Mallory,Maryland,USA,5fdaf99b,Fiction,Books,Fiction Model 3,179.15,2,8/27/2024,9/26/2024,Net Banking,4
+93f089d5,9a0f02d5,Kristi Mccarthy,Female,26,wilsondon@macias-bray.info,West Suzanne,Wyoming,USA,8dad4452,Coffee Maker,Home & Kitchen,Coffee Maker Model 4,305.79,4,12/22/2023,4/27/2023,Cash on Delivery,5
+0621a2ac,2911ce6e,David Bowen,Male,43,johnbush@yahoo.com,Lake Timothyshire,Pennsylvania,USA,26a1b9ba,Smartphone,Electronics,Smartphone Model 5,685.56,2,11/15/2024,5/9/2023,Debit Card,3
+da3c08fa,94ecd3e6,Claire Burke,Male,30,emilywilkerson@yahoo.com,Jasonmouth,Maryland,USA,f9e1fffe,Headphones,Electronics,Headphones Model 5,864.14,1,1/6/2025,5/24/2024,Net Banking,2
+2905cae0,24f0849c,Robert Hull,Male,27,rewing@carlson.info,Aprilshire,Maryland,USA,ce02a8bb,Comics,Books,Comics Model 4,588.88,1,11/3/2023,10/9/2023,Credit Card,4
+64b39dc3,685e6218,Jonathan Zimmerman,Female,19,marciawalker@ingram.info,Chelseahaven,North Carolina,USA,7ceeeffa,Shampoo,Beauty,Shampoo Model 8,484.38,2,4/18/2024,3/20/2024,Cash on Delivery,4
+66d66182,27905cf0,Candice House,Male,30,joannemartin@hotmail.com,Port Lindastad,Massachusetts,USA,342016b1,Fiction,Books,Fiction Model 3,159.62,1,11/25/2024,3/24/2024,Debit Card,3
+f1b2de4a,cdf58606,Mckenzie Jones,Other,37,bryan07@alvarado-williams.com,Lake Veronica,Missouri,USA,66cd715f,Laptop,Electronics,Laptop Model 2,77.7,1,10/17/2024,10/18/2024,UPI,2
+23a6608a,fb72ab9e,Tonya Padilla,Other,65,jessicasmith@yahoo.com,West Philipton,Ohio,USA,5b3bae58,Educational,Books,Educational Model 1,264.25,4,8/23/2024,10/13/2023,Net Banking,3
+6a2be056,529227cb,Erin Johnson,Other,52,kimberlychavez@taylor-cochran.com,North Brandon,Vermont,USA,e8913a68,Educational,Books,Educational Model 9,202.63,1,6/8/2023,12/27/2024,Credit Card,4
+9a2fa35e,ab2dfd58,Stacey Martinez,Male,27,cameronjoseph@gmail.com,Port James,Indiana,USA,4881d49e,Fiction,Books,Fiction Model 4,923.46,1,10/26/2023,7/3/2023,Credit Card,2
+b39fd1cc,5845e588,Stephen Brown,Female,65,josephanthony@welch.com,Lake Williamhaven,Nebraska,USA,d6b5ee5a,Microwave,Home & Kitchen,Microwave Model 1,58.66,1,7/15/2023,7/10/2024,Cash on Delivery,2
+118f8280,227eed32,Brandon Williams,Male,36,robert44@lynch.info,Patrickland,Michigan,USA,dfd0e3cd,Headphones,Electronics,Headphones Model 3,429.07,2,3/24/2024,3/4/2024,Net Banking,5
+ae47eda5,18176295,Elizabeth Henry,Male,18,eric67@gmail.com,North Davidhaven,Pennsylvania,USA,fb1b8ff9,Biography,Books,Biography Model 3,392.1,3,2/28/2024,3/12/2024,Cash on Delivery,4
+dd2f8ec4,7ef5e947,Timothy Pruitt,Female,18,ahill@gmail.com,Brownville,Minnesota,USA,53cba928,Biography,Books,Biography Model 1,668.92,5,3/7/2025,4/15/2023,Cash on Delivery,3
+f6e752fa,36e6ef92,Brandi Mayer,Female,58,jamescurry@hotmail.com,West Robert,Massachusetts,USA,9ed6b24a,Laptop,Electronics,Laptop Model 2,661.59,5,5/1/2023,12/26/2023,Net Banking,1
+1518b39a,c3312ad9,Andrea Gallagher,Other,21,mendezmichael@hotmail.com,New Jameston,South Dakota,USA,fd3b4212,Face Cream,Beauty,Face Cream Model 9,282.09,4,9/1/2023,10/20/2024,Credit Card,1
+16b12bd8,206423b5,Zachary Douglas,Other,56,tward@wilson-pacheco.biz,Larryland,Oklahoma,USA,9161ca9c,Educational,Books,Educational Model 9,106.76,1,10/14/2024,6/2/2024,Debit Card,1
+cdab68b5,245d2bfe,Michael Murphy,Other,33,brittanysmith@jimenez.com,Glenntown,North Carolina,USA,31420cd8,Lipstick,Beauty,Lipstick Model 10,991.76,2,5/19/2024,8/12/2024,Debit Card,3
+86eac3e6,13da2c68,Tracy Terry,Other,41,maddendaniel@yahoo.com,North Aprilchester,Arkansas,USA,b1060a38,Lipstick,Beauty,Lipstick Model 2,688.96,5,11/3/2024,3/24/2024,Credit Card,2
+e6fb283c,166f0261,Kim Morgan,Other,28,gbarker@garrett.com,Port Andrea,California,USA,0510d995,Toaster,Home & Kitchen,Toaster Model 10,996.15,2,9/30/2024,4/15/2024,Credit Card,2
+02fe671e,0b6564cc,Pamela Shaw,Male,36,jose04@yahoo.com,New John,Montana,USA,f84d8496,Toaster,Home & Kitchen,Toaster Model 2,245.78,5,9/2/2023,3/8/2025,UPI,4
+324afa32,964519f9,Fred Rivera,Female,60,sparksvictoria@tanner.org,Gibsonmouth,New Hampshire,USA,1a72b754,Shampoo,Beauty,Shampoo Model 9,792.35,1,11/20/2024,3/19/2024,UPI,3
+503ca73d,eae1c5a0,Lee Black,Male,44,loganwaters@stark.biz,Perkinsside,Nebraska,USA,328d17b1,Microwave,Home & Kitchen,Microwave Model 3,309.03,5,7/18/2023,4/20/2024,UPI,1
+7fb0fd25,d2d01ae7,Amanda Conrad,Male,24,tara43@hotmail.com,West Marcia,Maryland,USA,c7b17a7c,Face Cream,Beauty,Face Cream Model 7,99.35,3,12/27/2023,10/20/2023,UPI,2
+7bd9fa3f,f27d1cc5,Dana Gallagher,Other,40,dorseychelsea@gmail.com,Scottburgh,Idaho,USA,cf043df2,Educational,Books,Educational Model 8,97.4,3,8/14/2023,3/31/2023,Debit Card,2
+c724ab7d,fb2aa4b7,Diane Avery,Female,33,michelecruz@hotmail.com,New Lisaton,Washington,USA,25ef8537,Educational,Books,Educational Model 10,627.57,4,12/15/2023,3/30/2024,Net Banking,3
+fc3109a6,13846146,Kelly Li,Male,31,craig50@bennett-wilkins.com,Lake Michael,Arkansas,USA,6dae41b3,Jacket,Clothing,Jacket Model 2,269.89,5,7/30/2024,1/18/2024,UPI,4
+4234dafs3,d61f51be,Dr. Robert Gray MD,Male,40,parkerday@gmail.com,West Jennifer,Colorado,USA,0ec4ca00,Tablet,Electronics,Tablet Model 5,956.79,5,3/3/2025,11/14/2024,Debit Card,1
+1f796e21,060c1897,Stacy White,Female,33,rwolfe@gmail.com,West Alechaven,Oregon,USA,333ceb1b,Headphones,Electronics,Headphones Model 5,56.59,2,11/19/2024,1/2/2024,UPI,2
+06e9b7ee,bdffae6c,Gabriel Hogan,Male,20,floresautumn@yahoo.com,East Kentfort,Washington,USA,4479aea9,Headphones,Electronics,Headphones Model 1,384.14,3,2/11/2025,2/2/2025,UPI,4
+de81ce13,85a965ad,Mark Hammond,Female,36,nbell@silva-price.com,New Stephanie,South Dakota,USA,6d76362b,Tablet,Electronics,Tablet Model 10,497.76,4,2/26/2024,4/5/2023,Cash on Delivery,5
+de97c10d,eb5b9dcd,Travis Blackwell,Male,31,halljoel@yahoo.com,Lisaberg,California,USA,468b8e4e,Jeans,Clothing,Jeans Model 6,149.04,4,2/23/2024,11/17/2024,Net Banking,2
+dbcec29e,e004467f,Chelsea Garner,Male,54,jeffrey72@hernandez.info,Markmouth,New York,USA,141ab39c,T-Shirt,Clothing,T-Shirt Model 3,561.12,5,4/7/2023,3/12/2024,Cash on Delivery,3
+6a935ef7,9d5fec5a,Steven Hicks,Other,61,samuelrobbins@fuentes.net,New Kyleville,Virginia,USA,1f7b0bd0,Perfume,Beauty,Perfume Model 6,721.68,3,1/24/2025,8/28/2023,Cash on Delivery,5
+6bbb9b48,9ed0fd39,Joshua Montgomery,Male,46,mercermichael@whitehead-torres.com,Lindamouth,North Dakota,USA,f0ba5962,Shampoo,Beauty,Shampoo Model 6,562.74,4,8/22/2024,3/17/2025,Credit Card,2
+324affa,f5ba60cb,Amy Anderson,Other,32,chorton@yahoo.com,West Toni,Washington,USA,5148a02b,Lipstick,Beauty,Lipstick Model 3,548.8,5,8/1/2024,7/31/2024,Credit Card,3
+80cf2222,cd279f59,Craig Christian,Male,23,amiller@gmail.com,Harristown,Oklahoma,USA,6c5f3a8f,Perfume,Beauty,Perfume Model 8,441.95,3,7/7/2024,2/27/2024,Cash on Delivery,5
+365c1cfe,999fb63d,Stephen Moore,Male,41,reiderica@yahoo.com,South Megan,Illinois,USA,dadf4944,Tablet,Electronics,Tablet Model 9,565.98,3,12/4/2023,4/15/2023,UPI,4
+c9f312b3,aa901d0f,Brandon Hayden,Female,54,trevinobrenda@wolfe.com,New Laura,New Hampshire,USA,b1faff43,Toaster,Home & Kitchen,Toaster Model 4,143.14,4,9/25/2024,3/14/2025,Debit Card,5
+6b89f6f3,558662f5,Daniel Rodriguez,Male,24,anthonythomas@gmail.com,Port Randy,Kansas,USA,e2dc964f,Biography,Books,Biography Model 2,84.66,2,1/24/2024,3/11/2024,UPI,1
+59710fd0,ba4eda3c,Kelly Robbins,Other,39,hwallace@yoder.com,North Rachelberg,Tennessee,USA,ee9dbbec,Biography,Books,Biography Model 8,777.09,3,8/6/2024,5/14/2023,UPI,1
+8d7c203b,c4578b71,Michelle Jackson,Other,62,hawkinsjudith@baker.info,Jasminemouth,Washington,USA,4092db30,Jacket,Clothing,Jacket Model 8,119.54,5,6/30/2023,12/30/2023,Debit Card,4
+18fc95ae,888eb780,Kyle Gray,Female,25,hamptonjames@gmail.com,North Tony,Nebraska,USA,a58e017b,Jeans,Clothing,Jeans Model 3,485.94,3,3/9/2025,11/12/2023,Debit Card,4
+7ac868f8,11f673e3,Steven Estrada,Male,61,cunninghamdalton@hotmail.com,Lake Matthewburgh,Ohio,USA,4d403356,Jacket,Clothing,Jacket Model 8,551.03,1,4/23/2023,8/30/2023,Net Banking,5
+93589c25,e2be0b19,Susan Harper,Female,62,jacksondavid@gray.com,Phillipsstad,Pennsylvania,USA,4a192d42,Laptop,Electronics,Laptop Model 2,155.49,3,8/18/2023,3/1/2024,Cash on Delivery,4
+2cfb019d,e4ac119f,Mrs. Ashley Jones,Female,56,mpena@hotmail.com,East Jeffrey,Nevada,USA,3c27ff95,Non-Fiction,Books,Non-Fiction Model 7,619.83,3,10/1/2023,9/10/2023,Credit Card,2
+825ba402,e464bafc,Angela Hamilton,Male,60,logan42@grant.net,Millerfurt,New York,USA,b702a7fa,Blender,Home & Kitchen,Blender Model 10,573.13,3,4/17/2023,5/20/2024,Credit Card,2
+57643c6d,88582d10,Joy Williams,Male,60,rcurry@aguirre.com,Stuartmouth,Pennsylvania,USA,fedda62e,Lipstick,Beauty,Lipstick Model 4,122.85,4,4/16/2023,5/10/2023,Cash on Delivery,5
+541c0edf,0a9ae1d6,William Medina,Other,61,ncastillo@spencer-petersen.com,Brooksfort,Alabama,USA,d0885705,Perfume,Beauty,Perfume Model 9,738.84,5,11/22/2024,10/3/2023,Net Banking,2
+fb67c652,253fa798,Shirley Smith,Other,21,leekristina@yahoo.com,Parkborough,Louisiana,USA,a29dbae7,Shampoo,Beauty,Shampoo Model 2,375.38,4,8/29/2024,6/13/2023,Debit Card,2
+9b73e5fb,f4c38b44,Robert Sutton,Female,43,fergusonkenneth@lang.info,East Haileyhaven,Mississippi,USA,93307492,Microwave,Home & Kitchen,Microwave Model 3,559.12,2,3/26/2024,10/9/2023,Cash on Delivery,2
+444e13a4,778ad49f,Peter Pope,Other,50,bakeralbert@yahoo.com,West Joshua,Washington,USA,a5ebd43a,Biography,Books,Biography Model 2,986.29,2,10/20/2024,7/18/2023,Debit Card,2
+06bdd2eb,b96bb86c,Misty Cobb,Other,18,nicoleruiz@chavez.com,Brayfort,New York,USA,56c9f35a,Blender,Home & Kitchen,Blender Model 3,255.25,2,9/15/2024,11/10/2024,Credit Card,2
+32c9028d,4f929709,James Williams,Male,41,smoore@yahoo.com,Lake Andrew,Maryland,USA,187bf46e,Smartwatch,Electronics,Smartwatch Model 5,826.96,3,12/27/2023,12/2/2024,Cash on Delivery,5
+148f71c3,074c5ce0,Steven Martin,Female,32,stanleyrodgers@evans-andrews.com,Port Christopherbury,Vermont,USA,f9c6d515,Microwave,Home & Kitchen,Microwave Model 8,597.56,3,1/14/2025,7/29/2023,Debit Card,2
+ff46e6cf,b90d6905,Tiffany Robinson,Male,44,sjones@hotmail.com,Cartermouth,Connecticut,USA,6046e05c,Toaster,Home & Kitchen,Toaster Model 9,688.44,2,9/2/2023,12/17/2023,Credit Card,1
+fb73d2a4,b5111847,Corey Harmon,Female,52,joseph03@harvey.com,Lake James,Virginia,USA,405136ff,Jacket,Clothing,Jacket Model 9,481.16,3,6/12/2023,1/1/2024,Debit Card,1
+51d66685,532328fc,Ms. Jennifer Alvarez,Other,49,meadowsbrian@wagner-garrett.com,East Jeffreyshire,Wisconsin,USA,acdfa47f,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 8,646.92,4,5/3/2024,8/3/2024,Net Banking,2
+7d12d546,b43648dc,Dana Smith,Other,50,charlesdavis@yahoo.com,Feliciaside,Colorado,USA,322bb301,Microwave,Home & Kitchen,Microwave Model 8,591.64,1,8/3/2024,4/15/2024,Credit Card,5
+5a0fd329,35d5b960,Michael Jones,Male,18,washingtonmeredith@tucker.net,Chavezville,Idaho,USA,ec6776db,Lipstick,Beauty,Lipstick Model 5,294.71,1,4/29/2023,12/21/2023,Cash on Delivery,2
+2a6fdfb1,1569b530,Shawn Hicks,Other,34,lopeznatasha@gmail.com,Hernandeztown,Illinois,USA,482a8caf,Perfume,Beauty,Perfume Model 10,826.54,3,8/16/2024,3/10/2024,UPI,5
+f7f12405,58d0cdf3,Arthur Smith,Male,20,victorterry@yahoo.com,Hayesview,California,USA,77df5601,Biography,Books,Biography Model 7,104.37,5,6/12/2023,12/5/2023,Credit Card,1
+70d8b770,09599d09,Jesse Mccall,Female,65,harringtonmichelle@hotmail.com,Huberfort,Pennsylvania,USA,a8439398,Jeans,Clothing,Jeans Model 5,300.48,2,12/17/2024,10/17/2023,Debit Card,3
+6cc6dfe0,868728da,Sandra Ayers,Female,47,suecoffey@gmail.com,North Kendra,North Dakota,USA,703c0454,Comics,Books,Comics Model 1,892.42,1,12/3/2023,7/16/2024,Debit Card,2
+2ed3a41a,a1fa9b9f,Robert Rodriguez,Male,29,taylorbarnett@franklin.info,Martinezview,Florida,USA,64487f16,Smartphone,Electronics,Smartphone Model 7,373.95,3,11/17/2024,3/12/2024,Debit Card,3
+c9b58e8b,de980eb9,Connie Carey,Female,46,mgonzales@hotmail.com,Hernandezport,Iowa,USA,a5960487,Jacket,Clothing,Jacket Model 4,688.26,2,9/30/2024,12/27/2023,Cash on Delivery,3
+545c7b90,8160892b,Samantha Anderson,Male,61,montgomerykyle@gmail.com,Angelicabury,Oklahoma,USA,4c1eea68,Face Cream,Beauty,Face Cream Model 8,34.43,1,2/4/2025,6/14/2023,Net Banking,2
+4102decb,f6a2b91a,Julie Sanders,Female,46,gomezpaul@graham.info,Port Sarah,Iowa,USA,b74365bd,Non-Fiction,Books,Non-Fiction Model 9,80.93,1,4/17/2023,1/4/2024,Debit Card,5
+3b1d25ce,e5dd08a7,Matthew Jones,Male,23,morgan17@yahoo.com,Patrickville,Maryland,USA,d86c06e8,Lipstick,Beauty,Lipstick Model 1,441.96,1,11/2/2024,1/4/2025,Credit Card,4
+949f888f,4d2e25bb,Daniel Moreno,Female,59,stephanie16@leonard.com,New Markside,Nevada,USA,83edd1e4,Shampoo,Beauty,Shampoo Model 5,758,2,6/11/2024,1/23/2024,Debit Card,1
+ef64af0b,ba46b615,Christine Wilson,Female,59,ohernandez@yahoo.com,North Jessica,Connecticut,USA,50df1545,Lipstick,Beauty,Lipstick Model 3,867.99,3,10/11/2023,8/10/2023,Cash on Delivery,4
+c2c4db4d,ae04766c,Jamie Bradley,Female,22,keithcampos@yahoo.com,East Mark,Wisconsin,USA,bd2f3e83,Microwave,Home & Kitchen,Microwave Model 6,910.93,5,9/12/2024,6/25/2023,Debit Card,3
+82902a25,0025d2c8,Sara West,Male,35,andrew18@hotmail.com,Robintown,Missouri,USA,d9bef37c,Shoes,Clothing,Shoes Model 4,941.39,1,11/9/2024,3/5/2025,Cash on Delivery,4
+7f98a48b,d25619cf,Valerie Garcia,Male,38,peggy37@gmail.com,South Bryce,Ohio,USA,0c1a284a,Fiction,Books,Fiction Model 8,249.32,1,12/6/2024,9/4/2024,Debit Card,4
+4a1a2710,5e8abccd,Sara Barnes,Other,33,snyderjoseph@yahoo.com,Eugeneburgh,Indiana,USA,2ccfbefd,Perfume,Beauty,Perfume Model 3,613.56,1,9/19/2024,9/7/2023,Credit Card,4
+351f68af,b7f7e79f,Heather Flynn,Male,47,kmcgee@hunter-erickson.info,New Reneeton,Kansas,USA,b77c3359,Blender,Home & Kitchen,Blender Model 2,917.68,2,4/24/2024,2/17/2025,Credit Card,3
+f801a7a9,f8582c01,Amy Rodriguez,Female,25,xwhite@perez.com,Port Emily,South Dakota,USA,66d73709,Fiction,Books,Fiction Model 5,368.89,5,11/18/2024,11/4/2023,UPI,4
+f5ddbc7a,92877a34,James Vance,Other,65,kelliblack@moore-hernandez.com,North Kimtown,Pennsylvania,USA,c0bf2714,Tablet,Electronics,Tablet Model 8,686.94,3,11/24/2024,8/7/2024,UPI,2
+64d556b6,28f6abf3,Raymond Blackwell,Other,65,sbond@gmail.com,Harrisonshire,Colorado,USA,7d924e7f,T-Shirt,Clothing,T-Shirt Model 2,677.1,3,7/18/2024,10/24/2024,Net Banking,2
+3c7ea252,3fd250be,Derek Wilson,Other,51,angela69@skinner.info,North Christopherburgh,Illinois,USA,1370facf,Biography,Books,Biography Model 1,451.96,3,5/19/2023,3/28/2025,Cash on Delivery,5
+1f52d46d,5a734cb1,Stephen Simpson,Male,49,jparker@greene.com,New Wendy,Louisiana,USA,5eb464ca,Non-Fiction,Books,Non-Fiction Model 8,955.46,5,6/9/2024,2/13/2024,Net Banking,3
+cadaba1c,27ea445a,Tiffany Rogers,Male,61,srose@washington.com,Sparksville,Louisiana,USA,8918241b,Comics,Books,Comics Model 8,969.79,2,4/25/2024,6/19/2023,Net Banking,4
+34a5d6f6,368db706,Kerri Eaton,Male,56,paul76@castro.com,East Susan,Montana,USA,58dc54e3,Educational,Books,Educational Model 2,51.19,1,10/8/2023,8/31/2023,Debit Card,1
+2c9cb801,35095460,Mr. Micheal Hood,Other,29,taylorjody@delacruz.com,Jonathanville,Massachusetts,USA,54fb4c13,Shampoo,Beauty,Shampoo Model 2,307.47,4,10/14/2023,2/17/2025,UPI,5
+1cc81b88,558e2472,Joe Cook,Male,48,cynthiahamilton@hotmail.com,Ponceberg,Michigan,USA,f931add5,Laptop,Electronics,Laptop Model 1,601.11,1,7/26/2023,9/24/2024,Cash on Delivery,4
+d8885b69,93856474,Jacob Snyder,Other,41,kmorales@yahoo.com,New Thomasmouth,Hawaii,USA,3bbc934d,Smartphone,Electronics,Smartphone Model 3,254.55,1,5/11/2023,3/25/2024,Credit Card,5
+0c61c3d5,6857e29e,Andrea Hicks,Female,19,csmith@hotmail.com,Port Thomashaven,Arkansas,USA,fd2bd2ea,Headphones,Electronics,Headphones Model 7,655.84,5,8/8/2023,5/28/2024,Net Banking,4
+6bdd0236,b058f7fd,Alicia Wilson,Male,28,zacharymendez@yahoo.com,New Andrewchester,Nebraska,USA,7685d167,Sweater,Clothing,Sweater Model 2,558.59,4,1/26/2025,5/31/2023,Debit Card,5
+c8b57933,9f2a0c72,Bridget Patterson,Other,55,angelanguyen@stephens-thomas.com,New Christopherberg,Massachusetts,USA,8c5a4091,Sweater,Clothing,Sweater Model 6,479.39,1,12/19/2023,12/23/2024,UPI,5
+eba7a31d,50fd580c,Christopher Parker,Other,19,michaelsanchez@johnson.org,Smithland,Alabama,USA,e935b7bb,T-Shirt,Clothing,T-Shirt Model 4,257.85,4,4/19/2023,11/29/2023,Cash on Delivery,3
+8f12f89b,5ffc02ce,Steven Swanson,Male,42,katherine75@gmail.com,Savannahview,Indiana,USA,41b263ac,Non-Fiction,Books,Non-Fiction Model 6,906.45,5,7/10/2023,1/24/2024,Credit Card,1
+650d4bce,54e2bccf,Tricia Hernandez,Male,44,tina83@bush.com,Lake Amberchester,Kansas,USA,03eab0e2,Fiction,Books,Fiction Model 8,859.73,3,12/9/2024,11/25/2023,Net Banking,3
+8abae4ee,81dd537e,Mr. Paul Cervantes,Male,48,cuevasrobert@kemp.com,Nathanville,Montana,USA,eb2b5e26,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 10,22.52,2,3/27/2024,4/3/2024,Cash on Delivery,3
+623bc1d6,311a920f,Cody Stanley,Male,21,zavalazachary@anderson-silva.org,South Johnland,South Carolina,USA,48c959b9,Perfume,Beauty,Perfume Model 4,696.25,3,3/7/2024,2/28/2024,UPI,5
+8576de8f,fad4368c,Albert Walker,Male,28,jimmymendoza@yahoo.com,Donaldsonhaven,Alabama,USA,39b22679,Jeans,Clothing,Jeans Model 1,128.65,5,5/8/2024,11/27/2023,Debit Card,1
+a6d42569,ce42d674,Christopher Carr,Female,29,timothyday@hanna.biz,Ryanton,New Mexico,USA,e398ccc1,Coffee Maker,Home & Kitchen,Coffee Maker Model 4,814.66,3,1/17/2024,12/6/2024,Debit Card,3
+32ace1f3,de24ed60,Regina Guerrero,Other,22,andrew22@mitchell.com,Morganton,Maryland,USA,2cedb6d9,Jacket,Clothing,Jacket Model 10,935.82,3,4/3/2023,7/20/2023,Cash on Delivery,4
+7f78d373,16dbb52b,Jennifer Gibson,Male,30,gwendolynhudson@osborne-burgess.com,Josephtown,Colorado,USA,5549ca8f,Biography,Books,Biography Model 5,399.41,3,7/25/2024,8/18/2024,Debit Card,3
+1104eb4b,9137723f,Hannah Cook,Other,29,xfoster@yahoo.com,Lisafurt,Ohio,USA,2adee71f,Blender,Home & Kitchen,Blender Model 2,517.57,4,2/20/2025,5/14/2023,Net Banking,5
+1c9a6ea4,3eec6ed9,Sean Moss,Other,55,bkelly@hotmail.com,North Chad,Maine,USA,ed41341e,Lipstick,Beauty,Lipstick Model 2,712.06,2,10/21/2024,5/2/2024,Credit Card,1
+27f5099a,f7754999,Lisa Espinoza,Male,22,allisonfreeman@gmail.com,East Curtis,Pennsylvania,USA,48440cf9,Educational,Books,Educational Model 6,444.59,1,8/21/2024,12/26/2023,Debit Card,1
+7ad875d3,890f1e1f,Brittany Huber,Male,41,stephaniedunn@fischer.com,Edwinburgh,Utah,USA,a97892ca,Laptop,Electronics,Laptop Model 3,209.18,4,5/16/2024,9/1/2023,Credit Card,3
+3f7ca027,17ecb724,Alice Shea,Female,50,tdorsey@mosley.com,Davidmouth,Idaho,USA,1aa7702e,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 3,932.47,3,12/8/2024,7/5/2023,Debit Card,5
+24sf324,d63b8f30,Zachary Lewis,Male,64,wgutierrez@hotmail.com,West Mary,Arizona,USA,087ff107,Microwave,Home & Kitchen,Microwave Model 8,403.69,1,6/1/2024,4/3/2024,UPI,4
+574e5567,a64d664d,Scott Oconnor,Male,42,robertestrada@gmail.com,East Stevenland,Illinois,USA,4607d0b0,Headphones,Electronics,Headphones Model 10,705.95,3,10/30/2024,9/1/2023,Debit Card,5
+2b5e2ac2,06e3dfd5,Mrs. Sabrina Melton,Male,63,stephen41@collins-chen.info,North Richardtown,Ohio,USA,d6713dfd,Face Cream,Beauty,Face Cream Model 3,123.76,3,2/19/2024,3/24/2025,Credit Card,3
+9ccae4e9,c7d1a23d,Tracy Huff,Male,26,valeriecrawford@gmail.com,Lake Zacharyhaven,Minnesota,USA,d61db820,Laptop,Electronics,Laptop Model 9,988.97,1,2/18/2025,4/16/2023,Debit Card,2
+0004676a,80c9e608,Nicholas Taylor,Female,56,gabrielflowers@gmail.com,South Markport,Illinois,USA,e5954d16,Headphones,Electronics,Headphones Model 9,35.63,1,2/6/2024,8/23/2023,Debit Card,2
+6fd598f3,4d1e82a1,Bridget Fernandez,Other,26,ywashington@yahoo.com,Destinyport,Tennessee,USA,271fe07b,Smartphone,Electronics,Smartphone Model 7,33.1,1,12/22/2024,9/12/2023,Net Banking,4
+4b5f5bde,1d1f1e31,Carmen Bowman,Male,27,jacquelineellis@hotmail.com,Port Frank,Minnesota,USA,a3d523ad,Coffee Maker,Home & Kitchen,Coffee Maker Model 9,122.57,4,1/30/2025,12/15/2023,Credit Card,5
+cc14b0f3,50f44c37,Karen Young MD,Other,49,kingchris@yahoo.com,Port Jesse,Connecticut,USA,875e578e,Shampoo,Beauty,Shampoo Model 3,988.16,3,4/11/2023,4/8/2023,Net Banking,4
+4ec64447,fd56fb44,Johnathan Roman,Male,53,kristen73@yahoo.com,Port Matthewborough,Wisconsin,USA,aee76f12,Body Lotion,Beauty,Body Lotion Model 2,526.17,4,3/27/2025,2/6/2025,Cash on Delivery,2
+5bf8686f,14d0185e,Brenda Reed,Male,39,melissa19@gmail.com,Amandatown,Ohio,USA,46487b18,Biography,Books,Biography Model 7,637.03,1,6/18/2023,7/12/2024,Cash on Delivery,2
+c9d98c7e,4cab0e15,Donna Buchanan MD,Female,62,laura61@medina-monroe.com,Dianeside,Utah,USA,f586ca3e,Laptop,Electronics,Laptop Model 2,403.03,4,2/17/2024,12/30/2024,Cash on Delivery,3
+bbe1a13b,8dce7c1e,James White,Other,34,matthew34@gmail.com,East Jeffrey,South Carolina,USA,d97be825,Face Cream,Beauty,Face Cream Model 6,839.89,5,7/30/2023,8/1/2023,Credit Card,3
+f25771d3,c10c4a3e,Julia Cabrera,Male,19,michaelnelson@yahoo.com,Veronicamouth,North Dakota,USA,71966594,Jacket,Clothing,Jacket Model 8,664.11,1,9/13/2024,6/8/2023,Cash on Delivery,2
+4943f3b2,8eec85e1,Jill Jenkins,Male,60,michael35@robertson.com,East Lindaton,Oklahoma,USA,4eb88ad1,Toaster,Home & Kitchen,Toaster Model 3,357.85,4,12/5/2024,12/17/2023,Debit Card,1
+3163981a,52ca8305,Robin Ellis,Female,33,jessicawilliams@yahoo.com,Port Matthewstad,Oklahoma,USA,d1bb337a,Perfume,Beauty,Perfume Model 9,646.88,4,11/12/2024,8/28/2024,Net Banking,3
+08a0f15c,59a7a84a,Diane Keith,Female,29,vbrown@gmail.com,Josephfurt,Rhode Island,USA,c7bf540e,Sweater,Clothing,Sweater Model 8,101.39,2,3/8/2025,11/2/2023,Debit Card,3
+ed65dd5b,5082693c,Stephen Diaz,Female,49,john60@collins.info,Smithshire,Arkansas,USA,d3785646,Blender,Home & Kitchen,Blender Model 6,522.14,3,11/3/2024,9/14/2023,Credit Card,4
+77fc8c74,8e490a2e,Keith Bradford,Other,39,ryanrodriguez@gmail.com,West Kevin,Wisconsin,USA,c31fc94b,Coffee Maker,Home & Kitchen,Coffee Maker Model 7,542.27,3,4/18/2024,2/21/2024,Net Banking,3
+eec02c7a,ab145fbc,Michelle Lopez,Other,21,mcgrathjoseph@hotmail.com,Lopezstad,Connecticut,USA,24ef58df,Microwave,Home & Kitchen,Microwave Model 6,882.81,5,6/17/2023,7/1/2024,Net Banking,5
+173687a0,a8277648,Andrew Burnett,Other,34,terryrussell@yahoo.com,West Cherylburgh,Hawaii,USA,c07b75d6,Sweater,Clothing,Sweater Model 10,940.39,1,9/22/2023,6/19/2023,Debit Card,2
+df55e5c6,e8d83ef6,Ian Klein,Male,36,lorraine80@rosales.com,West Michelleton,Louisiana,USA,878cc09d,Body Lotion,Beauty,Body Lotion Model 7,242.71,4,10/21/2023,1/31/2025,Net Banking,5
+72e79825,4bc1bbcd,Brett Hudson,Female,28,ericcurtis@hotmail.com,East Dawn,Virginia,USA,91ba59b7,Lipstick,Beauty,Lipstick Model 6,128.19,1,9/7/2024,10/21/2023,Net Banking,3
+5ab6ab2f,a8d90397,Scott Garcia,Other,23,estradamichelle@yahoo.com,North Juan,Alaska,USA,ef26c2f3,Lipstick,Beauty,Lipstick Model 8,809.22,5,2/15/2025,12/2/2024,Cash on Delivery,1
+d6ea18d6,eeaa4563,Anthony Johnson,Male,56,ytanner@morales.com,Taylorstad,Illinois,USA,8ac37381,Smartphone,Electronics,Smartphone Model 2,354.38,4,7/26/2023,7/9/2024,Cash on Delivery,5
+ff700f32,fa0a349f,Yolanda Howard,Other,36,joseph53@yahoo.com,Port Brenda,Oklahoma,USA,418f05a1,Coffee Maker,Home & Kitchen,Coffee Maker Model 8,147.91,1,12/14/2024,8/7/2023,UPI,2
+1792245,ef94bd6c,Deanna Wilkins,Male,40,wknox@yahoo.com,New Matthew,North Dakota,USA,72232b15,Tablet,Electronics,Tablet Model 6,788.66,4,10/1/2024,6/15/2023,UPI,1
+b11c15ce,72687aa6,Andrew Smith,Female,30,cassie11@myers.com,Hortonport,Oregon,USA,26a8e2aa,Smartwatch,Electronics,Smartwatch Model 1,358.62,5,7/9/2023,12/12/2024,Net Banking,3
+9ea8f43c,d591b70b,Joshua Ponce,Male,54,mayerbreanna@yahoo.com,Christophermouth,South Dakota,USA,bcae11a5,Sweater,Clothing,Sweater Model 2,77.17,4,5/9/2024,10/28/2023,UPI,2
+735b3a20,8ced9251,Jeremiah Jones,Male,63,norman92@gmail.com,West Lawrence,Wyoming,USA,8f40e6ed,Headphones,Electronics,Headphones Model 6,749.45,5,6/25/2023,7/25/2023,Debit Card,5
+f474428d,45bf9bf4,Mr. Patrick Gutierrez,Other,47,aaronmitchell@hughes-smith.biz,Millertown,Kansas,USA,360d31c4,Non-Fiction,Books,Non-Fiction Model 2,212.69,4,12/28/2023,11/11/2024,Debit Card,5
+248fc8f4,a42c340c,Victoria Ruiz,Other,32,joelrobbins@macdonald.biz,New Joseph,Ohio,USA,ff8f5da3,Body Lotion,Beauty,Body Lotion Model 10,538.23,1,8/31/2024,4/26/2024,Cash on Delivery,2
+695aa0c9,0b04cf35,Barry Wilson,Male,48,joseph63@hotmail.com,Codybury,Nebraska,USA,0706fa2b,Smartwatch,Electronics,Smartwatch Model 2,998.16,1,8/26/2023,1/16/2024,Credit Card,5
+fc37b2af,7041c9ea,David Tran,Male,41,andrew52@andrews.com,West Laurenbury,Minnesota,USA,85d4eb98,Face Cream,Beauty,Face Cream Model 8,834.28,4,4/4/2024,1/6/2024,UPI,1
+9eb14a26,a25e9c19,Dakota Russell,Other,21,qsmith@gmail.com,East Adam,Michigan,USA,495e408e,Biography,Books,Biography Model 4,326.26,3,1/11/2024,4/30/2023,Cash on Delivery,3
+4ca79bcf,410f1264,Chelsea Yu,Female,22,petersoncarolyn@hotmail.com,Smithburgh,Nebraska,USA,abd52389,Smartphone,Electronics,Smartphone Model 5,986.84,3,10/2/2023,3/7/2025,Net Banking,1
+03a3cea2,cd9b6b75,Brittany Bell,Male,34,erica80@gmail.com,Lake Sheriton,Minnesota,USA,f6e53a1d,Smartphone,Electronics,Smartphone Model 6,373.32,3,10/5/2023,10/25/2023,Debit Card,2
+7ad22f1f,f367cc54,Jordan Mcmahon,Female,28,phunter@yates-werner.com,Schneiderville,Nebraska,USA,1454bba0,Shoes,Clothing,Shoes Model 2,576.85,3,11/27/2023,6/8/2023,Debit Card,1
+90066632,eed50306,Nicolas Johnson,Other,27,jameskim@yahoo.com,East Rachelton,Michigan,USA,60a66fe7,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 6,364.01,3,7/9/2024,6/15/2023,Net Banking,4
+46dd0b7c,3aa11770,Alexander Watson,Other,23,scottlopez@thomas.com,Nataliemouth,Arizona,USA,4f4ec0c2,Body Lotion,Beauty,Body Lotion Model 3,661.4,4,3/12/2025,9/14/2023,Debit Card,1
+0f8b90e3,7273a031,Christina Burnett,Female,38,jeremywells@hotmail.com,Port Arthurstad,New Hampshire,USA,87cf9f6b,T-Shirt,Clothing,T-Shirt Model 4,722.86,1,8/23/2023,10/3/2023,Credit Card,5
+413d7f84,5e32e2b4,Elizabeth Galloway,Other,47,derekharrison@gmail.com,Christopherborough,Alaska,USA,514fd15e,Perfume,Beauty,Perfume Model 9,583.48,3,5/6/2024,5/21/2023,Cash on Delivery,1
+11745d7d,9c8174b1,Susan Lyons,Other,22,nicholas32@yahoo.com,West Tiffany,North Carolina,USA,170a487f,Jacket,Clothing,Jacket Model 9,934.54,3,5/23/2023,11/27/2023,Net Banking,3
+ba9481ea,124f15e3,Emma Baxter,Female,42,michael02@gmail.com,Lake Patrickhaven,Wisconsin,USA,cb46c09b,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 7,760.49,2,11/20/2023,3/10/2025,UPI,3
+6986905b,6.19E+96,Jose Brown,Other,49,kathrynaustin@anderson-mcclain.com,South Nicholasbury,Minnesota,USA,5f10caf2,Perfume,Beauty,Perfume Model 10,503.56,1,8/17/2023,5/12/2024,Net Banking,1
+28b6785e,adbc2ef1,Jeremy Hill,Female,64,hmosley@yahoo.com,New Michellemouth,Iowa,USA,7d5e1464,Tablet,Electronics,Tablet Model 3,543.67,3,3/19/2024,3/13/2025,UPI,1
+66ec9350,dc430e10,Brenda Mccoy,Other,62,yperkins@yahoo.com,South Karenbury,West Virginia,USA,70bd24e8,Laptop,Electronics,Laptop Model 9,238.44,4,7/12/2024,9/29/2023,Credit Card,4
+97b864db,95c03259,Lisa Moreno,Other,47,ldixon@yahoo.com,Holmestown,New Mexico,USA,744825da,Laptop,Electronics,Laptop Model 4,21.69,1,11/23/2024,12/2/2024,Net Banking,2
+115b3d48,f32e7c71,Jeremy Maxwell,Female,47,melissagordon@gmail.com,Fitzpatrickfurt,Louisiana,USA,06e3e9c0,Body Lotion,Beauty,Body Lotion Model 5,449.66,3,4/2/2023,5/20/2023,Net Banking,3
+299ac148,33f64443,William Burke,Other,34,jasonmartinez@sandoval.com,Lake Carolchester,North Dakota,USA,c34b2948,Smartphone,Electronics,Smartphone Model 9,73.09,2,11/17/2024,12/16/2023,UPI,1
+cdfa87e2,065d4e29,Justin Porter,Female,33,dstevens@odonnell.biz,South Susan,Idaho,USA,69c33db1,Biography,Books,Biography Model 9,138.39,4,6/14/2023,3/23/2024,Net Banking,4
+dbbb3322,1d8b67c4,Arthur Huang,Female,37,nperry@gmail.com,Eddieton,Florida,USA,10caadf5,Perfume,Beauty,Perfume Model 2,750.35,4,10/2/2023,9/4/2024,Net Banking,4
+7be68b41,4d779734,Thomas Collins,Other,18,kevinstafford@chapman.net,Camachoberg,Alabama,USA,7c95ee7d,Microwave,Home & Kitchen,Microwave Model 7,999.46,3,11/1/2023,3/23/2024,Cash on Delivery,1
+bc17af9a,1a0c62de,Michael Park,Female,54,julie33@gmail.com,Port Sarahport,Michigan,USA,7cb41de0,Tablet,Electronics,Tablet Model 3,685.97,1,1/19/2024,9/25/2023,UPI,2
+ad4fbdd3,2181087f,David Williams,Female,53,anthony25@yahoo.com,South Alanhaven,Wisconsin,USA,ac992366,Biography,Books,Biography Model 2,833.26,4,11/10/2023,7/9/2023,Debit Card,2
+e7da6296,a0c11270,Jesus Butler,Male,48,hinesjessica@bell.com,West Nicholasstad,Kansas,USA,73b69e34,Educational,Books,Educational Model 5,400.94,4,1/16/2025,8/26/2024,Credit Card,1
+77418672,f5abd24a,Christine Moran,Female,26,colemancolton@wright-williams.com,Coryborough,Mississippi,USA,0083ca42,Non-Fiction,Books,Non-Fiction Model 7,254.45,3,7/16/2024,7/31/2024,Credit Card,5
+fb1995b7,9130f792,Mr. Gregory Welch,Male,32,linda69@gmail.com,Isaiahview,New Hampshire,USA,b9cf39fe,Biography,Books,Biography Model 3,164.66,1,10/23/2023,10/2/2024,UPI,2
+b7c2d08d,bebe0e20,Roger Wells,Female,53,srocha@gmail.com,East Jefferychester,Illinois,USA,e225f2ac,Fiction,Books,Fiction Model 5,752.43,1,9/6/2024,3/27/2024,Cash on Delivery,2
+c86ba35d,a8c0183f,Courtney Weber,Other,34,thill@yahoo.com,Angelastad,Wisconsin,USA,96028ed7,Microwave,Home & Kitchen,Microwave Model 5,111.8,2,4/30/2023,3/4/2024,Cash on Delivery,2
+10cf8ee7,e2607113,Christine Rodriguez,Other,37,andrew37@stanley.com,Port Jake,Alabama,USA,b4553302,Toaster,Home & Kitchen,Toaster Model 10,731.3,1,12/12/2023,9/2/2024,Net Banking,5
+3bff4b16,8775e401,James Martinez,Other,41,kennedychad@gmail.com,Griffintown,Alabama,USA,ae74cc94,Smartphone,Electronics,Smartphone Model 1,299.16,1,4/10/2024,3/12/2025,UPI,5
+1869c08a,785bb280,Joel Armstrong,Female,62,barnettmelissa@martinez.com,Martinberg,Illinois,USA,b6a884c2,Non-Fiction,Books,Non-Fiction Model 6,530.31,2,6/24/2024,5/17/2023,UPI,4
+5d948933,cb8b6574,Teresa Marks,Female,30,dsherman@gmail.com,Rogersburgh,Alaska,USA,8b7b9b29,Body Lotion,Beauty,Body Lotion Model 6,773.69,4,7/4/2024,4/6/2024,Cash on Delivery,4
+167fcd30,bdf2bc3d,Hailey Knapp,Other,45,lclark@hotmail.com,West Patricia,California,USA,e226de80,Lipstick,Beauty,Lipstick Model 4,401.31,2,7/25/2023,1/9/2024,Debit Card,1
+b68b0450,e9296b4d,Benjamin Smith,Female,50,lallen@hotmail.com,Robertton,Colorado,USA,7560173f,Comics,Books,Comics Model 6,675.14,5,4/29/2024,5/31/2023,Cash on Delivery,4
+3ef012cd,31c26ce0,Joshua Jimenez,Other,23,frenchjames@yahoo.com,Ramirezfort,Iowa,USA,e7ce9453,Biography,Books,Biography Model 10,706.91,4,8/25/2024,12/16/2023,UPI,4
+70d33f21,d00f329a,Marissa Green,Female,38,rachelacosta@lamb-johnson.org,Christopherborough,Mississippi,USA,84a94a34,Toaster,Home & Kitchen,Toaster Model 8,911.71,3,11/29/2024,1/2/2024,UPI,1
+4336c410,577b99bd,Paul Humphrey,Female,61,brandi57@gmail.com,West Theresa,Idaho,USA,61d844b5,Blender,Home & Kitchen,Blender Model 6,369.19,3,6/15/2023,1/10/2025,Net Banking,5
+e030e161,93edca59,Keith Evans Jr.,Other,54,lopezkatherine@gmail.com,New Deborah,South Dakota,USA,017abd93,Jeans,Clothing,Jeans Model 4,980.56,2,3/26/2025,2/9/2025,UPI,3
+93ba4986,b222bff5,Nicole Waters,Other,37,justincannon@yahoo.com,North Jamesport,Michigan,USA,a33e869b,T-Shirt,Clothing,T-Shirt Model 4,213.83,3,5/30/2023,7/3/2024,UPI,1
+dbfab746,4aca5d67,Patricia Singh,Male,63,melissa75@yahoo.com,West Amyfurt,Louisiana,USA,55c3e4b6,Headphones,Electronics,Headphones Model 1,923.77,4,1/5/2025,4/4/2024,UPI,5
+175a72f7,bf968f10,Kimberly Sanchez,Other,29,sara66@gmail.com,Paulaville,Arkansas,USA,286a498c,Jeans,Clothing,Jeans Model 7,619.31,4,1/1/2024,6/15/2024,Credit Card,5
+ff11eca6,037326dc,Marie Nixon MD,Other,23,angelacline@maldonado-rose.info,Cynthiaport,Kansas,USA,941e8486,T-Shirt,Clothing,T-Shirt Model 9,113.15,2,12/31/2024,4/17/2024,Credit Card,5
+6678e2c9,78bbd10d,Daniel Rodriguez,Female,54,danielmontoya@hotmail.com,North Patriciaville,Vermont,USA,3b4bb1b2,Comics,Books,Comics Model 9,287.25,5,7/13/2023,7/8/2024,Credit Card,2
+bac0e5f7,b64c7d00,Eric Warren,Female,63,hendersonsteven@cooper.com,Mcdanielfort,New Hampshire,USA,3dc8e719,Blender,Home & Kitchen,Blender Model 2,586.04,4,11/2/2023,3/20/2025,UPI,4
+8c7682a5,bc40e251,Tonya Davis,Female,52,kevingarcia@phillips.info,Lake Karenburgh,Alaska,USA,53f57068,T-Shirt,Clothing,T-Shirt Model 6,324.15,4,12/7/2023,12/10/2023,Net Banking,5
+d91deb91,8cb4deb0,Catherine Keller,Female,19,daviszachary@tate.info,North Melissaside,Tennessee,USA,9ff4673d,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 2,113.83,2,6/3/2024,7/28/2024,Net Banking,5
+3dc09c14,d150b4ab,Sheila Flores,Other,23,bretthall@johnson.com,Thompsonbury,Delaware,USA,c729d4ed,Sweater,Clothing,Sweater Model 6,347.82,1,8/7/2023,3/16/2025,Net Banking,2
+62f75d35,3413ca30,Dakota Martinez,Other,46,fgraham@yahoo.com,West Teresatown,Colorado,USA,c520a8f4,Tablet,Electronics,Tablet Model 6,425.02,5,9/18/2024,4/25/2023,Credit Card,3
+2a2acd85,7a25987c,Marcus Vincent,Female,43,mccoyadam@yahoo.com,West Christophermouth,Florida,USA,0b8f2f28,Body Lotion,Beauty,Body Lotion Model 8,764.67,2,5/18/2024,1/6/2024,Debit Card,4
+eed9fb32,a06cb6cd,Brooke Davis,Male,34,marisawolfe@lee.biz,New Danielborough,New Mexico,USA,8e4178a3,Face Cream,Beauty,Face Cream Model 6,738.09,5,8/9/2023,1/11/2024,Cash on Delivery,1
+6207ad71,bc35e5f2,Heather Martin,Female,20,rubenreid@bates.info,Port Tammyside,Louisiana,USA,bd199e45,Sweater,Clothing,Sweater Model 6,36.46,5,5/8/2024,6/13/2024,Cash on Delivery,5
+5e6b00d6,287bd2a5,Sean Frazier,Female,41,michaelcarter@hotmail.com,Lake Logan,Wisconsin,USA,9952e324,Vacuum Cleaner,Home & Kitchen,Vacuum Cleaner Model 5,416.11,1,11/23/2024,10/1/2023,Debit Card,5
+c4ff7e95,f6e8f3f7,Patrick Torres,Other,36,tharris@gmail.com,North Eric,Massachusetts,USA,5fb5e749,Microwave,Home & Kitchen,Microwave Model 6,809.95,2,3/24/2025,11/9/2023,Credit Card,2
+130a19e3,85162cc2,Wyatt Cox,Other,57,elliottlisa@gmail.com,Robinsonside,Oklahoma,USA,760684c2,Blender,Home & Kitchen,Blender Model 8,770.39,4,2/19/2024,12/11/2024,UPI,3
+66bbf9b1,43412b82,Shelby Stewart,Male,65,melanie18@gmail.com,East Marcville,Indiana,USA,79813ba7,Body Lotion,Beauty,Body Lotion Model 3,27.93,5,2/15/2024,8/6/2024,Debit Card,4
+1f6914ef,0c5b3af2,Robert Reed,Female,35,wtaylor@gmail.com,Port Jamesmouth,North Dakota,USA,b8767926,Blender,Home & Kitchen,Blender Model 3,184.73,3,2/15/2025,4/10/2024,Cash on Delivery,4
+85c7ec45,fafadd2a,David Stanley,Other,57,ingramjoseph@gmail.com,Mirandaside,Vermont,USA,51da8522,Shoes,Clothing,Shoes Model 2,304.73,2,8/15/2024,10/29/2024,Credit Card,1
+c7fda8ff,19939991,Daniel Smith,Female,65,freemanjohn@gmail.com,Allenchester,Wyoming,USA,3d3b7d2d,Coffee Maker,Home & Kitchen,Coffee Maker Model 4,948.3,5,5/3/2024,5/2/2024,Net Banking,4
+991233cf,fc79c1b1,Jason Glenn,Male,64,kellyandrew@hanna-howard.com,Lake Kimberly,Florida,USA,f5e9bedc,Headphones,Electronics,Headphones Model 2,204.33,4,7/12/2024,12/22/2023,UPI,3
+c852600d,7855a4fb,Mary Mccoy,Male,61,pkemp@gmail.com,Allenfurt,Nebraska,USA,6ae489e7,T-Shirt,Clothing,T-Shirt Model 4,196.03,3,2/11/2024,8/8/2023,Debit Card,1
+3cc075d4,7ef1fbec,Theodore Frazier,Male,35,laurensoto@kline.com,Alvarezmouth,New Jersey,USA,e4fb79e5,Shoes,Clothing,Shoes Model 5,194.94,5,11/18/2024,6/2/2024,Net Banking,4
+c18cff22,028fd0aa,Alexander Taylor,Male,39,katie08@hotmail.com,North Jasonhaven,Oklahoma,USA,14b4c433,Comics,Books,Comics Model 9,381.12,1,6/4/2023,7/20/2023,Debit Card,4
+da3e0972,783a0810,Laurie Olson,Female,24,martinezjennifer@yahoo.com,Racheltown,Connecticut,USA,3d27062b,Face Cream,Beauty,Face Cream Model 10,136.54,3,1/28/2024,4/2/2024,UPI,2
+b4eaeed6,734fa9cb,Kenneth Orozco,Male,37,kstrong@dickson.org,Stevenside,South Carolina,USA,9928f96f,Fiction,Books,Fiction Model 3,189.44,4,5/6/2023,12/7/2023,Debit Card,3
+51d9afaa,6a90a041,Richard Mccarthy,Male,26,ruthgarcia@yahoo.com,Rogerhaven,Michigan,USA,9a28f3fb,Smartwatch,Electronics,Smartwatch Model 6,398.5,3,11/30/2023,1/22/2024,Credit Card,2
+d2478f99,de37881b,Megan Adams,Other,34,laurie68@hotmail.com,Richardsbury,South Dakota,USA,612ae7c9,Toaster,Home & Kitchen,Toaster Model 6,135.78,1,10/19/2024,8/2/2023,UPI,1
+f7e8cef9,8127fecb,Tiffany Young,Female,40,towens@hotmail.com,Jessicaberg,New Jersey,USA,31f35170,Face Cream,Beauty,Face Cream Model 4,54.9,3,1/11/2025,6/10/2023,Net Banking,4
+19d0c2ff,af2540f7,Kristin Horn,Other,49,tayloramy@gibbs.com,Portertown,South Dakota,USA,e2813f56,Biography,Books,Biography Model 3,682.18,5,6/6/2023,4/8/2023,Cash on Delivery,5
+ac994e1c,5c042249,Melissa Campbell,Male,38,felicia03@yahoo.com,West Sherri,Alabama,USA,fd1c7cb3,Tablet,Electronics,Tablet Model 10,348.31,3,1/20/2025,6/20/2024,Net Banking,1
+cb0e3a9b,dc845f8d,Alexa Terry,Other,63,benjamin86@yahoo.com,Dustinfurt,Ohio,USA,1c84ed0b,Toaster,Home & Kitchen,Toaster Model 5,435.39,3,7/22/2023,3/5/2025,UPI,1
+997c80b4,eaa1e779,Christopher Roman,Female,62,gina24@ramos.com,East Susanfort,Washington,USA,4db71fbd,Headphones,Electronics,Headphones Model 3,24.45,5,10/24/2024,5/25/2024,UPI,4
+44f26e5b,ecd6e53b,Breanna Miller,Male,42,troysalas@yahoo.com,New Andrea,Indiana,USA,0bc98bc1,Shampoo,Beauty,Shampoo Model 7,208.63,3,2/6/2025,3/31/2024,UPI,3
+a73aa5b5,16ceb344,Robin Tanner,Male,31,michaellivingston@jennings.com,Caseyburgh,Colorado,USA,760741cf,Smartphone,Electronics,Smartphone Model 9,232.4,3,5/24/2024,3/17/2024,Cash on Delivery,1
